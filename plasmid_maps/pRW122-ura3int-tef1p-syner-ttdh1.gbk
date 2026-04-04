@@ -1,0 +1,876 @@
+LOCUS       pRW122-ura3int-t        6679 bp    DNA     circular SYN 01-APR-2024
+DEFINITION  .
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 6679)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Apr 3, 2026 from SnapGene 8.2.2
+            https://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..6679
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     primer_bind     14..37
+                     /label=2031
+                     /note="color: black; sequence: TTTCTGCGCGTAATCTGCTGCTTG; 
+                     added: 2023-04-14"
+     primer_bind     complement(14..33)
+                     /label=1216
+                     /note="color: black; sequence: CAGCAGATTACGCGCAGAAA; added:
+                     2023-04-14"
+     primer_bind     15..34
+                     /label=1644
+                     /note="color: black; sequence: TTCTGCGCGTAATCTGCTGC; added:
+                     2023-04-14"
+     primer_bind     15..31
+                     /label=1629
+                     /note="color: black; sequence: ttctgcgcgtaatctgc; added: 
+                     2023-04-14"
+     primer_bind     complement(107..126)
+                     /label=1832
+                     /note="color: black; sequence: CTGCTGAAGCCAGTTACCTT; added:
+                     2023-04-14"
+     primer_bind     181..200
+                     /label=5484
+                     /note="color: black; sequence: CAAGAACTCTGTAGCACCGC; added:
+                     2023-04-14"
+     primer_bind     complement(195..212)
+                     /label=1264
+                     /note="color: black; sequence: CGAGGTATGTAGGCGGTG; added: 
+                     2023-04-14"
+     primer_bind     complement(199..218)
+                     /label=5485
+                     /note="color: black; sequence: GCAGAGCGAGGTATGTAGGC; added:
+                     2023-04-14"
+     primer_bind     346..379
+                     /label=2173
+                     /note="color: black; sequence: 
+                     CTTGGAGCGAACGACCTACACCGAACTGAGATAC; added: 2023-04-14"
+     primer_bind     350..379
+                     /label=2130
+                     /note="color: black; sequence: 
+                     gagcgaacgacctacaccgaactgagatac; added: 2023-04-14"
+     primer_bind     complement(353..377)
+                     /label=1960
+                     /note="color: black; sequence: ATCTCAGTTCGGTGTAGGTCGTTCG; 
+                     added: 2023-04-14"
+     primer_bind     complement(366..392)
+                     /label=3759
+                     /note="color: black; sequence: GCTCACGCTGTAGGTATCTCAGTTCGG;
+                     added: 2023-04-14"
+     primer_bind     366..392
+                     /label=3761
+                     /note="color: black; sequence: CCGAACTGAGATACCTACAGCGTGAGC;
+                     added: 2023-04-14"
+     primer_bind     429..448
+                     /label=3750
+                     /note="color: black; sequence: CGGACAGGTATCCGGTAAGC; added:
+                     2023-04-14"
+     primer_bind     451..469
+                     /label=1215
+                     /note="color: black; sequence: CAGGGTCGGAACAGGAGAG; added: 
+                     2023-04-14"
+     primer_bind     complement(515..532)
+                     /label=7564
+                     /note="color: black; sequence: GTGGCGAAACCCGACAGG; added: 
+                     2023-04-14"
+     primer_bind     520..539
+                     /label=6878
+                     /note="color: black; sequence: Cgggtttcgccacctctgac; added:
+                     2023-04-14"
+     primer_bind     complement(522..545)
+                     /label=6980
+                     /note="color: black; sequence: gctcaagtcagaggtggcgaaacc; 
+                     added: 2023-04-14"
+     primer_bind     522..545
+                     /label=6981
+                     /note="color: black; sequence: ggtttcgccacctctgacttgagc; 
+                     added: 2023-04-14"
+     primer_bind     546..570
+                     /label=3469
+                     /note="color: black; sequence: GTCGATTTTTGTGATGCTCGTCAGG; 
+                     added: 2023-04-14"
+     primer_bind     548..570
+                     /label=3095
+                     /note="color: black; sequence: CGATTTTTGTGATGCTCGTCAGG; 
+                     added: 2023-04-14"
+     primer_bind     584..603
+                     /label=E418
+                     /note="color: black; sequence: tggaaaaacgccagcaacgc; added:
+                     2023-04-14"
+     primer_bind     complement(585..607)
+                     /label=E500
+                     /note="color: black; sequence: ggccgcgttgctggcgtttttcc; 
+                     added: 2023-04-14"
+     primer_bind     complement(588..607)
+                     /label=E640
+                     /note="color: black; sequence: GGCCGCGTTGCTGGCGTTTT; added:
+                     2023-04-14"
+     primer_bind     603..623
+                     /label=G210
+                     /note="color: black; sequence: cggcctttttacggttcctgg; 
+                     added: 2023-04-14"
+     primer_bind     614..634
+                     /label=2744
+                     /note="color: black; sequence: cggttcctggccttttgctgg; 
+                     added: 2023-04-14"
+     primer_bind     616..633
+                     /label=D386
+                     /note="color: black; sequence: GTTCCTGGCCTTTTGCTG; added: 
+                     2023-04-14"
+     primer_bind     complement(623..643)
+                     /label=F924
+                     /note="color: black; sequence: AGCAAAAGGCCAGCAAAAGGC; 
+                     added: 2023-04-14"
+     primer_bind     623..643
+                     /label=F925
+                     /note="color: black; sequence: GCCTTTTGCTGGCCTTTTGCT; 
+                     added: 2023-04-14"
+     primer_bind     625..644
+                     /label=E870
+                     /note="color: black; sequence: cttttgctggccttttgctc; added:
+                     2023-04-14"
+     primer_bind     complement(652..677)
+                     /label=B666
+                     /note="color: black; sequence: cagaatcaggggataacgcaggaaag; 
+                     added: 2023-04-14"
+     primer_bind     660..677
+                     /label=6755
+                     /note="color: black; sequence: CGTTATCCCCTGATTCTG; added: 
+                     2023-04-14"
+     primer_bind     complement(669..688)
+                     /label=G065
+                     /note="color: black; sequence: acggttatccacagaatcag; added:
+                     2023-04-14"
+     primer_bind     677..692
+                     /label=E704
+                     /note="color: black; sequence: gtggataaccgtgcgg; added: 
+                     2023-04-14"
+     misc_feature    701..1200
+                     /label=URA3 5' Homology
+                     /note="color: #a6acb3"
+     primer_bind     893..921
+                     /label=8792
+                     /note="color: black; sequence: 
+                     TGATAAGAAGAGTATTGAGAAGGGCAACG; added: 2023-04-14"
+     primer_bind     979..1003
+                     /label=6769
+                     /note="color: black; sequence: TTGAGGCTACTGCGCCAATTGATGA; 
+                     added: 2023-04-14"
+     primer_bind     1052..1076
+                     /label=2716
+                     /note="color: black; sequence: TTAAAGATGCTAAGAGATAGTGATG; 
+                     added: 2023-04-14"
+     primer_bind     1121..1180
+                     /label=C254
+                     /note="color: black; sequence: 
+                     ttgcgaggcatatttatggtgaaggataagttttgaccatcaaagaaggttaatgtggc
+                     t; added: 2023-04-14"
+     primer_bind     complement(1181..1200)
+                     /label=B785
+                     /note="color: black; sequence: tttatggaccctgaaaccac; added:
+                     2023-04-14"
+     misc_feature    complement(1201..1220)
+                     /label=URA3 5' barcode
+                     /note="color: #a6acb3; direction: LEFT"
+     protein_bind    complement(1240..1243)
+                     /label=BsmBI
+                     /note="color: #31849b; direction: LEFT"
+     protein_bind    complement(1245..1250)
+                     /label=BsmBI
+                     /note="color: #31849b; direction: LEFT"
+     misc_feature    1251..1393
+                     /label=ConS
+                     /note="color: #a6acb3"
+     primer_bind     1251..1269
+                     /label=226
+                     /note="color: black; sequence: TGGTAGAGCCACAAACAGC; added: 
+                     2023-04-14"
+     primer_bind     1297..1315
+                     /label=1537
+                     /note="color: black; sequence: TCTGAATCATGCGCGGATG; added: 
+                     2023-04-14"
+     primer_bind     1301..1320
+                     /label=1534
+                     /note="color: black; sequence: AATCATGCGCGGATGACACG; added:
+                     2023-04-14"
+     primer_bind     complement(1374..1393)
+                     /label=3617
+                     /note="color: black; sequence: GTATTGCGACGAATTGCCAC; added:
+                     2023-04-14"
+     primer_bind     complement(1378..1394)
+                     /label=580
+                     /note="color: black; sequence: tGTATTGCGACGAATTG; added: 
+                     2023-04-14"
+     promoter        1398..2097
+                     /label=ScTEF1 Promoter
+                     /note="color: #ffffff"
+     primer_bind     1398..1427
+                     /label=F235
+                     /note="color: black; sequence: 
+                     ccttgccaacagggagttcttcagagacat; added: 2023-04-14"
+     primer_bind     1398..1416
+                     /label=7335
+                     /note="color: black; sequence: ccttgccaacagggagttc; added: 
+                     2023-04-14"
+     primer_bind     complement(1500..1525)
+                     /label=B024
+                     /note="color: black; sequence: gcattgtttatacgctattatcagcc; 
+                     added: 2023-04-14"
+     primer_bind     1519..1540
+                     /label=F928
+                     /note="color: black; sequence: ACAATGCATACTTTGTACGTTC; 
+                     added: 2023-04-14"
+     primer_bind     1863..1888
+                     /label=D516
+                     /note="color: black; sequence: GTTTCTTTTTCTTCGTCGAAAAAGGC; 
+                     added: 2023-04-14"
+     primer_bind     1961..1991
+                     /label=B025
+                     /note="color: black; sequence: 
+                     ccattgatatttaagttaataaacggtcatc; added: 2023-04-14"
+     primer_bind     complement(2066..2097)
+                     /label=9987
+                     /note="color: black; sequence: 
+                     tttgtaattaaaacttagattagattgctatg; added: 2023-04-14"
+     RBS             2113..2118
+                     /label=Kozak
+                     /note="color: #a6acb3"
+     CDS             2119..3576
+                     /codon_start=1
+                     /label=synTF-ZF97-4-ER-VP16
+                     /note="color: #a6acb3"
+                     /translation="MERPFQCRICMRNFSRQSNLSRHTRTHTGEKPFQCRICMRNFSRN
+                     EHLVLHLRTHTGEKPFQCRICMRNFSQKTGLRVHLKTHLRGDGAGLIDIDSAGDMRAAN
+                     LWPSPLMIKRSKKNSLALSLTADQMVSALLDAEPPILYSEYDPTRPFSEASMMGLLTNL
+                     ADRELVHMINWAKRVPGFVDLTLHDQVHLLECAWLEILMIGLVWRSMEHPVKLLFAPNL
+                     LLDRNQGKCVEGMVEIFDMLLATSSRFRMMNLQGEEFVCLKSIILLNSGVYTFLSSTLK
+                     SLEEKDHIHRVLDKITDTLIHLMAKAGLTLQQQHQRLAQLLLILSHIRHMSNKGMEHLY
+                     SMKCKNVVPLYDLLLEMLDAHRLHAPTSRGGASVEETDQSHLATAGSTSSHSLQKYYIT
+                     GEAEGFPATVGDGAGLINASHLDGEDVAMAHADALDDFDLDMLGDGDSPGPGFTPHDSA
+                     PYGALDMADFEFEQMFTDALGIDEYGG"
+     primer_bind     3583..3602
+                     /label=B637
+                     /note="color: black; sequence: atcctaactcgagataaagc; added:
+                     2023-04-14"
+     terminator      3596..3819
+                     /label=ScTDH1 Terminator
+                     /note="color: #ffffff"
+     primer_bind     3596..3621
+                     /label=6376
+                     /note="color: black; sequence: ataaagcaatcttgatgaggataatg; 
+                     added: 2023-04-14"
+     primer_bind     complement(3776..3792)
+                     /label=1623
+                     /note="color: black; sequence: GACGTTCTCGCCATAAC; added: 
+                     2023-04-14"
+     primer_bind     complement(3793..3819)
+                     /label=6946
+                     /note="color: black; sequence: cgttcagggtaatatattttaaccgcc;
+                     added: 2023-04-14"
+     primer_bind     complement(3796..3819)
+                     /label=9341
+                     /note="color: black; sequence: cgttcagggtaatatattttaacc; 
+                     added: 2023-04-14"
+     primer_bind     complement(3823..3846)
+                     /label=D500
+                     /note="color: black; sequence: agcaccactgacgagcagatttcc; 
+                     added: 2023-04-14"
+     misc_feature    3824..3966
+                     /label=ConE
+                     /note="color: #a6acb3"
+     primer_bind     3826..3849
+                     /label=D501
+                     /note="color: black; sequence: aatctgctcgtcagtggtgctcac; 
+                     added: 2023-04-14"
+     primer_bind     complement(3926..3946)
+                     /label=E637
+                     /note="color: black; sequence: TATATGCAGTGGTGTTCGCCG; 
+                     added: 2023-04-14"
+     protein_bind    3967..3972
+                     /label=BsmBI
+                     /note="color: #31849b"
+     misc_feature    3974..3998
+                     /label=ConE scar
+                     /note="color: #a6acb3"
+     protein_bind    3974..3977
+                     /label=BsmBI
+                     /note="color: #31849b"
+     primer_bind     complement(3998..4047)
+                     /label=E922
+                     /note="color: black; sequence: 
+                     taccgaatcaaaaaaatttcaaggaaaccgtgtactgcagtgcactagtg; added: 
+                     2023-04-14"
+     primer_bind     3998..4017
+                     /label=E921
+                     /note="color: black; sequence: cactagtgcactgcagtaca; added:
+                     2023-04-14"
+     primer_bind     complement(4000..4017)
+                     /label=F913
+                     /note="color: black; sequence: tgtactgcagtgcactag; added: 
+                     2023-04-14"
+     promoter        4018..4194
+                     /label=URA3 Promoter
+                     /note="color: #ffffff"
+     primer_bind     4018..4050
+                     /label=G192
+                     /note="color: black; sequence: 
+                     cggtttccttgaaatttttttgattcggtaatc; added: 2023-04-14"
+     primer_bind     4018..4039
+                     /label=B735
+                     /note="color: black; sequence: cggtttccttgaaatttttttg; 
+                     added: 2023-04-14"
+     primer_bind     4067..4086
+                     /label=1219
+                     /note="color: black; sequence: AACGAAGGAAGGAGCACAGA; added:
+                     2023-04-14"
+     primer_bind     complement(4166..4194)
+                     /label=1266
+                     /note="color: black; sequence: 
+                     GATTTATCTTCGTTTCCTGCACGTTTTTG; added: 2023-04-14"
+     primer_bind     complement(4173..4194)
+                     /label=260
+                     /note="color: black; sequence: GATTTATCTTCGTTTCCTGCAC; 
+                     added: 2023-04-14"
+     primer_bind     complement(4173..4194)
+                     /label=265
+                     /note="color: black; sequence: GATTTATCTTCGTTTCCTGCAC; 
+                     added: 2023-04-14"
+     primer_bind     4175..4219
+                     /label=503
+                     /note="color: black; sequence: 
+                     gcaggaaacgaagataaatcATGTCGAAAGCTACATATAAGGAAC; added: 
+                     2023-04-14"
+     primer_bind     complement(4175..4194)
+                     /label=505
+                     /note="color: black; sequence: GATTTATCTTCGTTTCCTGC; added:
+                     2023-04-14"
+     primer_bind     complement(4175..4194)
+                     /label=1273
+                     /note="color: black; sequence: GATTTATCTTCGTTTCCTGC; added:
+                     2023-04-14"
+     CDS             4195..4998
+                     /codon_start=1
+                     /label=URA3
+                     /note="color: #993366"
+                     /translation="MSKATYKERAATHPSPVAAKLFNIMHEKQTNLCASLDVRTTKELL
+                     ELVEALGPKICLLKTHVDILTDFSMEGTVKPLKALSAKYNFLLFEDRKFADIGNTVKLQ
+                     YSAGVYRIAEWADITNAHGVVGPGIVSGLKQAAEEVTKEPRGLLMLAELSCKGSLSTGE
+                     YTKGTVDIAKSDKDFVIGFIAQRDMGGRDEGYDWLIMTPGVGLDDKGDALGQQYRTVDD
+                     VVSTGSDIIIVGRGLFAKGRDAKVEGERYRKAGWEAYLRRCGQQN"
+     primer_bind     4195..4216
+                     /label=A394
+                     /note="color: black; sequence: atgTCGaaagctacatataagg; 
+                     added: 2023-04-14"
+     primer_bind     4199..4218
+                     /label=32
+                     /note="color: black; sequence: CGAAAGCTACATATAAGGAA; added:
+                     2023-04-14"
+     primer_bind     4210..4229
+                     /label=1276
+                     /note="color: black; sequence: TATAAGGAACGTGCTGCTAC; added:
+                     2023-04-14"
+     primer_bind     complement(4226..4245)
+                     /label=4223
+                     /note="color: black; sequence: AACAGGACTAGGATGAGTAG; added:
+                     2023-04-14"
+     primer_bind     4240..4299
+                     /label=F478
+                     /note="color: black; sequence: 
+                     cctgttgctgccaagctatttaatatcatgCaCgaaaagcaaacaaacttgtgtgcttc
+                     a; added: 2023-04-14"
+     primer_bind     complement(4247..4269)
+                     /label=5954
+                     /note="color: black; sequence: catgatattaaatagcttggcag; 
+                     added: 2023-04-14"
+     primer_bind     complement(4310..4329)
+                     /label=5956
+                     /note="color: black; sequence: cagtaattccttggtggtac; added:
+                     2023-04-14"
+     primer_bind     4328..4352
+                     /label=8667
+                     /note="color: black; sequence: tggagttagttgaagcattaggtcc; 
+                     added: 2023-04-14"
+     primer_bind     4365..4412
+                     /label=A432
+                     /note="color: black; sequence: 
+                     actaaaaacacatgtggatatcttgactgatttttccatggagggcac; added: 
+                     2023-04-14"
+     primer_bind     complement(4373..4394)
+                     /label=A433
+                     /note="color: black; sequence: tcagtcaagatatccacatgtg; 
+                     added: 2023-04-14"
+     primer_bind     complement(4390..4449)
+                     /label=F479
+                     /note="color: black; sequence: 
+                     attgtacttggcggataatgcctttagcggctTaactgtgccctccatggaaaaatcag
+                     t; added: 2023-04-14"
+     primer_bind     complement(4401..4416)
+                     /label=5958
+                     /note="color: black; sequence: aactgtgccctccatg; added: 
+                     2023-04-14"
+     primer_bind     4409..4428
+                     /label=302
+                     /note="color: black; sequence: GCACAGTTAAGCCGCTAAAG; added:
+                     2023-04-14"
+     primer_bind     4485..4506
+                     /label=9458
+                     /note="color: black; sequence: TGGTAATACAGTCAAATTGCAG; 
+                     added: 2023-04-14"
+     primer_bind     4510..4529
+                     /label=35
+                     /note="color: black; sequence: TCTGCGGGTGTATACAGAAT; added:
+                     2023-04-14"
+     primer_bind     complement(4549..4568)
+                     /label=72
+                     /note="color: black; sequence: ACCACACCGTGTGCATTCGT; added:
+                     2023-04-14"
+     primer_bind     complement(4584..4603)
+                     /label=37
+                     /note="color: black; sequence: CCGCCTGCTTCAAACCGCTA; added:
+                     2023-04-14"
+     primer_bind     complement(4586..4605)
+                     /label=21
+                     /note="color: black; sequence: TGCCGCCTGCTTCAAACCGC; added:
+                     2023-04-14"
+     primer_bind     4624..4643
+                     /label=36
+                     /note="color: black; sequence: CCTAGAGGCCTTTTGATGTT; added:
+                     2023-04-14"
+     primer_bind     4644..4663
+                     /label=390
+                     /note="color: black; sequence: AGCAGAATTGTCATGCAAGG; added:
+                     2023-04-14"
+     primer_bind     complement(4746..4765)
+                     /label=391
+                     /note="color: black; sequence: TTCCACCCATGTCTCTTTGA; added:
+                     2023-04-14"
+     primer_bind     complement(4874..4898)
+                     /label=E217
+                     /note="color: black; sequence: cttccaacaataataatgtcagatc; 
+                     added: 2023-04-14"
+     primer_bind     4874..4898
+                     /label=E218
+                     /note="color: black; sequence: gatctgacattattattgttggaag; 
+                     added: 2023-04-14"
+     primer_bind     4879..4915
+                     /label=2851
+                     /note="color: black; sequence: 
+                     GACATTATTATTGTTGGAAGAGGACTATTTGCAAAGG; added: 2023-04-14"
+     primer_bind     4894..4916
+                     /label=D109
+                     /note="color: black; sequence: GGAAGAGGACTATTTGCAAAGGG; 
+                     added: 2023-04-14"
+     primer_bind     4908..4957
+                     /label=9505
+                     /note="color: black; sequence: 
+                     tgcaaagggaagggatgctaaggtagagggtgaacgttacagaaaagcag; added: 
+                     2023-04-14"
+     primer_bind     complement(4918..4967)
+                     /label=9508
+                     /note="color: black; sequence: 
+                     gcttcccagcctgcttttctgtaacgttcaccctctaccttagcatccct; added: 
+                     2023-04-14"
+     primer_bind     4927..4946
+                     /label=74
+                     /note="color: black; sequence: AAGGTAGAGGGTGAACGTTA; added:
+                     2023-04-14"
+     primer_bind     4942..4963
+                     /label=2742
+                     /note="color: black; sequence: CGTTACAGAAAAGCAGGCTGGG; 
+                     added: 2023-04-14"
+     primer_bind     4960..4982
+                     /label=8329
+                     /note="color: black; sequence: tgggaagcatatttgagaagatg; 
+                     added: 2023-04-14"
+     primer_bind     complement(4970..4989)
+                     /label=33
+                     /note="color: black; sequence: CTGGCCGCATCTTCTCAAAT; added:
+                     2023-04-14"
+     primer_bind     complement(4979..5019)
+                     /label=504
+                     /note="color: black; sequence: 
+                     atttacttataatacagttttTTAGTTTTGCTGGCCGCATC; added: 
+                     2023-04-14"
+     primer_bind     complement(4979..4998)
+                     /label=8330
+                     /note="color: black; sequence: ttagttttgctggccgcatc; added:
+                     2023-04-14"
+     primer_bind     complement(4979..4998)
+                     /label=A393
+                     /note="color: black; sequence: ttagttttgctggccgcatc; added:
+                     2023-04-14"
+     primer_bind     complement(4981..5019)
+                     /label=735
+                     /note="color: black; sequence: 
+                     atttacttataatacagttttTTAGTTTTGCTGGCCGCA; added: 2023-04-14"
+     primer_bind     complement(4982..4998)
+                     /label=F541
+                     /note="color: black; sequence: ttagttttgctggccgc; added: 
+                     2023-04-14"
+     terminator      4999..5076
+                     /label=URA3 Terminator
+                     /note="color: #ffffff"
+     primer_bind     4999..5039
+                     /label=263
+                     /note="color: black; sequence: 
+                     aaaactgtatTATAAGTAAATGCATGTATACTAAACTCACA; added: 
+                     2023-04-14"
+     primer_bind     4999..5029
+                     /label=259
+                     /note="color: black; sequence: 
+                     AAAACTGTATTATAAGTAAATGCATGTATAC; added: 2023-04-14"
+     primer_bind     4999..5024
+                     /label=506
+                     /note="color: black; sequence: AAAACTGTATTATAAGTAAATGCATG; 
+                     added: 2023-04-14"
+     primer_bind     5024..5048
+                     /label=50
+                     /note="color: black; sequence: GTATACTAAACTCACAAATTAGAGC; 
+                     added: 2023-04-14"
+     primer_bind     complement(5028..5054)
+                     /label=1220
+                     /note="color: black; sequence: ATTGAAGCTCTAATTTGTGAGTTTAGT;
+                     added: 2023-04-14"
+     primer_bind     complement(5036..5076)
+                     /label=E137
+                     /note="color: black; sequence: 
+                     gggtaataactgatataattaaattgaagctctaatttgtg; added: 
+                     2023-04-14"
+     primer_bind     complement(5047..5076)
+                     /label=G040
+                     /note="color: black; sequence: 
+                     gggtaataactgatataattaaattgaagc; added: 2023-04-14"
+     misc_feature    5081..5100
+                     /label=URA3 3' barcode
+                     /note="color: #a6acb3"
+     misc_feature    5101..5600
+                     /label=URA3 3' Homology
+                     /note="color: #a6acb3"
+     primer_bind     complement(5114..5137)
+                     /label=C269
+                     /note="color: black; sequence: CGTCATTATAGAAATCATTACGAC; 
+                     added: 2023-04-14"
+     primer_bind     complement(5217..5239)
+                     /label=2743
+                     /note="color: black; sequence: GATTTGTGCCCCGTAAAATACTG; 
+                     added: 2023-04-14"
+     primer_bind     complement(5301..5322)
+                     /label=9461
+                     /note="color: black; sequence: CTTTTGTTCCACTACTTTTTGG; 
+                     added: 2023-04-14"
+     primer_bind     complement(5524..5564)
+                     /label=8793
+                     /note="color: black; sequence: 
+                     AGATACATAATTAGATATATATACGCCAGTACACCTTATCG; added: 
+                     2023-04-14"
+     primer_bind     complement(5559..5580)
+                     /label=98
+                     /note="color: black; sequence: AAATGGGCTACACCAGAGATAC; 
+                     added: 2023-04-14"
+     primer_bind     complement(5612..5636)
+                     /label=D387
+                     /note="color: black; sequence: GAATTGGTTAATTGGTTGTAACACG; 
+                     added: 2023-04-14"
+     terminator      complement(5613..5639)
+                     /label=KanR Terminator
+                     /note="color: #ffffff; direction: LEFT"
+     primer_bind     5613..5636
+                     /label=D436
+                     /note="color: black; sequence: gtgttacaaccaattaaccaattc; 
+                     added: 2023-04-14"
+     CDS             complement(5640..6455)
+                     /codon_start=1
+                     /label=KanR
+                     /note="color: #ccffcc"
+                     /translation="MSHIQRETSCSRPRLNSNMDADLYGYKWARDNVGQSGATIYRLYG
+                     KPDAPELFLKHGKGSVANDVTDEMVRLNWLTEFMPLPTIKHFIRTPDDAWLLTTAIPGK
+                     TAFQVLEEYPDSGENIVDALAVFLRRLHSIPVCNCPFNSDRVFRLAQAQSRMNNGLVDA
+                     SDFDDERNGWPVEQVWKEMHKLLPFSPDSVVTHGDFSLDNLIFDEGKLIGCIDVGRVGI
+                     ADRYQDLAILWNCLGEFSPSLQKRLFQKYGIDNPDMNKLQFHLMLDEFF"
+     primer_bind     5640..5659
+                     /label=178
+                     /note="color: black; sequence: TTAGAAAAACTCATCGAGCA; added:
+                     2023-04-14"
+     primer_bind     complement(5649..5676)
+                     /label=1962
+                     /note="color: black; sequence: 
+                     ATTGCAGTTTCATTTGATGCTCGATGAG; added: 2023-04-14"
+     primer_bind     5649..5676
+                     /label=B351
+                     /note="color: black; sequence: 
+                     ctcatcgagcatcaaatgaaactgcaat; added: 2023-04-14"
+     primer_bind     5649..5668
+                     /label=174
+                     /note="color: black; sequence: CTCATCGAGCATCAAATGAA; added:
+                     2023-04-14"
+     primer_bind     complement(5657..5681)
+                     /label=B263
+                     /note="color: black; sequence: aataaattgcagtttcatttgatgc; 
+                     added: 2023-04-14"
+     primer_bind     5831..5855
+                     /label=191
+                     /note="color: black; sequence: CCTCGTCAAAAATAAGGTTATCAAG; 
+                     added: 2023-04-14"
+     primer_bind     5879..5896
+                     /label=C927
+                     /note="color: black; sequence: ctgaatccggtgagaatg; added: 
+                     2023-04-14"
+     primer_bind     complement(5887..5910)
+                     /label=7772
+                     /note="color: black; sequence: gcataagcttttgccattctcacc; 
+                     added: 2023-04-14"
+     primer_bind     complement(5890..5910)
+                     /label=5308
+                     /note="color: black; sequence: gcataagcttttgccattctc; 
+                     added: 2023-04-14"
+     primer_bind     5890..5910
+                     /label=5309
+                     /note="color: black; sequence: gagaatggcaaaagcttatgc; 
+                     added: 2023-04-14"
+     primer_bind     complement(5942..5966)
+                     /label=3840
+                     /note="color: black; sequence: agtgattttgatgacgagcgtaatg; 
+                     added: 2023-04-14"
+     primer_bind     complement(5943..5964)
+                     /label=7354
+                     /note="color: black; sequence: TGATTTTGATGACGAGCGTAAT; 
+                     added: 2023-04-14"
+     primer_bind     5944..5963
+                     /label=3838
+                     /note="color: black; sequence: ttacgctcgtcatcaaaatc; added:
+                     2023-04-14"
+     primer_bind     5952..5980
+                     /label=F847
+                     /note="color: black; sequence: 
+                     gtcatcaaaatcactcgcatcaaccaaac; added: 2023-04-14"
+     primer_bind     complement(5952..5980)
+                     /label=F848
+                     /note="color: black; sequence: 
+                     gtttggttgatgcgagtgattttgatgac; added: 2023-04-14"
+     primer_bind     complement(6067..6095)
+                     /label=3861
+                     /note="color: black; sequence: 
+                     gttgatgcgctggcagtgttcctgcgccg; added: 2023-04-14"
+     primer_bind     6074..6104
+                     /label=3862
+                     /note="color: black; sequence: 
+                     ggaacactgccagcgcatcaacaatattttc; added: 2023-04-14"
+     primer_bind     complement(6079..6105)
+                     /label=3248
+                     /note="color: black; sequence: tgaaaatattgttgatgcgctggcagt;
+                     added: 2023-04-14"
+     primer_bind     6079..6105
+                     /label=3249
+                     /note="color: black; sequence: actgccagcgcatcaacaatattttca;
+                     added: 2023-04-14"
+     primer_bind     6104..6127
+                     /label=3247
+                     /note="color: black; sequence: CACCTGAATCAGGATATTCTTCTA; 
+                     added: 2023-04-14"
+     primer_bind     complement(6119..6145)
+                     /label=3246
+                     /note="color: black; sequence: AAACAGCATTCCAGGTATTAGAAGAAT;
+                     added: 2023-04-14"
+     primer_bind     complement(6210..6229)
+                     /label=A773
+                     /note="color: black; sequence: CGGAATTTATGCCTCTTCCG; added:
+                     2023-04-14"
+     primer_bind     6210..6229
+                     /label=A774
+                     /note="color: black; sequence: CGGAAGAGGCATAAATTCCG; added:
+                     2023-04-14"
+     primer_bind     6230..6254
+                     /label=A955
+                     /note="color: black; sequence: tcagccagtttagtctgaccatctc; 
+                     added: 2023-04-14"
+     primer_bind     complement(6232..6259)
+                     /label=1961
+                     /note="color: black; sequence: 
+                     CAGATGAGATGGTCAGACTAAACTGGCT; added: 2023-04-14"
+     primer_bind     complement(6248..6275)
+                     /label=A954
+                     /note="color: black; sequence: 
+                     gttgccaatgatgttacagatgagatgg; added: 2023-04-14"
+     primer_bind     complement(6357..6386)
+                     /label=1349
+                     /note="color: black; sequence: 
+                     tatgggtataaatgggctcgcgataatgtc; added: 2023-04-14"
+     primer_bind     6357..6386
+                     /label=1350
+                     /note="color: black; sequence: 
+                     gacattatcgcgagcccatttatacccata; added: 2023-04-14"
+     primer_bind     complement(6394..6417)
+                     /label=6938
+                     /note="color: black; sequence: gcgattaaattccaacatggatgc; 
+                     added: 2023-04-14"
+     primer_bind     6394..6417
+                     /label=6939
+                     /note="color: black; sequence: gcatccatgttggaatttaatcgc; 
+                     added: 2023-04-14"
+     primer_bind     complement(6402..6421)
+                     /label=173
+                     /note="color: black; sequence: GGCCGCGATTAAATTCCAAC; added:
+                     2023-04-14"
+     primer_bind     complement(6436..6455)
+                     /label=177
+                     /note="color: black; sequence: ATGAGCCATATTCAACGGGA; added:
+                     2023-04-14"
+     primer_bind     complement(6436..6455)
+                     /label=190
+                     /note="color: black; sequence: ATGAGCCATATTCAACGGGA; added:
+                     2023-04-14"
+     promoter        complement(6456..6603)
+                     /label=KanR Promoter
+                     /note="color: #ffffff; direction: LEFT"
+     primer_bind     6575..6625
+                     /label=D437
+                     /note="color: black; sequence: 
+                     atcgaacttttgctgagttgaaggatcagtcatgaccaaaatcccttaacg; added:
+                     2023-04-14"
+     primer_bind     complement(6581..6603)
+                     /label=D438
+                     /note="color: black; sequence: ctgatccttcaactcagcaaaag; 
+                     added: 2023-04-14"
+     rep_origin      complement(join(6604..6679,1..688))
+                     /direction=LEFT
+                     /label=ColE1
+                     /note="color: #ffff00"
+     primer_bind     complement(6606..6630)
+                     /label=3485
+                     /note="color: black; sequence: actcacgttaagggattttggtcat; 
+                     added: 2023-04-14"
+     primer_bind     6606..6630
+                     /label=3486
+                     /note="color: black; sequence: ATGACCAAAATCCCTTAACGTGAGT; 
+                     added: 2023-04-14"
+     primer_bind     6624..6647
+                     /label=C133
+                     /note="color: black; sequence: CGTGAGTTTTCGTTCCACTGAGCG; 
+                     added: 2023-04-14"
+     primer_bind     complement(6624..6647)
+                     /label=C134
+                     /note="color: black; sequence: CGCTCAGTGGAACGAAAACTCACG; 
+                     added: 2023-04-14"
+     primer_bind     complement(6656..6679)
+                     /label=E868
+                     /note="color: black; sequence: gaagatcctttgatcttttctacg; 
+                     added: 2023-04-14"
+ORIGIN
+        1 ttgagatcct ttttttctgc gcgtaatctg ctgcttgcaa acaaaaaaac caccgctacc
+       61 agcggtggtt tgtttgccgg atcaagagct accaactctt tttccgaagg taactggctt
+      121 cagcagagcg cagataccaa atactgttct tctagtgtag ccgtagttag gccaccactt
+      181 caagaactct gtagcaccgc ctacatacct cgctctgcta atcctgttac cagtggctgc
+      241 tgccagtggc gataagtcgt gtcttaccgg gttggactca agacgatagt taccggataa
+      301 ggcgcagcgg tcgggctgaa cggggggttc gtgcacacag cccagcttgg agcgaacgac
+      361 ctacaccgaa ctgagatacc tacagcgtga gctatgagaa agcgccacgc ttcccgaagg
+      421 gagaaaggcg gacaggtatc cggtaagcgg cagggtcgga acaggagagc gcacgaggga
+      481 gcttccaggg ggaaacgcct ggtatcttta tagtcctgtc gggtttcgcc acctctgact
+      541 tgagcgtcga tttttgtgat gctcgtcagg ggggcggagc ctatggaaaa acgccagcaa
+      601 cgcggccttt ttacggttcc tggccttttg ctggcctttt gctcacatgt tctttcctgc
+      661 gttatcccct gattctgtgg ataaccgtgc ggccgccaat gctaaattcg agtgaaacac
+      721 aggaagatca gaaaatcctc atttcatcca tattaacaat aatttcaaat gtttatttgc
+      781 attatttgaa actaggcaag acaagcaacg aaacgttttt gaaaattttg agtattttca
+      841 ataaatttgt agaggactca gatattgaaa aaaagctaca gcaattaata cttgataaga
+      901 agagtattga gaagggcaac ggttcatcat ctcatggatc tgcacatgaa caaacaccag
+      961 agtcaaacga cgttgaaatt gaggctactg cgccaattga tgacaataca gacgatgata
+     1021 acaaaccgaa gttatctgat gtagaaaagg attaaagatg ctaagagata gtgatgatat
+     1081 ttcataaata atgtaattct atatatgtta attacctttt ttgcgaggca tatttatggt
+     1141 gaaggataag ttttgaccat caaagaaggt taatgtggct gtggtttcag ggtccataaa
+     1201 gcccacatgg ataacattac ccctgaattc gcatctagac tgatgagacg tggtagagcc
+     1261 acaaacagcc ggtacaagca acgatctcca ggaccatctg aatcatgcgc ggatgacacg
+     1321 aactcacgac ggcgatcaca gacattaacc cacagtacag acactgcgac aacgtggcaa
+     1381 ttcgtcgcaa tacaacgcct tgccaacagg gagttcttca gagacatgga ggctcaaaac
+     1441 gaaattattg acagcctaga catcaatagt catacaacag aaagcgacca cccaactttg
+     1501 gctgataata gcgtataaac aatgcatact ttgtacgttc aaaatacaat gcagtagata
+     1561 tatttatgca tattacatat aatacatatc acataggaag caacaggcgc gttggacttt
+     1621 taattttcga ggaccgcgaa tccttacatc acacccaatc ccccacaagt gatcccccac
+     1681 acaccatagc ttcaaaatgt ttctactcct tttttactct tccagatttt ctcggactcc
+     1741 gcgcatcgcc gtaccacttc aaaacaccca agcacagcat actaaatttc ccctctttct
+     1801 tcctctaggg tgtcgttaat tacccgtact aaaggtttgg aaaagaaaaa agacaccgcc
+     1861 tcgtttcttt ttcttcgtcg aaaaaggcaa taaaaatttt tatcacgttt ctttttcttg
+     1921 aaaatttttt tttttgattt ttttctcttt cgatgacctc ccattgatat ttaagttaat
+     1981 aaacggtcat caatttctca agtttcagtt tcatttttct tgttctatta caactttttt
+     2041 tacttcttgc tcattagaaa gaaagcatag caatctaatc taagttttaa ttacaaaaga
+     2101 tctatgctcg agaaaaaaat ggagcgtccc ttccaatgta gaatttgcat gagaaacttt
+     2161 tcgagacaat ctaatttgtc aagacatacc cgtactcata ccggtgaaaa accgtttcag
+     2221 tgtcggatat gtatgcgaaa tttctcaaga aatgaacatt tggttttgca tctacgtacg
+     2281 cacaccggcg agaagccatt ccaatgcaga atatgtatga gaaactttag tcaaaaaact
+     2341 ggtttgagag ttcacctaaa aacacatctg agaggtgatg gtgctggatt gattgatatc
+     2401 gattctgctg gtgacatgag agctgcaaac ctttggccaa gcccgttaat gattaaacga
+     2461 tctaagaaaa acagtttagc tttgtccctg acggctgatc aaatggtaag tgccttgttg
+     2521 gatgctgaac ctccaatact ctattcagaa tatgatccta caagaccttt cagtgaagct
+     2581 tcgatgatgg gcttacttac taacttagca gacagggagt tagttcacat gatcaactgg
+     2641 gcaaaaaggg taccaggttt tgttgatttg accttacatg atcaagtcca ccttctagaa
+     2701 tgtgcctggc tagaaatcct aatgattgga cttgtctggc gctcaatgga acacccagtg
+     2761 aagctacttt ttgctcctaa tttgttattg gacaggaatc aaggaaaatg tgtagagggc
+     2821 atggttgaga ttttcgacat gttgttagct acatcatcta gattccgcat gatgaatctg
+     2881 caaggtgaag agtttgtgtg cctcaaatct attattttgc ttaattctgg tgtgtacaca
+     2941 tttttgtcca gcactctgaa gtctctggaa gaaaaagatc atattcatag agtcctggac
+     3001 aagatcacag atactttgat ccacttaatg gcaaaagcag gcttaaccct tcagcagcag
+     3061 caccagaggt tagctcaatt attactcatc ttatcccaca ttaggcatat gagtaacaaa
+     3121 gggatggaac atctttatag tatgaagtgc aagaatgtcg tgccactcta tgatctgttg
+     3181 ttagaaatgt tagacgccca taggctacat gcgccaactt ctcgtggagg ggcatccgtt
+     3241 gaagaaacag accaaagcca tttggccact gcaggttcta cttcatcgca ttccttgcaa
+     3301 aagtattaca taacgggtga agcagaaggt ttccctgcca cagttggtga tggagcaggc
+     3361 ttaataaatg ctagccattt agatggcgag gacgtagcga tggcgcatgc tgatgcgcta
+     3421 gatgattttg atttagacat gttgggggat ggtgattcac ctggtccagg atttactccc
+     3481 cacgactccg ccccctacgg tgctctagat atggccgact tcgaatttga acaaatgttt
+     3541 accgatgcac ttggaattga cgagtacggt gggtaagggc ccatcctaac tcgagataaa
+     3601 gcaatcttga tgaggataat gatttttttt tgaatataca taaatactac cgtttttctg
+     3661 ctagattttg tgatgacgta aataagtaca tattactttt taagccaaga caagattaag
+     3721 cattaacttt acccttttct ttctaagttt caatattagt tatcactgtt taaaagttat
+     3781 ggcgagaacg tcggcggtta aaatatatta ccctgaacgg ctggaaatct gctcgtcagt
+     3841 ggtgctcaca ctgacgaatc atgtacagat cataccgatg actgcctggc gactcacaac
+     3901 taagcaagac agccggaacc agcgccggcg aacaccactg catatatggc atatcacaac
+     3961 agtccacgtc tcaagcagtt acagagatgt tacgaaccac tagtgcactg cagtacacgg
+     4021 tttccttgaa atttttttga ttcggtaatc tccgaacaga aggaagaacg aaggaaggag
+     4081 cacagactta gattggtata tatacgcata tgtagtgttg aagaaacatg aaattgccca
+     4141 gtattcttaa cccaactgca cagaacaaaa acgtgcagga aacgaagata aatcatgtcg
+     4201 aaagctacat ataaggaacg tgctgctact catcctagtc ctgttgctgc caagctattt
+     4261 aatatcatgc acgaaaagca aacaaacttg tgtgcttcat tggatgttcg taccaccaag
+     4321 gaattactgg agttagttga agcattaggt cccaaaattt gtttactaaa aacacatgtg
+     4381 gatatcttga ctgatttttc catggagggc acagttaagc cgctaaaggc attatccgcc
+     4441 aagtacaatt ttttactctt cgaggacaga aaatttgctg acattggtaa tacagtcaaa
+     4501 ttgcagtact ctgcgggtgt atacagaata gcagaatggg cagacattac gaatgcacac
+     4561 ggtgtggtgg gcccaggtat tgttagcggt ttgaagcagg cggcagaaga agtaacaaag
+     4621 gaacctagag gccttttgat gttagcagaa ttgtcatgca agggctccct atctactgga
+     4681 gaatatacta agggtactgt tgacattgcg aagagcgaca aagattttgt tatcggcttt
+     4741 attgctcaaa gagacatggg tggaagagat gaaggttacg attggttgat tatgacaccc
+     4801 ggtgtgggtt tagatgacaa gggagatgca ttgggtcaac agtatagaac cgtggatgat
+     4861 gtggtttcta caggatctga cattattatt gttggaagag gactatttgc aaagggaagg
+     4921 gatgctaagg tagagggtga acgttacaga aaagcaggct gggaagcata tttgagaaga
+     4981 tgcggccagc aaaactaaaa aactgtatta taagtaaatg catgtatact aaactcacaa
+     5041 attagagctt caatttaatt atatcagtta ttacccgagt agagcacttg aatccactgc
+     5101 cccgggaatc tcggtcgtaa tgatttctat aatgacgaaa aaaaaaaaat tggaaagaaa
+     5161 aagcttcatg gcctttataa aaaggaacta tccaatacct cgccagaacc aagtaacagt
+     5221 attttacggg gcacaaatca agaacaataa gacaggactg taaagatgga cgcattgaac
+     5281 tccaaagaac aacaagagtt ccaaaaagta gtggaacaaa agcaaatgaa ggatttcatg
+     5341 cgtttgtact ctaatctggt agaaagatgt ttcacagact gtgtcaatga cttcacaaca
+     5401 tcaaagctaa ccaataagga acaaacatgc atcatgaagt gctcagaaaa gttcttgaag
+     5461 catagcgaac gtgtagggca gcgtttccaa gaacaaaacg ctgccttggg acaaggcttg
+     5521 ggccgataag gtgtactggc gtatatatat ctaattatgt atctctggtg tagcccattt
+     5581 ttagcatgta aatataaaga ccgagcggcc gcgtgttaca accaattaac caattctgat
+     5641 tagaaaaact catcgagcat caaatgaaac tgcaatttat tcatatcagg attatcaata
+     5701 ccatattttt gaaaaagccg tttctgtaat gaaggagaaa actcaccgag gcagttccat
+     5761 aggatggcaa gatcctggta tcggtctgcg attccgactc gtccaacatc aatacaacct
+     5821 attaatttcc cctcgtcaaa aataaggtta tcaagtgaga aatcaccatg agtgacgact
+     5881 gaatccggtg agaatggcaa aagcttatgc atttctttcc agacttgttc aacaggccag
+     5941 ccattacgct cgtcatcaaa atcactcgca tcaaccaaac cgttattcat tcgtgattgc
+     6001 gcctgagcga ggcgaaatac gcgatcgctg ttaaaaggac aattacaaac aggaatcgaa
+     6061 tgcaaccggc gcaggaacac tgccagcgca tcaacaatat tttcacctga atcaggatat
+     6121 tcttctaata cctggaatgc tgttttcccg gggatcgcag tggtgagtaa ccatgcatca
+     6181 tcaggagtac ggataaaatg cttgatggtc ggaagaggca taaattccgt cagccagttt
+     6241 agtctgacca tctcatctgt aacatcattg gcaacgctac ctttgccatg tttcagaaac
+     6301 aactctggcg catcgggctt cccatacaat cgatagattg tcgcacctga ttgcccgaca
+     6361 ttatcgcgag cccatttata cccatataaa tcagcatcca tgttggaatt taatcgcggc
+     6421 ctggagcaag acgtttcccg ttgaatatgg ctcataacac cccttgtatt actgtttatg
+     6481 taagcagaca gttttattgt tcatgatgat atatttttat cttgtgcaat gtaacatcag
+     6541 agattttgag acacaacgtg gctttgttga ataaatcgaa cttttgctga gttgaaggat
+     6601 cagtcatgac caaaatccct taacgtgagt tttcgttcca ctgagcgtca gaccccgtag
+     6661 aaaagatcaa aggatcttc
+//

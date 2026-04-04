@@ -1,0 +1,1541 @@
+LOCUS       pMAA29_146_beta-        7375 bp    DNA     linear   SYN 06-JUN-2024
+DEFINITION  synthetic linear DNA
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 7375)
+  AUTHORS   Chang Liu Lab
+  TITLE     Direct Submission
+  JOURNAL   Exported Apr 3, 2026 from SnapGene 8.2.2
+            https://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..7375
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     primer_bind     14..37
+                     /label=E868
+     primer_bind     complement(20..43)
+                     /label=9228
+                     /note="AW_BB141_F"
+     primer_bind     46..69
+                     /label=C134
+                     /note="pLenti-backbone-R"
+     primer_bind     complement(46..69)
+                     /label=C133
+                     /note="pLenti-backbone-F"
+     primer_bind     complement(59..89)
+                     /label=7975
+                     /note="GA_197gb_bb_F"
+     primer_bind     complement(63..87)
+                     /label=3486
+                     /note="GA-pRS416 bbone2 fwd"
+     primer_bind     63..87
+                     /label=3485
+                     /note="GA-pRS416 bbone1 rev"
+     primer_bind     complement(64..89)
+                     /label=3115
+                     /note="ZZ-ColE1-SacII-F"
+     primer_bind     complement(66..87)
+                     /label=2219
+                     /note="ColE1-F"
+     primer_bind     75..89
+                     /label=7974
+                     /note="GA_197gb_Amp_R"
+     primer_bind     90..111
+                     /label=7973
+                     /note="GA_197gb_Amp_F"
+     primer_bind     99..119
+                     /label=D341
+     primer_bind     complement(151..184)
+                     /label=5683
+                     /note="pTBL580-2F"
+     primer_bind     180..206
+                     /label=5146
+                     /note="ZZ-Amp-Gal-Gib-R"
+     primer_bind     182..206
+                     /label=4499
+                     /note="ZZ-AmpR-NatMX-gib-R"
+     CDS             complement(184..1044)
+                     /codon_start=1
+                     /label=BLA
+                     /translation="MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYI
+                     ELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEYS
+                     PVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRW
+                     EPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSA
+                     LPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGAS
+                     LIKHW"
+     primer_bind     187..214
+                     /label=C692
+     primer_bind     complement(187..214)
+                     /label=C693
+     primer_bind     complement(206..234)
+                     /label=C115
+                     /note="pCKC232-part2R"
+     primer_bind     206..234
+                     /label=C114
+                     /note="pCKC232-part2F"
+     primer_bind     complement(214..241)
+                     /label=A541
+                     /note="TBL-ampRbottomstrandseqR"
+     primer_bind     215..236
+                     /label=3830
+                     /note="GA_64gb_EcotoAmp_REV"
+     primer_bind     223..245
+                     /label=8930
+                     /note="KR_BB(MKATE)_DS_F"
+     primer_bind     complement(233..257)
+                     /label=6924
+                     /note="pSQTbackbone-2partGibR"
+     primer_bind     233..257
+                     /label=6923
+                     /note="pSQTbackbone-2partGibF"
+     primer_bind     283..333
+                     /label=3049
+                     /note="TBLArrayv1endSca1-nested1"
+     primer_bind     336..390
+                     /label=3050
+                     /note="TBLArrayv1endSca1-nested2"
+     primer_bind     393..452
+                     /label=3051
+                     /note="TBLArrayv1endSca1-nested3"
+     primer_bind     398..417
+                     /label=1533
+                     /note="Amp-gib-part-R"
+     primer_bind     complement(398..417)
+                     /label=1532
+                     /note="Amp-gib-part-F"
+     primer_bind     complement(430..452)
+                     /label=4944
+     primer_bind     complement(430..449)
+                     /label=3943
+                     /note="pTBL153/4oriseqR"
+     primer_bind     432..455
+                     /label=4945
+     primer_bind     453..512
+                     /label=3052
+                     /note="TBLArrayv1endSca1-nested4"
+     primer_bind     complement(504..533)
+                     /label=6042
+                     /note="AR-Ec652_bbfrag1_rvs"
+     primer_bind     complement(504..533)
+                     /label=6036
+                     /note="AR-Ec651_bbfrag1_rvs"
+     primer_bind     complement(511..520)
+                     /label=6082
+                     /note="TBL-DNMT12nd-NGSF3"
+     primer_bind     complement(511..520)
+                     /label=6080
+                     /note="TBL-DNMT12nd-NGSF2"
+     primer_bind     complement(511..520)
+                     /label=6049
+                     /note="TBL-DNMT12nd-NGSF1"
+     primer_bind     514..544
+                     /label=6043
+                     /note="AR-Ec652_bbfrag2_fwd"
+     primer_bind     514..544
+                     /label=6037
+                     /note="AR-Ec651_bbfrag2_fwd"
+     primer_bind     519..537
+                     /label=9778
+     primer_bind     522..539
+                     /label=3550
+                     /note="58/59 bbone split REV"
+     primer_bind     complement(525..550)
+                     /label=7051
+                     /note="pTBL828-ampR"
+     primer_bind     525..550
+                     /label=7050
+                     /note="pTBL828-ampF"
+     primer_bind     550..583
+                     /label=E308
+     primer_bind     complement(550..583)
+                     /label=E309
+     primer_bind     624..664
+                     /label=3958
+                     /note="AR_delpolHISA2"
+     primer_bind     complement(624..643)
+                     /label=3957
+                     /note="AR_delpolHISA1"
+     primer_bind     complement(625..647)
+                     /label=6293
+                     /note="GA_gibAmpR"
+     primer_bind     625..647
+                     /label=6292
+                     /note="GA_gibAmpF"
+     primer_bind     complement(708..746)
+                     /label=685
+                     /note="SYP46-Amp-F-2"
+     primer_bind     complement(710..747)
+                     /label=680
+                     /note="SYP46-Amp-F"
+     primer_bind     726..756
+                     /label=686
+                     /note="SYP46-pIII-R-2"
+     primer_bind     728..758
+                     /label=683
+                     /note="SYP46-pIII-R"
+     primer_bind     complement(803..825)
+                     /label=C113
+                     /note="pCKC228-part2R"
+     primer_bind     803..825
+                     /label=C112
+                     /note="pCKC228-part2F"
+     primer_bind     complement(844..864)
+                     /label=5949
+                     /note="GR_1-AmpR_fwd"
+     primer_bind     855..874
+                     /label=876
+                     /note="pMAL-R-seq"
+     primer_bind     complement(918..955)
+                     /label=C443
+     primer_bind     926..969
+                     /label=C444
+     primer_bind     complement(963..975)
+                     /label=1663
+                     /note="LibDNAPfs2"
+     primer_bind     complement(973..992)
+                     /label=3944
+                     /note="pTBL153/4markerseqR"
+     primer_bind     1009..1032
+                     /label=4956
+                     /note="pTBL503insF"
+     primer_bind     1041..1072
+                     /label=5692
+                     /note="pTBL580-6R"
+     primer_bind     complement(1058..1117)
+                     /label=1722
+                     /note="BspHI-fix-R"
+     primer_bind     complement(1071..1100)
+                     /label=1753
+                     /note="AR-464rvs2-1"
+     primer_bind     complement(1071..1100)
+                     /label=C691
+     primer_bind     1071..1100
+                     /label=C694
+     primer_bind     1077..1099
+                     /label=2866
+     primer_bind     complement(1078..1099)
+                     /label=3173
+                     /note="pTBL138-endR"
+     primer_bind     1078..1099
+                     /label=3172
+                     /note="pTBL138-endF"
+     primer_bind     1079..1112
+                     /label=1596
+                     /note="intfix-frag1-for"
+     primer_bind     complement(1079..1112)
+                     /label=1595
+                     /note="intfix-bb-rev"
+     primer_bind     1080..1139
+                     /label=1721
+                     /note="BspHI-fix-F"
+     primer_bind     1080..1101
+                     /label=2920
+                     /note="TBL-oSQT1379"
+     primer_bind     1081..1101
+                     /label=4732
+                     /note="RW-063toSeqEMX1Insert"
+     primer_bind     1083..1112
+                     /label=1754
+                     /note="AR-464fwd2-2"
+     primer_bind     1115..1134
+                     /label=4273
+                     /note="pTBL319seq1"
+     primer_bind     complement(1123..1149)
+                     /label=5943
+                     /note="pTBL611-kan-F"
+     primer_bind     complement(1123..1142)
+                     /label=1181
+                     /note="T7term1-BB-fwd"
+     primer_bind     1131..1152
+                     /label=F792
+     primer_bind     complement(1131..1151)
+                     /label=4498
+                     /note="ZZ-AmpR-NatMX-gib-F"
+     primer_bind     1140..1158
+                     /label=3467
+                     /note="pTBL161seqF"
+     primer_bind     complement(1149..1175)
+                     /label=3418
+                     /note="pTBL153-3R"
+     primer_bind     complement(1150..1174)
+                     /label=6156
+                     /note="JG-BB063cloneinto-R"
+     primer_bind     complement(1150..1169)
+                     /label=8917
+                     /note="GR-AmpRp-rvs_GO:EcoRI-CAN1.US"
+     primer_bind     complement(1158..1175)
+                     /label=7974
+                     /note="GA_197gb_Amp_R"
+     primer_bind     complement(1159..1196)
+                     /label=2937
+                     /note="pTBL069-vecR"
+     primer_bind     1161..1175
+                     /label=7975
+                     /note="GA_197gb_bb_F"
+     primer_bind     complement(1161..1175)
+                     /label=3439
+                     /note="pTBL154-1F"
+     primer_bind     complement(1161..1175)
+                     /label=3646
+                     /note="pTBL154vecRnew"
+     primer_bind     complement(1166..1181)
+                     /label=3674
+                     /note="pTBL161-linearR"
+     primer_bind     complement(1169..1180)
+                     /label=2030
+                     /note="RJ-285"
+     primer_bind     complement(1173..1212)
+                     /label=2834
+                     /note="pTBL047-vecR"
+     primer_bind     1173..1212
+                     /label=2829
+                     /note="pTBL047-1F"
+     primer_bind     1208..1233
+                     /label=F360
+     primer_bind     1210..1226
+                     /label=C142
+                     /note="GR-backbone-rvs_GO:ADE2p"
+     primer_bind     1216..1233
+                     /label=1084
+                     /note="TDH3-A2-scFv-BB-R"
+     primer_bind     complement(1217..1236)
+                     /label=1132
+                     /note="PrimerWalkerA"
+     primer_bind     1235..1257
+                     /label=1426
+     primer_bind     complement(1235..1257)
+                     /label=6731
+     primer_bind     1267..1289
+                     /label=3025
+                     /note="CCL_ArrayOutsideFwd"
+     primer_bind     complement(1282..1305)
+                     /label=8890
+                     /note="RD - upstream of Can1 rev"
+     primer_bind     1282..1304
+                     /label=8841
+                     /note="RD-upstream_of_EcoRI_Can1flanks"
+     primer_bind     1319..1338
+                     /label=4266
+                     /note="pTBL318seq1"
+     primer_bind     complement(1326..1346)
+                     /label=3648
+                     /note="pTBL156-7vecR"
+     primer_bind     1331..1357
+                     /label=5797
+                     /note="pTBL636-2F"
+     primer_bind     1331..1353
+                     /label=5312
+                     /note="TCL-CMVinternalF"
+     primer_bind     1331..1353
+                     /label=4952
+                     /note="pTBL502insF"
+     primer_bind     1341..1370
+                     /label=A183
+                     /note="CKC-AAVS1-acl_F"
+     primer_bind     1346..1371
+                     /label=9363
+                     /note="GL-CCR5ufoutside-seqF"
+     primer_bind     1360..1379
+                     /label=2792
+                     /note="pTBL029seqF"
+     primer_bind     1370..1420
+                     /label=9868
+                     /note="AS-BcatSeq1232"
+     primer_bind     complement(1372..1391)
+                     /label=7314
+                     /note="MS-mTdT-EGFP-209SwapR"
+     primer_bind     1380..1409
+                     /label=A185
+                     /note="CKC-AAVS1-acl_F2"
+     primer_bind     complement(1381..1412)
+                     /label=2776
+                     /note="pTBL029-vecR"
+     primer_bind     complement(1383..1392)
+                     /label=9605
+                     /note="Hex-F fixed"
+     primer_bind     complement(1383..1392)
+                     /label=5833
+                     /note="TALE-Seq-F1"
+     primer_bind     complement(1384..1434)
+                     /label=2876
+                     /note="pTBL057vecR"
+     primer_bind     1388..1415
+                     /label=2853
+                     /note="pTBL050promF"
+     primer_bind     complement(1393..1421)
+                     /label=3424
+                     /note="pTBL156-7Gib-vecR"
+     primer_bind     complement(1399..1421)
+                     /label=5802
+                     /note="pTBL636-4R"
+     primer_bind     complement(1399..1421)
+                     /label=3788
+                     /note="pTBL213R"
+     primer_bind     complement(1399..1415)
+                     /label=7915
+                     /note="pTBL954-vecR"
+     primer_bind     complement(1400..1427)
+                     /label=5311
+                     /note="TCL-flanksbackboneR"
+     primer_bind     complement(1400..1427)
+                     /label=4062
+                     /note="pTBL247-vecR"
+     primer_bind     complement(1400..1427)
+                     /label=8465
+                     /note="pTBL1047-vecR"
+     primer_bind     complement(1400..1427)
+                     /label=7690
+                     /note="pTBL944-vecR"
+     primer_bind     complement(1400..1427)
+                     /label=8702
+                     /note="pTBL1077-vecR"
+     primer_bind     complement(1400..1427)
+                     /label=8594
+                     /note="pTBL1069-vecR"
+     primer_bind     complement(1400..1427)
+                     /label=3528
+                     /note="pTBL165-vecR"
+     primer_bind     complement(1400..1427)
+                     /label=8803
+                     /note="pTBL1119-vecR"
+     primer_bind     complement(1401..1427)
+                     /label=8586
+                     /note="pTBL1068-vecR"
+     primer_bind     complement(1401..1427)
+                     /label=B776
+                     /note="GR-pcDNA-rvs_GO:EcoRI.TDH3p"
+     primer_bind     1401..1420
+                     /label=3636
+                     /note="pTBL156-7seqF"
+     primer_bind     complement(1403..1449)
+                     /label=8671
+     primer_bind     1403..1449
+                     /label=8675
+     primer_bind     complement(1403..1428)
+                     /label=9252
+                     /note="JC_fus1del_BB_R (147)"
+     primer_bind     complement(1403..1428)
+                     /label=A947
+                     /note="AW_GPM1_US_BB_R"
+     primer_bind     complement(1403..1427)
+                     /label=8906
+                     /note="GR-intBackbone-rvs_GO:CAN1.US"
+     primer_bind     complement(1409..1427)
+                     /label=7013
+                     /note="GL-AAVSuf-EcoRI-R"
+     misc_feature    1422..1427
+                     /label=EcoRI
+     misc_feature    1428..1927
+                     /label=Homology US
+                     
+     misc_feature    1428..1710
+                     /label=MVD1
+     primer_bind     1503..1524
+                     /label=8632
+     primer_bind     1560..1589
+                     /label=8635
+     primer_bind     1663..1696
+                     /label=9769
+     primer_bind     complement(1686..1710)
+                     /label=8633
+                     /note="AW_AGA1_DD1_US_R"
+     primer_bind     complement(1725..1760)
+                     /label=8636
+                     /note="AW_AGA1_DD2_US_R"
+     primer_bind     1786..1804
+                     /label=8412
+     primer_bind     1841..1872
+                     /label=9767
+     primer_bind     1889..1911
+                     /label=9765
+     primer_bind     complement(1903..1943)
+                     /label=C475
+     primer_bind     1903..1943
+                     /label=C476
+     primer_bind     complement(1904..1927)
+                     /label=9290
+                     /note="JC_AGA1_BB_R"
+     primer_bind     complement(1914..1927)
+                     /label=8900
+                     /note="VH_TDH3_Homology_Donor"
+     primer_bind     complement(1914..1927)
+                     /label=8898
+                     /note="VH_CCW12_Homology_Donor"
+     primer_bind     1927..1945
+                     /label=2870
+                     /note="yTBL025F TRP1del"
+     primer_bind     1927..1945
+                     /label=2308
+                     /note="yTBL003F pT7-URA3"
+     primer_bind     1927..1944
+                     /label=8589
+                     /note="pTBL1068-2F"
+     primer_bind     1927..1944
+                     /label=7685
+                     /note="pTBL944-3F"
+     primer_bind     1927..1944
+                     /label=2814
+                     /note="yTBL014-015-3F"
+     primer_bind     1927..1944
+                     /label=3597
+                     /note="RJ-413"
+     primer_bind     1927..1941
+                     /label=8432
+                     /note="GA_HOintein_drugMX_F"
+     primer_bind     1927..1940
+                     /label=6017
+                     /note="AR-SPT15_KanMX_fwd"
+     primer_bind     1927..1940
+                     /label=3435
+                     /note="ZZ-AgTEF-Gib-F"
+     primer_bind     1927..1939
+                     /label=3499
+                     /note="pYTK078 BsaI F"
+     misc_feature    1928..2304
+                     /label=agTEF promoter
+     primer_bind     1928..1965
+                     /label=2838
+                     /note="pTBL048-2F"
+     primer_bind     1928..1957
+                     /label=A809
+                     /note="RD-pTBL1148_sgTerm-TEFPromoter_Fwd"
+     primer_bind     1928..1951
+                     /label=2807
+                     /note="yTBL012-013-3F"
+     primer_bind     1928..1945
+                     /label=A798
+                     /note="RD_pTBL1147_His3Term-AgTEFPro_Fwd"
+     primer_bind     1928..1945
+                     /label=2734
+                     /note="pTBL008-insF"
+     primer_bind     1928..1945
+                     /label=2730
+                     /note="pTBL006-insF"
+     primer_bind     1928..1945
+                     /label=2292
+                     /note="yTBL002F pT7-CAN1"
+     primer_bind     1928..1945
+                     /label=2290
+                     /note="yTBL001F pT7-ADE2"
+     primer_bind     1928..1944
+                     /label=A166
+                     /note="JG-ScTDH1Terminator.fwd_GO:AfTEFpromoter"
+     primer_bind     1928..1944
+                     /label=8599
+                     /note="pTBL1069-3F"
+     primer_bind     1928..1944
+                     /label=B740
+                     /note="SH-LEU2_TERM_pF_GO"
+     primer_bind     1928..1943
+                     /label=C182
+                     /note="AD_BB_F"
+     primer_bind     1928..1943
+                     /label=8300
+                     /note="GR-KanMX-fwd_GO:ADH1t"
+     primer_bind     1928..1942
+                     /label=2764
+                     /note="yTBL009-11F"
+     primer_bind     1928..1940
+                     /label=8840
+                     /note="RD-upstream_of_TEFpromoter"
+     primer_bind     1928..1938
+                     /label=A274
+                     /note="GR-AgTEFp-fwd_GO:PstI-Arg.tDNA"
+     primer_bind     1942..1965
+                     /label=2478
+                     /note="pTEF-Gib-F"
+     primer_bind     complement(1945..1958)
+                     /label=A809
+                     /note="RD-pTBL1148_sgTerm-TEFPromoter_Fwd"
+     primer_bind     1952..1969
+                     /label=8664
+                     /note="TBL-begpAgTefseqF"
+     primer_bind     1960..1982
+                     /label=1186
+                     /note="Trp1KO-KanMX-fwd"
+     primer_bind     1962..1983
+                     /label=4229
+                     /note="RJ-445"
+     primer_bind     1962..1982
+                     /label=1128
+                     /note="SKI7-KO-3"
+     primer_bind     1962..1982
+                     /label=B970
+                     /note="GR-TEFp-fwd_GO:ADH1t"
+     primer_bind     1962..1982
+                     /label=9882
+                     /note="GR-MXpromoter-fwd_GO:TDH1t"
+     primer_bind     1962..1982
+                     /label=8911
+                     /note="GR-TEFp-fwd_GO:ADH1t"
+     primer_bind     1962..1982
+                     /label=8486
+                     /note="AW_PEP4::KanmX_F"
+     primer_bind     1962..1982
+                     /label=6148
+                     /note="RR-KanMX-Leu2Del-ORF-for-v2"
+     primer_bind     1962..1981
+                     /label=3494
+                     /note="KanMX-GibREV"
+     primer_bind     1963..1983
+                     /label=4232
+                     /note="RJ-448"
+     primer_bind     1963..1982
+                     /label=1210
+                     /note="KanMX-URA3int-rvs"
+     primer_bind     1963..1982
+                     /label=5047
+                     /note="ZZ-flo1-NatMX-gib-fix-R"
+     primer_bind     1963..1982
+                     /label=4204
+                     /note="AR_pCas_NatNT2_fwd"
+     primer_bind     1963..1982
+                     /label=5137
+                     /note="ZZ-KanMX-His6-F"
+     primer_bind     1963..1982
+                     /label=5723
+                     /note="ZZ-pTEF1-F"
+     primer_bind     1963..1982
+                     /label=A722
+                     /note="AW_V3_BB_F"
+     primer_bind     1963..1982
+                     /label=A931
+                     /note="AW_PGK1_KANMX_F"
+     primer_bind     1963..1982
+                     /label=A542
+                     /note="VH_A542_NatMX_rtTA_F"
+     primer_bind     1963..1982
+                     /label=9178
+                     /note="GR-TEFp-fwd_GO:CAN1USflank"
+     primer_bind     complement(1963..1982)
+                     /label=8637
+                     /note="AW_AGA1_R_true"
+     primer_bind     1963..1982
+                     /label=A945
+                     /note="AW_GPM1_KANMX_F"
+     primer_bind     1963..1982
+                     /label=8639
+                     /note="AW_NatmX_F"
+     primer_bind     1963..1982
+                     /label=6145
+                     /note="RR-KanMX-His3Del-ORF-for"
+     primer_bind     1963..1982
+                     /label=A280
+                     /note="ALS_arg8_NatMX_fw"
+     primer_bind     1963..1982
+                     /label=A278
+                     /note="ALS_arg4_NatMX_fw"
+     primer_bind     1963..1982
+                     /label=A192
+                     /note="VH_A192_Del_Gal2_KanMX_F"
+     primer_bind     1963..1982
+                     /label=A18
+                     /note="ALS-LYP1ko-NatMX-F"
+     primer_bind     1963..1982
+                     /label=6440
+                     /note="RR_KanMX_5'_Leu2_cassette_for"
+     primer_bind     1963..1982
+                     /label=5863
+                     /note="RR-KanMX-Leu2Del-ORF-for"
+     primer_bind     1963..1977
+                     /label=9263
+                     /note="VH_Met15::KanMX_Forward"
+     primer_bind     complement(1965..1985)
+                     /label=2745
+                     /note="pTBL004seqR"
+     primer_bind     complement(1977..1997)
+                     /label=MAA_o85
+     primer_bind     2004..2014
+                     /label=B332
+                     /note="AW_HMS3_S19R_R"
+     primer_bind     2014..2024
+                     /label=A35
+                     /note="pCKC021-NNKSangerF"
+     primer_bind     complement(2044..2063)
+                     /label=A323
+     primer_bind     complement(2096..2115)
+                     /label=1329
+                     /note="YeastKO-Seq1"
+     primer_bind     complement(2108..2143)
+                     /label=2256
+                     /note="pCAS-BB-rvs"
+     primer_bind     2108..2127
+                     /label=2261
+     primer_bind     complement(2114..2133)
+                     /label=7353
+                     /note="AW_kanB"
+     primer_bind     2158..2180
+                     /label=7771
+                     /note="TBL-pTEFmidseqF"
+     primer_bind     2223..2239
+                     /label=5351
+                     /note="JG-Cas9seqRupstream"
+     primer_bind     complement(2269..2294)
+                     /label=8665
+                     /note="TBL-endpAgTefseqR"
+     primer_bind     complement(2270..2309)
+                     /label=9008
+                     /note="AS-1068_LwaCas-backR"
+     primer_bind     complement(2276..2313)
+                     /label=8706
+                     /note="pTBL1077-2R"
+     primer_bind     2279..2296
+                     /label=4053
+                     /note="RR_dCas9-bb-gib-for"
+     primer_bind     2279..2296
+                     /label=4399
+                     /note="RR_dCas9-bb-gib-alt-for"
+     primer_bind     complement(2288..2304)
+                     /label=6125
+                     /note="RR_Kan-nat_replace-HO-bb_rev"
+     primer_bind     2304..2327
+                     /label=B967
+                     /note="GR-HPH-fwd_GO:RPL18Bp"
+     primer_bind     2306..2331
+                     /label=9007
+                     /note="AS-1068_LwaCas-backF"
+     CDS             2307..3335
+                     /label=HygR
+     primer_bind     complement(2327..2336)
+                     /label=B117
+                     /note="TBL-1512R"
+     primer_bind     2385..2412
+                     /label=6061
+                     /note="pTBL703-marker-F"
+     primer_bind     2385..2406
+                     /label=6113
+                     /note="pTBL703-marker-Fnew"
+     primer_bind     2385..2402
+                     /label=2823
+                     /note="pTBL044insF"
+     primer_bind     complement(2387..2399)
+                     /label=8130
+                     /note="pTBL1027-vecR"
+     primer_bind     complement(2387..2399)
+                     /label=8338
+                     /note="GR-pUCbackbone-rvs_GO:shortPol5'flank"
+     primer_bind     complement(2387..2399)
+                     /label=7403
+                     /note="GR-pUC19-rvs_GO:p1ORF1"
+     primer_bind     2546..2565
+                     /label=6099
+                     /note="pTBL703-seqF6"
+     primer_bind     complement(2643..2653)
+                     /label=5289
+                     /note="XL-E51-lambda-opt-BB-R"
+     primer_bind     2645..2657
+                     /label=6232
+                     /note="pTBL716vecR"
+     primer_bind     2645..2657
+                     /label=3390
+                     /note="pTBL150-vecR"
+     primer_bind     2645..2657
+                     /label=3864
+                     /note="pTBL216-vecR"
+     primer_bind     2697..2734
+                     /label=5712
+                     /note="pTBL604R"
+     primer_bind     complement(2865..2876)
+                     /label=6127
+                     /note="ZZ-delCas9-gib-R"
+     primer_bind     complement(2885..2898)
+                     /label=A326
+                     /note="MF-1257seqF3"
+     primer_bind     2889..2900
+                     /label=A486
+                     /note="AW_mutlib9_F"
+     primer_bind     complement(2920..2937)
+                     /label=866
+                     /note="pMAL-RaxX-R"
+     primer_bind     3054..3065
+                     /label=9026
+                     /note="MF-1172-3fixF"
+     primer_bind     3103..3123
+                     /label=3945
+                     /note="pTBL154seqF"
+     primer_bind     3153..3172
+                     /label=6100a
+                     /note="pTBL703-seqF7"
+     primer_bind     3153..3172
+                     /label=6100
+     primer_bind     complement(3166..3191)
+                     /label=2917
+                     /note="pTBL044DfixR"
+     primer_bind     3166..3191
+                     /label=2916
+                     /note="pTBL044DfixF"
+     primer_bind     complement(3313..3334)
+                     /label=2824
+                     /note="pTBL044insR"
+     primer_bind     complement(3318..3335)
+                     /label=B966
+                     /note="GR-HPH-rvs_GO:I-SceI-cutSite-CAN15flank"
+     primer_bind     complement(3319..3334)
+                     /label=3440
+                     /note="pTBL154-1R"
+     primer_bind     3319..3330
+                     /label=4802
+                     /note="TBL-TdT-T2AF"
+     primer_bind     3319..3330
+                     /label=3479
+                     /note="pTBL155-vecF"
+     primer_bind     3333..3377
+                     /label=B206
+                     /note="JC_p19_Nat_Fix_F"
+     primer_bind     complement(3337..3375)
+                     /label=8713
+                     /note="TBL-AgTEFtermseqR"
+     terminator      3340..3537
+                     /label=TEF terminator
+     primer_bind     3340..3372
+                     /label=E147
+     primer_bind     3340..3358
+                     /label=6123
+                     /note="RR_KanMX_nat_replace_HO_bb_for"
+     primer_bind     complement(3354..3387)
+                     /label=2873
+                     /note="TEFtermR"
+     primer_bind     3450..3471
+                     /label=1451
+     primer_bind     3464..3485
+                     /label=8142
+                     /note="TBL-TEFtermF"
+     primer_bind     3474..3493
+                     /label=1831
+     primer_bind     complement(3482..3492)
+                     /label=3067
+                     /note="TBLsgRNA10rightF"
+     primer_bind     complement(3511..3538)
+                     /label=2839
+                     /note="pTBL048-2R"
+     primer_bind     complement(3511..3537)
+                     /label=7686
+                     /note="pTBL944-3R"
+     primer_bind     complement(3511..3537)
+                     /label=8708
+                     /note="pTBL1077-3R"
+     primer_bind     complement(3511..3537)
+                     /label=2808
+                     /note="yTBL012-015-3R"
+     primer_bind     complement(3512..3537)
+                     /label=8590
+                     /note="pTBL1068-2R"
+     primer_bind     complement(3512..3537)
+                     /label=8600
+                     /note="pTBL1069-3R"
+     primer_bind     complement(3512..3537)
+                     /label=F613
+     primer_bind     complement(3516..3538)
+                     /label=2731
+                     /note="pTBL006-insR"
+     primer_bind     complement(3516..3537)
+                     /label=3116
+                     /note="ZZ-tTEF-SpeI-R"
+     primer_bind     complement(3516..3537)
+                     /label=A934
+                     /note="AW_PGK1_KANMX_R"
+     primer_bind     complement(3516..3537)
+                     /label=2849
+                     /note="yTBL022-1R"
+     primer_bind     complement(3516..3537)
+                     /label=2735
+                     /note="pTBL008-insR"
+     primer_bind     complement(3516..3537)
+                     /label=A946
+                     /note="AW_GPM1_KANMX_R"
+     primer_bind     complement(3516..3537)
+                     /label=8912
+                     /note="GR-TEFt-rvs_GO:CAN1.DS"
+     primer_bind     complement(3516..3537)
+                     /label=8485
+                     /note="AW_PEP4::KanmX_R"
+     primer_bind     complement(3516..3537)
+                     /label=2309
+                     /note="yTBL003R pT7-URA3"
+     primer_bind     complement(3516..3537)
+                     /label=C479
+     primer_bind     complement(3517..3537)
+                     /label=5120
+                     /note="ZZ"
+     primer_bind     complement(3517..3537)
+                     /label=2028
+     primer_bind     3518..3538
+                     /label=4498
+                     /note="ZZ-AmpR-NatMX-gib-F"
+     primer_bind     complement(3518..3538)
+                     /label=5138
+                     /note="ZZ-KanMX-His6-R"
+     primer_bind     complement(3518..3538)
+                     /label=6441
+                     /note="RR_KanMX_3'_Leu2_cassette_rev"
+     primer_bind     complement(3518..3538)
+                     /label=5864
+                     /note="RR-KanMX-Leu2Del-ORF-rev"
+     primer_bind     complement(3518..3537)
+                     /label=A799
+                     /note="RD_pTBL1147_TEFTerminator_Rev"
+     primer_bind     complement(3518..3537)
+                     /label=A281
+                     /note="ALS_arg8_NatMX_rv"
+     primer_bind     complement(3518..3537)
+                     /label=A279
+                     /note="ALS_arg4_NatMX_rv"
+     primer_bind     complement(3518..3537)
+                     /label=A193
+                     /note="VH_A193_Del_Gal2_KanMX_R"
+     primer_bind     complement(3518..3537)
+                     /label=A19
+                     /note="ALS-LYP1ko-NatMX-R"
+     primer_bind     complement(3518..3537)
+                     /label=6146
+                     /note="RR-KanMX-His3Del-ORF-rev"
+     primer_bind     complement(3518..3537)
+                     /label=2915
+                     /note="yTBL026R"
+     primer_bind     complement(3518..3537)
+                     /label=2871
+                     /note="yTBL025R TRP1del"
+     primer_bind     complement(3518..3537)
+                     /label=2765
+                     /note="yTBL009-11R"
+     primer_bind     complement(3518..3537)
+                     /label=2723
+                     /note="yTBL007R"
+     primer_bind     complement(3518..3537)
+                     /label=2721
+                     /note="yTBL006R"
+     primer_bind     complement(3518..3537)
+                     /label=2719
+                     /note="yTBL005R"
+     primer_bind     complement(3518..3537)
+                     /label=2293
+                     /note="yTBL002R pT7-CAN1"
+     primer_bind     complement(3518..3537)
+                     /label=2291
+                     /note="yTBL001R pT7-ADE2"
+     primer_bind     complement(3520..3537)
+                     /label=7289
+                     /note="GA_alt_NatMX_r"
+     primer_bind     complement(3523..3537)
+                     /label=8433
+                     /note="GA_HOintein_drugMX_R"
+     primer_bind     complement(3523..3537)
+                     /label=9264
+                     /note="VH_Met15::KanMX_Reverse"
+     primer_bind     3525..3572
+                     /label=AP_tTEF_estr_F
+     primer_bind     complement(3525..3572)
+                     /label=AP_tTEF_estr_R
+     primer_bind     complement(3528..3550)
+                     /label=AW_HYG_pTDH3_R
+     primer_bind     3528..3550
+                     /label=AW_HYG_pTDH3_F
+     misc_feature    3561..3977
+                     /label=estradiol inducible promoter
+     enhancer        3561..3734
+                     /label=7x 97-4 operator
+     misc_feature    3574..3582
+                     /label=ZF 97-4 op
+     misc_feature    3597..3605
+                     /label=ZF 97-4 op
+     misc_feature    3620..3628
+                     /label=ZF 97-4 op
+     misc_feature    3643..3651
+                     /label=ZF 97-4 op
+     misc_feature    3666..3674
+                     /label=ZF 97-4 op
+     misc_feature    3689..3697
+                     /label=ZF 97-4 op
+     misc_feature    3712..3720
+                     /label=ZF 97-4 op
+     promoter        3741..3977
+                     /label=pCYC1
+     primer_bind     3776..3795
+                     /label=9413
+     primer_bind     3945..4004
+                     /label=AP_pCYC1_aga1_F
+     primer_bind     complement(3945..4004)
+                     /label=AP_pCYC1_aga1_R
+     misc_feature    3978..6155
+                     /label=aga1
+     primer_bind     3978..4004
+                     /label=C478
+     primer_bind     3978..4003
+                     /label=1085
+                     /note="Aga1-gib-f"
+     primer_bind     complement(3978..4003)
+                     /label=8627
+                     /note="AW_TDH3_R"
+     primer_bind     3978..4003
+                     /label=8624
+                     /note="AW_AGA1_F"
+     primer_bind     3978..4003
+                     /label=8683
+                     /note="VH_BJ_AGA1_F__PGK1"
+     primer_bind     3978..4003
+                     /label=8679
+                     /note="VH_BJ_AGA1_F__CCW12"
+     primer_bind     3978..3996
+                     /label=1061
+                     /note="Aga1-BglII-F"
+     primer_bind     complement(4001..4027)
+                     /label=9397
+                     /note="VH_Homology_CCW12_Wrong"
+     primer_bind     complement(4123..4140)
+                     /label=8644
+                     /note="AW_aga1_seq_R1"
+     primer_bind     complement(4159..4181)
+                     /label=C549
+     primer_bind     4159..4181
+                     /label=C550
+     primer_bind     complement(4180..4199)
+                     /label=8645
+                     /note="AW_AGA1_seq_R2"
+     primer_bind     complement(4328..4340)
+                     /label=2380
+                     /note="TPDNAP-3C-MBP GB F"
+     primer_bind     4331..4341
+                     /label=A32
+                     /note="JS_bb_ECC_after_mDHFRII_rev"
+     primer_bind     complement(4405..4431)
+                     /label=1123
+                     /note="Aga1-ColPCR-R"
+     primer_bind     complement(4884..4910)
+                     /label=5066
+                     /note="JG-EMXIIllumina-R4UMI"
+     primer_bind     complement(4884..4910)
+                     /label=5064
+                     /note="JG-EMXIIllumina-R2UMI"
+     primer_bind     complement(4884..4908)
+                     /label=5065
+                     /note="JG-EMXIillumina-R3UMI"
+     primer_bind     complement(4884..4908)
+                     /label=5063
+                     /note="JG-EMXIillumina-R1UMI"
+     primer_bind     complement(4975..5019)
+                     /label=B373
+                     /note="GR-SacI-6xHIS-rvs_GO:12xN-SphI-p2O1"
+     primer_bind     4997..5019
+                     /label=C552
+     primer_bind     5227..5252
+                     /label=C548
+     primer_bind     complement(5227..5252)
+                     /label=C551
+     primer_bind     5287..5298
+                     /label=B118
+                     /note="TBL-1513F"
+     primer_bind     5287..5298
+                     /label=B114
+                     /note="TBL-1511F"
+     primer_bind     5353..5364
+                     /label=6545
+                     /note="GR_EcWtRS-A8S_rvs"
+     primer_bind     complement(5546..5555)
+                     /label=6232
+                     /note="pTBL716vecR"
+     primer_bind     complement(5546..5555)
+                     /label=3390
+                     /note="pTBL150-vecR"
+     primer_bind     complement(5546..5555)
+                     /label=3864
+                     /note="pTBL216-vecR"
+     primer_bind     5712..5730
+                     /label=2248
+                     /note="RJ-313"
+     primer_bind     5734..5760
+                     /label=C553
+     primer_bind     5917..5962
+                     /label=6922
+                     /note="ZZ-NNN-HisA-BsaI-R"
+     primer_bind     5920..5962
+                     /label=7280
+                     /note="ZZ-HisA-Gib-N18-noXho-R"
+     primer_bind     5923..5962
+                     /label=7279
+                     /note="ZZ-HisA-Gib-N18-Xho-R"
+     primer_bind     complement(5956..5982)
+                     /label=B373
+                     /note="GR-SacI-6xHIS-rvs_GO:12xN-SphI-p2O1"
+     primer_bind     5956..5976
+                     /label=1434
+                     /note="Aga1-colPCR-F"
+     primer_bind     6055..6074
+                     /label=5183
+                     /note="JG-pCMV-illumina-test2R"
+     primer_bind     complement(6061..6093)
+                     /label=5183
+                     /note="JG-pCMV-illumina-test2R"
+     primer_bind     6122..6141
+                     /label=MAA_o87
+     primer_bind     complement(6132..6155)
+                     /label=1086
+                     /note="Aga1-gib-r"
+     primer_bind     complement(6136..6155)
+                     /label=1062
+                     /note="Aga1-XhoI-R"
+     primer_bind     6155..6196
+                     /label=9289
+                     /note="JC_AGA1_BB_F"
+     misc_feature    6156..6356
+                     /label=aga1 3'UTR
+     primer_bind     complement(6159..6201)
+                     /label=9766
+     primer_bind     complement(6251..6294)
+                     /label=9768
+     primer_bind     complement(6256..6308)
+                     /label=9770
+     primer_bind     complement(6289..6308)
+                     /label=1214
+                     /note="Aga1-genomic-R"
+     primer_bind     complement(6320..6376)
+                     /label=8669
+     primer_bind     6320..6376
+                     /label=8670
+     primer_bind     complement(6320..6358)
+                     /label=8637
+                     /note="AW_AGA1_R_true"
+     primer_bind     6320..6358
+                     /label=8639
+                     /note="AW_NatmX_F"
+     primer_bind     6356..6380
+                     /label=8701
+                     /note="pTBL1077-vecF"
+     primer_bind     6356..6380
+                     /label=8464
+                     /note="pTBL1047-vecF"
+     primer_bind     6356..6376
+                     /label=A802
+                     /note="RD_pTBL1147_Ade2downstream-backbone-Fwd"
+     primer_bind     6356..6376
+                     /label=8905
+                     /note="GR-intBackbone-fwd_GO:CAN1.DS"
+     primer_bind     6357..6383
+                     /label=5310
+                     /note="TCL-flanksbackboneF"
+     primer_bind     6357..6383
+                     /label=4061
+                     /note="pTBL247-vecF"
+     primer_bind     6357..6383
+                     /label=3536
+                     /note="pTBL165-vecFreal"
+     primer_bind     6357..6380
+                     /label=8585
+                     /note="pTBL1068-vecF"
+     primer_bind     6357..6380
+                     /label=7689
+                     /note="pTBL944-vecF"
+     primer_bind     6357..6377
+                     /label=8593
+                     /note="pTBL1069-vecF"
+     primer_bind     complement(6357..6376)
+                     /label=5327
+                     /note="TCL-site57downstreamR"
+     primer_bind     6357..6376
+                     /label=9257
+                     /note="JC_FUS1_BB_F (147)"
+     primer_bind     6357..6373
+                     /label=C024
+                     /note="GR-backbone-fwd_GO:GAL2.DS.flank"
+     misc_feature    6357..6362
+                     /label=EcoRIsite
+     primer_bind     6363..6387
+                     /label=5801
+                     /note="pTBL636-4F"
+     primer_bind     complement(6370..6407)
+                     /label=2820
+                     /note="pTBL041insertR"
+     primer_bind     6370..6407
+                     /label=2817
+                     /note="pTBL041vecF"
+     primer_bind     6381..6397
+                     /label=7405
+                     /note="GR-lacZ-SalISphIrecode-rvs"
+     primer_bind     complement(6382..6404)
+                     /label=2790
+                     /note="pRSMCSseqF"
+     primer_bind     complement(6388..6413)
+                     /label=8666
+                     /note="TBL-backboneseqR"
+     primer_bind     complement(6394..6412)
+                     /label=2964
+                     /note="TBLpUC57Reverse"
+     primer_bind     complement(6411..6433)
+                     /label=2864
+                     /note="pTBL048seqR"
+     primer_bind     complement(6412..6431)
+                     /label=D604
+     primer_bind     complement(6430..6453)
+                     /label=8839
+                     /note="GL-LPCorrect-R"
+     primer_bind     complement(6431..6451)
+                     /label=1265
+                     /note="GFP-polyAseq4"
+     primer_bind     complement(6436..6455)
+                     /label=455
+                     /note="CCLpULTRAaaRSSeq1"
+     primer_bind     complement(6441..6462)
+                     /label=9356
+                     /note="GL-AAVSdf-seq-R"
+     primer_bind     complement(6450..6469)
+                     /label=3560
+                     /note="JG-dsflankseqR"
+     primer_bind     complement(6453..6478)
+                     /label=9391
+                     /note="VH_Gal_Forward"
+     primer_bind     complement(6459..6481)
+                     /label=5388
+                     /note="TBL-backboneR"
+     primer_bind     complement(6483..6493)
+                     /label=4504
+                     /note="pTBL429-vecF"
+     primer_bind     complement(6486..6508)
+                     /label=7399
+                     /note="GR-lacZ-fwd_GO:10m2.SalI"
+     primer_bind     complement(6493..6523)
+                     /label=2855
+                     /note="pTBL050puroR"
+     primer_bind     complement(6495..6516)
+                     /label=8834
+     primer_bind     complement(6507..6526)
+                     /label=875
+                     /note="pMAL-F-Seq"
+     primer_bind     6507..6526
+                     /label=8129
+                     /note="pTBL1027-vecF"
+     primer_bind     complement(6508..6527)
+                     /label=444
+                     /note="pSEXPepseq1"
+     primer_bind     6509..6530
+                     /label=7402
+                     /note="GR-pUC19-fwd_GO:p1ORF4"
+     primer_bind     6513..6530
+                     /label=7545
+                     /note="AW_pUC19_R"
+     primer_bind     6513..6526
+                     /label=B217
+                     /note="AW_206_splitLEU2_BB_R"
+     primer_bind     6525..6544
+                     /label=1060
+                     /note="Fab-lacRP-R"
+     primer_bind     complement(6552..6568)
+                     /label=A385
+     primer_bind     complement(6592..6612)
+                     /label=8053
+                     /note="pTBL950seqR6"
+     primer_bind     6632..6648
+                     /label=B110
+                     /note="TBL-1507R"
+     primer_bind     6641..6650
+                     /label=6702
+                     /note="pTBL703-R1"
+     primer_bind     complement(6641..6650)
+                     /label=B333
+                     /note="AW_HMS6_S21N_F"
+     primer_bind     complement(6645..6660)
+                     /label=3050
+                     /note="TBLArrayv1endSca1-nested2"
+     primer_bind     6654..6670
+                     /label=5757
+                     /note="ZZ-ColE1-5ITR-Gib-R"
+     primer_bind     6662..6676
+                     /label=5674
+                     /note="TCL-begCas9R"
+     primer_bind     6663..6675
+                     /label=9623
+                     /note="GL-1279BRD4df-F"
+     primer_bind     6679..6704
+                     /label=B667
+                     /note="CKC-pGL2-Luc-seqF2"
+     primer_bind     complement(6686..6703)
+                     /label=9343
+                     /note="RR-RSvector-linear-Pet111p-rev"
+     primer_bind     6700..6718
+                     /label=2103
+                     /note="YTK-P2-BB-R"
+     primer_bind     6700..6718
+                     /label=2218
+                     /note="tVZV-BsmBI-R"
+     primer_bind     6701..6722
+                     /label=9342
+                     /note="RR-RSvector-linear-Pet111p-for"
+     primer_bind     6701..6721
+                     /label=5727
+                     /note="ZZ-ColE1-F"
+     primer_bind     6701..6720
+                     /label=G065
+     primer_bind     6712..6737
+                     /label=B666
+                     /note="CKC-pGL2-Luc-seqF1"
+     primer_bind     complement(6712..6729)
+                     /label=6755
+                     /note="GA_ConShared-XbaI-F"
+     primer_bind     6722..6754
+                     /label=3314
+                     /note="pTBL148-vecF"
+     primer_bind     complement(6722..6754)
+                     /label=3313
+                     /note="pTBL148-insR"
+     primer_bind     6739..6766
+                     /label=6155
+                     /note="JG-BB063cloneinto-F"
+     primer_bind     complement(6739..6754)
+                     /label=3313
+                     /note="pTBL148-insR"
+     primer_bind     6744..6765
+                     /label=3417
+                     /note="pTBL153-3F"
+     primer_bind     complement(6745..6764)
+                     /label=E870
+     primer_bind     6746..6766
+                     /label=F924
+     primer_bind     complement(6746..6766)
+                     /label=F925
+     primer_bind     complement(6747..6781)
+                     /label=6127
+                     /note="ZZ-delCas9-gib-R"
+     primer_bind     6747..6766
+                     /label=6126
+                     /note="ZZ-delCas9-gib-F"
+     primer_bind     complement(6749..6767)
+                     /label=E640
+     primer_bind     complement(6755..6775)
+                     /label=2744
+                     /note="pTBL004seqF"
+     primer_bind     complement(6756..6773)
+                     /label=D386
+     primer_bind     complement(6757..6772)
+                     /label=F925
+     primer_bind     complement(6766..6786)
+                     /label=G210
+     primer_bind     6782..6804
+                     /label=E500
+     primer_bind     6782..6803
+                     /label=2277
+                     /note="ColE1-MluI-F"
+     primer_bind     6782..6803
+                     /label=4619
+                     /note="ZZ-BB-delKpnMlu-F"
+     primer_bind     6782..6801
+                     /label=E640
+     primer_bind     6782..6797
+                     /label=7285
+                     /note="AW_gib3_new_R"
+     primer_bind     6783..6792
+                     /label=4070
+                     /note="pTBL248-1R"
+     primer_bind     complement(6786..6805)
+                     /label=E418
+     primer_bind     6797..6816
+                     /label=5113
+                     /note="ZZ-p1-delROPBOM-R"
+     primer_bind     complement(6819..6843)
+                     /label=3469
+                     /note="pTBL161seqR"
+     primer_bind     complement(6819..6842)
+                     /label=3175
+                     /note="pTBL138-pol3term-5xHRE-R"
+     primer_bind     complement(6819..6841)
+                     /label=3095
+                     /note="TBL_SQTvectorR"
+     primer_bind     complement(6844..6867)
+                     /label=6981
+                     /note="pTBL826middleR"
+     primer_bind     6844..6867
+                     /label=6980
+                     /note="pTBL826middleF"
+     primer_bind     complement(6850..6869)
+                     /label=6878
+                     /note="GL-5LTRoutseqF"
+     primer_bind     6857..6874
+                     /label=7564
+                     /note="RD-DaisyChainRev"
+     primer_bind     complement(6920..6938)
+                     /label=1215
+                     /note="pEGFP-ori-seq-F"
+     primer_bind     6930..6942
+                     /label=4852
+                     /note="pTBL470-KpnI-R"
+     primer_bind     6930..6942
+                     /label=4854
+                     /note="pTBL470-FseI-R"
+     primer_bind     6930..6942
+                     /label=3915
+                     /note="pTBL238-insR"
+     primer_bind     6930..6942
+                     /label=3913
+                     /note="pTBL237-insR"
+     primer_bind     6930..6941
+                     /label=3909
+                     /note="pTBL235-insR"
+     primer_bind     complement(6941..6960)
+                     /label=3750
+                     /note="TBL-pSQTbackboneR"
+     primer_bind     complement(6997..7023)
+                     /label=3761
+                     /note="pTBL202-insR"
+     primer_bind     6997..7023
+                     /label=3759
+                     /note="pTBL202-vecF"
+     primer_bind     complement(7010..7043)
+                     /label=2173
+                     /note="p1-BB2-R-fix"
+     primer_bind     complement(7010..7039)
+                     /label=2130
+                     /note="p1-BB2-R"
+     primer_bind     7012..7036
+                     /label=1960
+                     /note="pET28-Seq-BB-primer 6"
+     primer_bind     7171..7190
+                     /label=5485
+                     /note="GL-Tdtmid-F"
+     primer_bind     7172..7181
+                     /label=5327
+                     /note="TCL-site57downstreamR"
+     primer_bind     7177..7194
+                     /label=1264
+                     /note="GFP-polyAseq3"
+     primer_bind     complement(7189..7208)
+                     /label=5484
+                     /note="GL-Tdtmid-R"
+     primer_bind     7263..7282
+                     /label=1832
+     primer_bind     complement(7352..7375)
+                     /label=2031
+                     /note="RJ-286"
+     primer_bind     complement(7355..7374)
+                     /label=1644
+                     /note="AR-463fwd"
+     primer_bind     7356..7375
+                     /label=1216
+                     /note="pEGFP-ori-seq-R"
+     primer_bind     complement(7358..7374)
+                     /label=1629
+                     /note="AmpRmv-gibson-rev"
+ORIGIN
+        1 aaaaggatct caagaagatc ctttgatctt ttctacgggg tctgacgctc agtggaacga
+       61 aaactcacgt taagggattt tggtcatgag attatcaaaa aggatcttca cctagatcct
+      121 tttaaattaa aaatgaagtt ttaaatcaat ctaaagtata tatgagtaaa cttggtctga
+      181 cagttaccaa tgcttaatca gtgaggcacc tatctcagcg atctgtctat ttcgttcatc
+      241 catagttgcc tgactccccg tcgtgtagat aactacgata cgggagggct taccatctgg
+      301 ccccagtgct gcaatgatac cgcgagaccc acgctcaccg gctccagatt tatcagcaat
+      361 aaaccagcca gccggaaggg ccgagcgcag aagtggtcct gcaactttat ccgcctccat
+      421 ccagtctatt aattgttgcc gggaagctag agtaagtagt tcgccagtta atagtttgcg
+      481 caacgttgtt gccattgcta caggcatcgt ggtgtcacgc tcgtcgtttg gtatggcttc
+      541 attcagctcc ggttcccaac gatcaaggcg agttacatga tcccccatgt tgtgcaaaaa
+      601 agcggttagc tccttcggtc ctccgatcgt tgtcagaagt aagttggccg cagtgttatc
+      661 actcatggtt atggcagcac tgcataattc tcttactgtc atgccatccg taagatgctt
+      721 ttctgtgact ggtgagtact caaccaagtc attctgagaa tagtgtatgc ggcgaccgag
+      781 ttgctcttgc ccggcgtcaa tacgggataa taccgcgcca catagcagaa ctttaaaagt
+      841 gctcatcatt ggaaaacgtt cttcggggcg aaaactctca aggatcttac cgctgttgag
+      901 atccagttcg atgtaaccca ctcgtgcacc caactgatct tcagcatctt ttactttcac
+      961 cagcgtttct gggtgagcaa aaacaggaag gcaaaatgcc gcaaaaaagg gaataagggc
+     1021 gacacggaaa tgttgaatac tcatactctt cctttttcaa tattattgaa gcatttatca
+     1081 gggttattgt ctcatgagcg gatacatatt tgaatgtatt tagaaaaata aacaaatagg
+     1141 ggttccgcgc acatttcccc gaaaagtgcc acctgacgtc gacggatcgg gagatctccc
+     1201 gatcccctat ggtgcactct cagtacaatc tgctctgatg ccgcatagtt aagccagtat
+     1261 ctgctccctg cttgtgtgtt ggaggtcgct gagtagtgcg cgagcaaaat ttaagctaca
+     1321 acaaggcaag gcttgaccga caattgcatg aagaatctgc ttagggttag gcgttttgcg
+     1381 ctgcttcgcg atgtacgggc cagatatacg cgttggtgag tgaattcagg tccaaatgct
+     1441 gtgttgtact acttagctga aaatgagtcg aaactctttg catttatcta taaattgttt
+     1501 ggctctgttc ctggatggga caagaaattt actactgagc agcttgaggc tttcaaccat
+     1561 caatttgaat catctaactt tactgcacgt gaattggatc ttgagttgca aaaggatgtt
+     1621 gccagagtga ttttaactca agtcggttca ggcccacaag aaacaaacga atctttgatt
+     1681 gacgcaaaga ctggtctacc aaaggaataa gatcaattcg atatgtaaca tttttctttt
+     1741 cttttctttt ccttttttta caatagctaa tttacgtttc cctacggtat tggtcggaac
+     1801 gaccaagctt caatttataa atatcttaat tttaacagca gttaccactt gaatgagaaa
+     1861 ctttttgatg cctactcttt tgctttttca tatcatgacc tccctacatg cttcggaatt
+     1921 tccttatagc ttgcctcgtc cccgccgggt cacccggcca gcgacatgga ggcccagaat
+     1981 accctccttg acagtcttga cgtgcgcagc tcaggggcat gatgtgactg tcgcccgtac
+     2041 atttagccca tacatcccca tgtataatca tttgcatcca tacattttga tggccgcacg
+     2101 gcgcgaagca aaaattacgg ctcctcgctc cagacctgcg agcagggaaa cgctcccctc
+     2161 acagacgcgt tgaattgtcc ccacgccgcg cccctgtaga gaaatataaa aggttaggat
+     2221 ttgccactga ggttcttctt tcatatactt ccttttaaaa tcttgctagg atacagttct
+     2281 cacatcacat ccgaacataa acaaaaatgg gtaaaaagcc tgaactcacc gcgacgtctg
+     2341 tcgagaagtt tctgatcgaa aagttcgaca gcgtgtccga cctgatgcag ctctcggagg
+     2401 gcgaagaatc tcgtgctttc agcttcgatg taggagggcg tggatatgtc ctgcgggtaa
+     2461 atagctgcgc cgatggtttc tacaaagatc gttatgttta tcggcacttt gcatcggccg
+     2521 cgctcccgat tccggaagtg cttgacattg gggaatttag cgagagcctg acctattgca
+     2581 tctcccgccg tgcacagggt gtcacgttgc aagacctgcc tgaaaccgaa ctgcccgctg
+     2641 ttctgcaacc ggtcgcggag gccatggatg cgatcgctgc ggccgatctt agccagacga
+     2701 gcgggttcgg cccattcgga ccgcaaggaa tcggtcaata cactacatgg cgtgatttca
+     2761 tatgcgcgat tgctgatccc catgtgtatc actggcaaac tgtgatggac gacaccgtca
+     2821 gtgcgtccgt cgcgcaggct ctcgatgagc tgatgctttg ggccgaggac tgccccgaag
+     2881 tccggcacct cgtgcacgcg gatttcggct ccaacaatgt cctgacggac aatggccgca
+     2941 taacagcggt cattgactgg agcgaggcga tgttcgggga ttcccaatac gaggtcgcca
+     3001 acatcttctt ctggaggccg tggttggctt gtatggagca gcagacgcgc tacttcgagc
+     3061 ggaggcatcc ggagcttgca ggatcgccgc ggctccgggc gtatatgctc cgcattggtc
+     3121 ttgaccaact ctatcagagc ttggttgacg gcaatttcga tgatgcagct tgggcgcagg
+     3181 gtcgatgcga cgcaatcgtc cgatccggag ccgggactgt cgggcgtaca caaatcgccc
+     3241 gcagaagcgc ggccgtctgg accgatggct gtgtagaagt actcgccgat agtggaaacc
+     3301 gacgccccag cactcgtccg agggcaaagg aataaagtaa ctgacaataa aaagattctt
+     3361 gttttcaaga acttgtcatt tgtatagttt ttttatattg tagttgttct attttaatca
+     3421 aatgttagcg tgatttatat tttttttcgc ctcgacatca tctgcccaga tgcgaagtta
+     3481 agtgcgcaga aagtaatatc atgcgtcaat cgtatgtgaa tgctggtcgc tatactgcag
+     3541 ttcgagttta aacgcctagg ttgaggccaa cgattatggg agatcgaata ttaatattat
+     3601 gggagatcga atattaatat tatgggagat cgaatattaa tattatggga gatcgaatat
+     3661 taatattatg ggagatcgaa tattaatatt atgggagatc gaatattaat attatgggag
+     3721 atggcatgaa tggccttaag cagatccgcc aggcgtgtat atatagcgtg gatggccagg
+     3781 caactttagt gctgacacat acaggcatat atatatgtgt gcgacgacac atgatcatat
+     3841 ggcatgcatg tgctctgtat gtatataaaa ctcttgtttt cttcttttct ctaaatattc
+     3901 tttccttata cattaggacc tttgcagcat aaattactat acttctatag acacacaaac
+     3961 acaaatacac acactaaatg acattatctt tcgctcattt tacctacctg ttcacaatat
+     4021 tgttgggatt aactaatatt gccttggcat ctgatccaga aacgattcta gtgacgataa
+     4081 ccaagacaaa cgatgcaaat ggggttgtta caactacagt ttcacccgcg ctagtctcca
+     4141 catccactat cgttcaagct ggcactacga cattgtatac gacttggtgt ccattgacgg
+     4201 tatccacttc atctgctgcc gaaataagtc cttcaatatc gtacgctact accctatcca
+     4261 gatttagtac tttgacatta tctacagaag tctgctccca tgaggcatgt ccttcgtcat
+     4321 cgacgttgcc aaccaccacc ttatctgtga cttccaagtt cacttcatat atttgcccta
+     4381 cttgtcacac aaccgctatc agctcattat ccgaagtagg aactacaacc gtggtatcat
+     4441 ccagcgccat tgaaccatca agtgcctcta taatctcacc tgtcacctct acactttcga
+     4501 gtacaacatc gtccaatcca actactacct ccctaagttc gacatctaca tctccaagct
+     4561 ctacatctac atctccaagc tctacatcta cctcatcaag ttcgacatct acctcatcaa
+     4621 gttcgacatc tacctcatca agttcgacat ctacatctcc aagttcgaca tccacatctt
+     4681 caagtttgac atccacatct tcaagttcta catctacatc ccaaagttct acatctacct
+     4741 catcaagttc gacatctaca tctccaagct ctacatctac ctcatcaagt tcaacatcta
+     4801 catctccaag ttctaaatct acttctgcaa gctccacttc cacttcttca tattcaacat
+     4861 ctacatcccc aagtttgact tcttcatctc caactttggc ttccacttct ccaagttcaa
+     4921 catctattag ctctactttt actgattcaa cttcatccct tggctcctct atagcatctt
+     4981 catcaacgtc tgtgtcatta tacagcccat ccacacctgt ttactccgtc ccttcgactt
+     5041 cgtcaaatgt tgcaactcct tctatgactt cttcaactgt tgaaacaact gttagttcac
+     5101 aaagttcgtc tgaatatatc accaaatcct caatttctac tactatccca tcattttcca
+     5161 tgtctacata tttcaccact gttagtggag tcactacaat gtatacgaca tggtgtcctt
+     5221 atagctctga atctgagact agcacattaa ccagtatgca tgaaacggtt acaacagacg
+     5281 ctacagtctg cactcacgag tcttgcatgc cctcgcagac aacaagtttg attacatctt
+     5341 ctataaaaat gtccactaaa aacgtcgcaa cttctgtaag cacctcaacg gttgaatcct
+     5401 catatgcatg ctccacatgt gctgaaacgt cacactcgta ttcttccgtg caaacagctt
+     5461 catcaagttc tgtaacacag cagaccacat ccacaaagag ttgggtaagt tcaatgacaa
+     5521 cttcggatga agatttcaat aagcacgcta ccggtaagta tcatgtaaca tcttcaggta
+     5581 cctcaaccat ttcgactagt gtaagtgaag ccacgagtac atcaagcatt gactcagaat
+     5641 ctcaagaaca atcatcacac ttattatcga catcggtcct ttcatcctcc tccttgtctg
+     5701 ctacattatc ctctgacagt actattttgc tattcagttc tgtatcatca ctaagtgtcg
+     5761 aacagtcacc agttaccaca cttcaaattt cttcaacatc agagatttta caacccactt
+     5821 cttccacagc tattgctaca atatctgcct ctacatcatc actttccgca acatctatct
+     5881 ctacaccatc tacctctgtg gaatcgacta ttgaatcttc atcattgact ccgacggtat
+     5941 cttctatttt cctctcatca tcatctgctc cctcttctct acaaacatct gttaccacta
+     6001 cagaagtttc cactacttca atctccatac aataccaaac ttcatcaatg gtaacaatta
+     6061 gccaatatat gggcagtgga tcgcaaacgc gtttgccatt aggaaagttg gtcttcgcca
+     6121 tcatggcagt tgcttgcaat gtaattttca gttaatatca gaacaattta attcatttat
+     6181 ataaacatat acaatcaatc gaataaaaat acaacaatgt aatgaaaacg ctctctattg
+     6241 atatgtattt gctgacgctt ataaatttat taaagtttta ttttaaaccg ttctagtgac
+     6301 ttcacgcggg gagatacatc caatagtaaa ttacaaaata aggaaagtat aaaacagaat
+     6361 tcccgtcgac ctctagctag agcttggcgt aatcatggtc atagctgttt cctgtgtgaa
+     6421 attgttatcc gctcacaatt ccacacaaca tacgagccgg aagcataaag tgtaaagcct
+     6481 ggggtgccta atgagtgagc taactcacat taattgcgtt gcgctcactg cccgctttcc
+     6541 agtcgggaaa cctgtcgtgc cagctgcatt aatgaatcgg ccaacgcgcg gggagaggcg
+     6601 gtttgcgtat tgggcgctct tccgcttcct cgctcactga ctcgctgcgc tcggtcgttc
+     6661 ggctgcggcg agcggtatca gctcactcaa aggcggtaat acggttatcc acagaatcag
+     6721 gggataacgc aggaaagaac atgtgagcaa aaggccagca aaaggccagg aaccgtaaaa
+     6781 aggccgcgtt gctggcgttt ttccataggc tccgcccccc tgacgagcat cacaaaaatc
+     6841 gacgctcaag tcagaggtgg cgaaacccga caggactata aagataccag gcgtttcccc
+     6901 ctggaagctc cctcgtgcgc tctcctgttc cgaccctgcc gcttaccgga tacctgtccg
+     6961 cctttctccc ttcgggaagc gtggcgcttt ctcaatgctc acgctgtagg tatctcagtt
+     7021 cggtgtaggt cgttcgctcc aagctgggct gtgtgcacga accccccgtt cagcccgacc
+     7081 gctgcgcctt atccggtaac tatcgtcttg agtccaaccc ggtaagacac gacttatcgc
+     7141 cactggcagc agccactggt aacaggatta gcagagcgag gtatgtaggc ggtgctacag
+     7201 agttcttgaa gtggtggcct aactacggct acactagaag gacagtattt ggtatctgcg
+     7261 ctctgctgaa gccagttacc ttcggaaaaa gagttggtag ctcttgatcc ggcaaacaaa
+     7321 ccaccgctgg tagcggtggt ttttttgttt gcaagcagca gattacgcgc agaaa
+//

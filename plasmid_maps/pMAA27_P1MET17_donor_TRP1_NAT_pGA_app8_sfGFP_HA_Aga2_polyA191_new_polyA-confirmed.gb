@@ -1,0 +1,4071 @@
+LOCUS       pMAA27_P1MET17_d        5882 bp    DNA     circular SYN 01-AUG-2024
+DEFINITION  synthetic circular DNA
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  recombinant plasmid
+REFERENCE   1  (bases 1 to 5882)
+  AUTHORS   Chang Liu Lab
+  TITLE     Direct Submission
+  JOURNAL   Exported Apr 3, 2026 from SnapGene 8.2.2
+            https://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..5882
+                     /mol_type="other DNA"
+                     /organism="recombinant plasmid"
+     primer_bind     1..50
+                     /label=H742
+     primer_bind     4..61
+                     /label=8192
+     primer_bind     4..44
+                     /label=1586
+     primer_bind     complement(4..44)
+                     /label=2011
+     primer_bind     complement(4..44)
+                     /label=7420
+     primer_bind     4..44
+                     /label=7517
+     primer_bind     4..44
+                     /label=7521
+     primer_bind     4..44
+                     /label=1671
+     primer_bind     4..43
+                     /label=1682
+     primer_bind     4..43
+                     /label=A302
+     primer_bind     4..43
+                     /label=1748
+     primer_bind     4..43
+                     /label=B063
+     primer_bind     4..43
+                     /label=E946
+     primer_bind     4..43
+                     /label=2361
+     primer_bind     4..43
+                     /label=8288
+     primer_bind     4..43
+                     /label=B982
+     primer_bind     4..43
+                     /label=A772
+     primer_bind     4..43
+                     /label=H420
+     primer_bind     complement(4..42)
+                     /label=B066
+     primer_bind     4..42
+                     /label=1582
+     primer_bind     complement(4..39)
+                     /label=1994
+     primer_bind     complement(4..39)
+                     /label=3595
+     primer_bind     complement(4..38)
+                     /label=3596
+     primer_bind     complement(4..38)
+                     /label=G499
+     primer_bind     complement(4..37)
+                     /label=4543
+     primer_bind     complement(4..37)
+                     /label=4628
+     primer_bind     complement(4..37)
+                     /label=9545
+     primer_bind     complement(4..36)
+                     /label=2244
+     primer_bind     4..36
+                     /label=2281
+     primer_bind     complement(4..36)
+                     /label=4668
+     primer_bind     complement(4..35)
+                     /label=7318
+     primer_bind     complement(4..34)
+                     /label=6240
+     primer_bind     complement(4..34)
+                     /label=4618
+     primer_bind     4..34
+                     /label=H655
+     primer_bind     complement(4..34)
+                     /label=2979
+     primer_bind     complement(4..33)
+                     /label=8797
+     primer_bind     4..33
+                     /label=A675
+     primer_bind     complement(4..33)
+                     /label=A676
+     primer_bind     complement(4..32)
+                     /label=E949
+     primer_bind     4..32
+                     /label=B268
+     primer_bind     4..32
+                     /label=B272
+     primer_bind     complement(4..31)
+                     /label=6122
+     primer_bind     4..31
+                     /label=83
+     primer_bind     complement(4..30)
+                     /label=A817
+     primer_bind     4..30
+                     /label=A818
+     primer_bind     complement(4..30)
+                     /label=G089
+     primer_bind     4..30
+                     /label=4547
+     primer_bind     complement(4..30)
+                     /label=1587
+     primer_bind     complement(4..30)
+                     /label=7736
+     primer_bind     complement(4..29)
+                     /label=3370
+     primer_bind     complement(4..29)
+                     /label=2513
+     primer_bind     4..28
+                     /label=1289
+     primer_bind     complement(4..28)
+                     /label=4333
+     primer_bind     complement(4..28)
+                     /label=4519
+     primer_bind     4..28
+                     /label=5858
+     primer_bind     complement(4..28)
+                     /label=2515
+     primer_bind     complement(4..27)
+                     /label=1683
+     primer_bind     complement(4..27)
+                     /label=3368
+     primer_bind     complement(4..27)
+                     /label=3836
+     primer_bind     complement(4..27)
+                     /label=8123
+     primer_bind     complement(4..27)
+                     /label=2517
+     primer_bind     complement(4..27)
+                     /label=9582
+     primer_bind     complement(4..26)
+                     /label=G327
+     primer_bind     complement(4..26)
+                     /label=H423
+     primer_bind     complement(4..26)
+                     /label=G043
+     primer_bind     complement(4..25)
+                     /label=5430
+     primer_bind     complement(4..25)
+                     /label=B977
+     primer_bind     4..24
+                     /label=6124
+     primer_bind     complement(4..24)
+                     /label=2241
+     primer_bind     4..24
+                     /label=6273
+     primer_bind     4..24
+                     /label=6279
+     primer_bind     4..24
+                     /label=A53
+     primer_bind     4..24
+                     /label=A176
+     primer_bind     4..24
+                     /label=A926
+     primer_bind     4..24
+                     /label=H747
+     primer_bind     4..24
+                     /label=A492
+     primer_bind     complement(4..24)
+                     /label=A493
+     primer_bind     complement(4..24)
+                     /label=F116
+     primer_bind     4..24
+                     /label=A102
+     primer_bind     4..24
+                     /label=9583
+     primer_bind     4..24
+                     /label=G733
+     primer_bind     complement(4..24)
+                     /label=G734
+     primer_bind     4..24
+                     /label=7648
+     primer_bind     complement(4..24)
+                     /label=7650
+     primer_bind     4..24
+                     /label=4514
+     primer_bind     4..24
+                     /label=6280
+     primer_bind     4..24
+                     /label=4059
+     primer_bind     4..24
+                     /label=8776
+     primer_bind     4..24
+                     /label=3507
+     primer_bind     complement(4..24)
+                     /label=4058
+     primer_bind     4..24
+                     /label=8070
+     primer_bind     4..24
+                     /label=A619
+     primer_bind     complement(4..23)
+                     /label=A299
+     primer_bind     4..23
+                     /label=1647
+     primer_bind     complement(4..22)
+                     /label=1531
+     primer_bind     complement(4..22)
+                     /label=544
+     primer_bind     4..22
+                     /label=187
+     primer_bind     complement(4..21)
+                     /label=7281
+     primer_bind     complement(4..21)
+                     /label=H746
+     primer_bind     complement(4..18)
+                     /label=4546
+     primer_bind     4..18
+                     /label=9811
+     primer_bind     complement(4..18)
+                     /label=7526
+     primer_bind     4..17
+                     /label=9538
+     misc_feature    complement(5..169)
+                     /label=T ADH1
+     primer_bind     5..59
+                     /label=1776
+     primer_bind     complement(5..54)
+                     /label=B847
+     primer_bind     complement(5..47)
+                     /label=8503
+     primer_bind     5..43
+                     /label=1781
+     primer_bind     complement(5..43)
+                     /label=D477
+     primer_bind     5..43
+                     /label=6681
+     primer_bind     5..43
+                     /label=H734
+     primer_bind     5..43
+                     /label=6177
+     primer_bind     5..43
+                     /label=6247
+     primer_bind     5..40
+                     /label=298
+     primer_bind     complement(5..39)
+                     /label=8315
+     primer_bind     complement(5..39)
+                     /label=D054
+     primer_bind     complement(5..38)
+                     /label=B849
+     primer_bind     complement(5..36)
+                     /label=8491
+     primer_bind     5..35
+                     /label=C160
+     primer_bind     5..35
+                     /label=C495
+     primer_bind     5..32
+                     /label=B303
+     primer_bind     5..32
+                     /label=B307
+     primer_bind     5..32
+                     /label=B311
+     primer_bind     5..32
+                     /label=B276
+     primer_bind     complement(5..32)
+                     /label=297
+     primer_bind     complement(5..32)
+                     /label=301
+     primer_bind     5..30
+                     /label=1066
+     primer_bind     complement(5..29)
+                     /label=6386
+     primer_bind     5..24
+                     /label=6281
+     primer_bind     complement(5..24)
+                     /label=1786
+     primer_bind     complement(5..24)
+                     /label=1779
+     primer_bind     8..22
+                     /label=4254
+     primer_bind     11..61
+                     /label=C897
+     primer_bind     complement(11..42)
+                     /label=C901
+     primer_bind     complement(11..30)
+                     /label=H755
+     primer_bind     17..37
+                     /label=4711
+     primer_bind     complement(17..33)
+                     /label=449
+     primer_bind     complement(34..58)
+                     /label=67
+     primer_bind     complement(55..87)
+                     /label=A581
+     primer_bind     complement(77..111)
+                     /label=2875
+     primer_bind     complement(114..135)
+                     /label=E843
+     primer_bind     114..133
+                     /label=E834
+     primer_bind     complement(115..135)
+                     /label=E844
+     primer_bind     complement(120..142)
+                     /label=2344
+     primer_bind     complement(120..142)
+                     /label=H763
+     primer_bind     complement(120..142)
+                     /label=H764
+     primer_bind     complement(120..142)
+                     /label=H765
+     primer_bind     120..135
+                     /label=E845
+     primer_bind     126..169
+                     /label=8300
+     primer_bind     129..169
+                     /label=9879
+     primer_bind     129..169
+                     /label=9884
+     primer_bind     130..171
+                     /label=8911
+     primer_bind     130..169
+                     /label=A408
+     primer_bind     130..151
+                     /label=B870
+     primer_bind     complement(131..163)
+                     /label=3870
+     primer_bind     complement(131..156)
+                     /label=5204
+     primer_bind     complement(131..153)
+                     /label=4821
+     primer_bind     132..170
+                     /label=9888
+     primer_bind     132..169
+                     /label=9881
+     primer_bind     complement(132..152)
+                     /label=7822
+     primer_bind     complement(132..151)
+                     /label=7819
+     primer_bind     complement(132..151)
+                     /label=7820
+     primer_bind     complement(132..151)
+                     /label=7821
+     primer_bind     complement(132..151)
+                     /label=7823
+     primer_bind     complement(132..151)
+                     /label=7824
+     primer_bind     complement(132..151)
+                     /label=7825
+     primer_bind     complement(132..151)
+                     /label=7826
+     primer_bind     complement(132..150)
+                     /label=8929
+     primer_bind     136..169
+                     /label=A922
+     primer_bind     137..171
+                     /label=B970
+     primer_bind     complement(138..169)
+                     /label=2756
+     primer_bind     138..169
+                     /label=2757
+     primer_bind     138..169
+                     /label=A940
+     primer_bind     complement(140..169)
+                     /label=G233
+     primer_bind     140..169
+                     /label=B039
+     primer_bind     140..169
+                     /label=G228
+     primer_bind     140..169
+                     /label=G329
+     primer_bind     140..169
+                     /label=G332
+     primer_bind     140..169
+                     /label=G353
+     primer_bind     140..169
+                     /label=LSE_T3_A10
+     primer_bind     140..169
+                     /label=C496
+     primer_bind     complement(140..169)
+                     /label=G394
+     primer_bind     141..200
+                     /label=AW_RBD1_NAT_Sac1_F
+     primer_bind     complement(141..169)
+                     /label=2806
+     primer_bind     141..169
+                     /label=2807
+     primer_bind     complement(141..169)
+                     /label=1743
+     primer_bind     142..169
+                     /label=LSE_T3_B6
+     primer_bind     143..169
+                     /label=7202
+     primer_bind     complement(143..169)
+                     /label=7209
+     primer_bind     143..169
+                     /label=A517
+     primer_bind     143..169
+                     /label=G397
+     primer_bind     144..169
+                     /label=A942
+     primer_bind     144..169
+                     /label=LSE_T3_B10
+     primer_bind     complement(146..169)
+                     /label=3651
+     primer_bind     146..169
+                     /label=A924
+     primer_bind     146..169
+                     /label=G395
+     primer_bind     146..169
+                     /label=LSE_T3_B2
+     primer_bind     146..169
+                     /label=7774
+     primer_bind     complement(146..169)
+                     /label=7777
+     primer_bind     complement(148..170)
+                     /label=E879
+     primer_bind     complement(148..169)
+                     /label=B205
+     primer_bind     148..169
+                     /label=4515
+     primer_bind     complement(148..169)
+                     /label=B036
+     primer_bind     complement(148..169)
+                     /label=8598
+     primer_bind     complement(149..169)
+                     /label=293
+     primer_bind     complement(149..169)
+                     /label=295
+     primer_bind     complement(150..175)
+                     /label=44
+     primer_bind     complement(150..170)
+                     /label=F159
+     primer_bind     complement(150..170)
+                     /label=2185
+     primer_bind     complement(150..169)
+                     /label=281
+     primer_bind     complement(150..169)
+                     /label=LSE_T2_C9
+     primer_bind     complement(150..169)
+                     /label=A719
+     primer_bind     150..169
+                     /label=A720
+     primer_bind     complement(150..169)
+                     /label=D629
+     primer_bind     complement(150..169)
+                     /label=1176
+     primer_bind     150..169
+                     /label=B170
+     primer_bind     complement(150..169)
+                     /label=B171
+     primer_bind     complement(151..170)
+                     /label=D291
+     primer_bind     complement(151..170)
+                     /label=7828
+     primer_bind     complement(151..169)
+                     /label=9876
+     primer_bind     151..169
+                     /label=A410
+     primer_bind     complement(151..169)
+                     /label=4548
+     primer_bind     151..169
+                     /label=2548
+     primer_bind     complement(151..169)
+                     /label=A116
+     primer_bind     complement(151..169)
+                     /label=691
+     primer_bind     complement(151..169)
+                     /label=7258
+     primer_bind     complement(152..180)
+                     /label=721
+     primer_bind     complement(152..170)
+                     /label=6318
+     primer_bind     complement(152..169)
+                     /label=6320
+     primer_bind     complement(152..169)
+                     /label=6322
+     primer_bind     complement(154..179)
+                     /label=C002
+     primer_bind     154..169
+                     /label=9493
+     primer_bind     155..170
+                     /label=7829
+     primer_bind     complement(156..172)
+                     /label=9655
+     primer_bind     156..172
+                     /label=9656
+     primer_bind     complement(156..172)
+                     /label=9802
+     primer_bind     complement(156..172)
+                     /label=9804
+     primer_bind     complement(156..172)
+                     /label=9785
+     primer_bind     156..172
+                     /label=9786
+     primer_bind     complement(156..172)
+                     /label=9651
+     primer_bind     156..172
+                     /label=9652
+     primer_bind     complement(156..172)
+                     /label=9781
+     primer_bind     156..172
+                     /label=9782
+     primer_bind     156..170
+                     /label=E878
+     primer_bind     complement(157..174)
+                     /label=9492
+     primer_bind     160..175
+                     /label=1752
+     primer_bind     complement(165..175)
+                     /label=A567
+     primer_bind     171..204
+                     /label=D734
+     primer_bind     175..194
+                     /label=E339
+     CDS             complement(176..748)
+                     /locus_tag="NAT (Nourseothricin Acetyltransferase)"
+                     /label=NAT (Nourseothricin Acetyltransferase)
+     primer_bind     176..208
+                     /label=B207
+     primer_bind     176..204
+                     /label=AW_p206_Nat_US_F
+     primer_bind     complement(176..204)
+                     /label=B752
+     primer_bind     176..204
+                     /label=H527
+     primer_bind     176..203
+                     /label=D654
+     primer_bind     176..200
+                     /label=D615
+     primer_bind     complement(176..194)
+                     /label=D616
+     primer_bind     179..204
+                     /label=H528
+     primer_bind     179..194
+                     /label=G473
+     primer_bind     complement(312..346)
+                     /label=D610
+     primer_bind     312..334
+                     /label=D731
+     primer_bind     312..334
+                     /label=D613
+     primer_bind     complement(312..334)
+                     /label=D730
+     primer_bind     complement(312..334)
+                     /label=D651
+     primer_bind     312..334
+                     /label=D652
+     primer_bind     complement(483..494)
+                     /label=9389
+                     /note="VH_39_BBD_Forward"
+     primer_bind     487..523
+                     /label=F101
+     primer_bind     574..601
+                     /label=AW_p432_Sal1_canc_F
+     primer_bind     complement(574..601)
+                     /label=AW_p432_Sal1_canc_R
+     primer_bind     complement(625..635)
+                     /label=3784
+                     /note="RR-puro-p1-BspHI-rev"
+     primer_bind     complement(629..648)
+                     /label=D655
+     primer_bind     complement(629..648)
+                     /label=D614
+     primer_bind     629..648
+                     /label=D617
+     primer_bind     666..681
+                     /label=557
+     primer_bind     complement(688..713)
+                     /label=5093
+                     /note="TBL-site3longerIlluminaR4UMI"
+     primer_bind     complement(688..713)
+                     /label=5092
+                     /note="TBL-site3longerIlluminaR3UMI"
+     primer_bind     complement(688..713)
+                     /label=5090
+                     /note="TBL-site3longerIlluminaR1UMI"
+     primer_bind     complement(688..712)
+                     /label=5096
+                     /note="TBL-site3longerIlluminaR7UMI"
+     primer_bind     complement(688..712)
+                     /label=5095
+                     /note="TBL-site3longerIlluminaR6UMI"
+     primer_bind     complement(688..712)
+                     /label=5094
+                     /note="TBL-site3longerIlluminaR5UMI"
+     primer_bind     complement(688..712)
+                     /label=5091
+                     /note="TBL-site3longerIlluminaR2UMI"
+     primer_bind     complement(711..726)
+                     /label=557
+     primer_bind     720..754
+                     /label=D650
+     primer_bind     complement(722..777)
+                     /label=AW_p206_Nat_DS_R
+     primer_bind     722..777
+                     /label=B753
+     primer_bind     complement(723..754)
+                     /label=D653
+     primer_bind     complement(723..751)
+                     /label=8707
+                     /note="pTBL1077-3F"
+     primer_bind     complement(723..751)
+                     /label=D850
+     primer_bind     723..748
+                     /label=D854
+     primer_bind     complement(723..748)
+                     /label=D855
+     primer_bind     complement(723..745)
+                     /label=G472
+     primer_bind     complement(724..748)
+                     /label=G141
+     primer_bind     730..751
+                     /label=D852
+     primer_bind     730..750
+                     /label=B952
+     primer_bind     complement(730..750)
+                     /label=B953
+     primer_bind     complement(733..792)
+                     /label=AW_RBD1_NAT_Sac1_R
+     primer_bind     737..751
+                     /label=8706
+     primer_bind     complement(741..777)
+                     /label=D735
+     primer_bind     complement(741..777)
+                     /label=E180
+     primer_bind     complement(746..785)
+                     /label=6021
+     primer_bind     complement(746..779)
+                     /label=D729
+     primer_bind     complement(746..777)
+                     /label=9493
+     primer_bind     complement(746..777)
+                     /label=2555
+     primer_bind     746..777
+                     /label=9
+     primer_bind     complement(746..777)
+                     /label=788
+     primer_bind     746..777
+                     /label=91
+     primer_bind     complement(746..777)
+                     /label=8541
+     primer_bind     complement(746..777)
+                     /label=1746
+     primer_bind     complement(746..777)
+                     /label=D807
+     primer_bind     746..777
+                     /label=5903
+     primer_bind     complement(746..777)
+                     /label=F539
+     primer_bind     complement(746..777)
+                     /label=4437
+     primer_bind     complement(746..776)
+                     /label=4925
+     primer_bind     complement(746..776)
+                     /label=5135
+     primer_bind     complement(746..775)
+                     /label=4141
+     primer_bind     complement(746..774)
+                     /label=7783
+     primer_bind     746..772
+                     /label=113
+     primer_bind     complement(746..771)
+                     /label=732
+     primer_bind     complement(746..768)
+                     /label=1877
+     primer_bind     complement(746..760)
+                     /label=385
+     primer_bind     747..777
+                     /label=4104
+     primer_bind     747..777
+                     /label=4140
+     primer_bind     747..777
+                     /label=F538
+     5'UTR           complement(749..777)
+                     /label=UTR region from pGKL1 ORF2
+     primer_bind     complement(749..777)
+                     /label=C534
+     primer_bind     749..777
+                     /label=C535
+     primer_bind     749..777
+                     /label=B599
+     primer_bind     749..777
+                     /label=9492
+     primer_bind     749..777
+                     /label=731
+     primer_bind     complement(749..777)
+                     /label=347
+     primer_bind     749..777
+                     /label=4924
+     primer_bind     complement(749..777)
+                     /label=350
+     primer_bind     750..779
+                     /label=D612
+     primer_bind     751..777
+                     /label=A644
+     primer_bind     751..777
+                     /label=5905
+     primer_bind     751..777
+                     /label=A429
+     primer_bind     complement(753..777)
+                     /label=463
+     primer_bind     complement(753..777)
+                     /label=355
+     primer_bind     complement(753..777)
+                     /label=286
+     primer_bind     753..777
+                     /label=5205
+     primer_bind     753..777
+                     /label=D856
+     primer_bind     753..777
+                     /label=2549
+     primer_bind     754..777
+                     /label=A950
+     primer_bind     754..777
+                     /label=D851
+     primer_bind     754..777
+                     /label=722
+     primer_bind     754..777
+                     /label=4822
+     primer_bind     754..777
+                     /label=351
+     primer_bind     754..777
+                     /label=353
+     primer_bind     756..777
+                     /label=5961
+     primer_bind     759..779
+                     /label=9433
+     primer_bind     761..779
+                     /label=C243
+     primer_bind     762..779
+                     /label=3547
+     primer_bind     763..779
+                     /label=3904
+     primer_bind     763..779
+                     /label=4626
+     primer_bind     763..779
+                     /label=8450
+     primer_bind     763..777
+                     /label=3517
+     primer_bind     765..779
+                     /label=3930
+     primer_bind     complement(777..810)
+                     /label=9487
+     primer_bind     777..802
+                     /label=338
+     primer_bind     778..818
+                     /label=A566
+     primer_bind     778..818
+                     /label=1752
+     primer_bind     778..812
+                     /label=565
+     primer_bind     778..804
+                     /label=2
+     primer_bind     778..802
+                     /label=1182
+     primer_bind     complement(778..802)
+                     /label=LSE_T2_B8
+     primer_bind     778..796
+                     /label=3113
+     primer_bind     complement(778..794)
+                     /label=1173
+     primer_bind     complement(781..812)
+                     /label=9649
+     primer_bind     781..812
+                     /label=9650
+     primer_bind     781..801
+                     /label=AW_p206_Nat_US_F
+     primer_bind     complement(781..801)
+                     /label=B752
+     primer_bind     782..841
+                     /label=9486
+     primer_bind     782..802
+                     /label=A487
+     primer_bind     complement(782..802)
+                     /label=A490
+     primer_bind     784..838
+                     /label=LSE_T2_B6
+     primer_bind     784..818
+                     /label=874
+     primer_bind     784..818
+                     /label=6269
+     primer_bind     784..818
+                     /label=2021
+     primer_bind     784..812
+                     /label=4675
+     primer_bind     complement(784..808)
+                     /label=6270
+     primer_bind     complement(784..807)
+                     /label=6271
+     primer_bind     complement(784..802)
+                     /label=9320
+     primer_bind     complement(784..802)
+                     /label=873
+     primer_bind     784..802
+                     /label=9266
+     primer_bind     complement(787..818)
+                     /label=A567
+     primer_bind     799..833
+                     /label=G304
+     primer_bind     complement(802..849)
+                     /label=1288
+     primer_bind     808..847
+                     /label=281
+     primer_bind     811..847
+                     /label=9519
+     primer_bind     complement(812..874)
+                     /label=1744
+     primer_bind     812..871
+                     /label=9485
+     primer_bind     812..844
+                     /label=E604
+     primer_bind     complement(812..843)
+                     /label=E165
+     primer_bind     812..828
+                     /label=E895
+     primer_bind     813..849
+                     /label=E166
+     primer_bind     816..878
+                     /label=1747
+     primer_bind     complement(817..847)
+                     /label=1880
+     primer_bind     818..877
+                     /label=H644
+     primer_bind     complement(818..858)
+                     /label=3795
+     primer_bind     complement(818..849)
+                     /label=B252
+     primer_bind     818..849
+                     /label=B253
+     primer_bind     818..849
+                     /label=7661
+     primer_bind     complement(818..849)
+                     /label=7664
+     primer_bind     complement(818..848)
+                     /label=2724
+     primer_bind     818..848
+                     /label=2302
+     primer_bind     complement(818..847)
+                     /label=663
+     primer_bind     complement(818..847)
+                     /label=9526
+     primer_bind     818..847
+                     /label=D614
+     primer_bind     complement(818..847)
+                     /label=D617
+     primer_bind     complement(818..847)
+                     /label=9534
+     primer_bind     complement(818..847)
+                     /label=9536
+     primer_bind     818..847
+                     /label=D830
+     primer_bind     complement(818..847)
+                     /label=3933
+     primer_bind     complement(818..847)
+                     /label=572
+     primer_bind     819..847
+                     /label=9635
+     primer_bind     complement(819..847)
+                     /label=9636
+     primer_bind     819..844
+                     /label=E629
+     primer_bind     821..878
+                     /label=H718
+     primer_bind     complement(821..878)
+                     /label=H719
+     primer_bind     821..869
+                     /label=4926
+     primer_bind     821..849
+                     /label=5136
+     primer_bind     complement(821..847)
+                     /label=4923
+     primer_bind     complement(821..847)
+                     /label=D808
+     primer_bind     828..849
+                     /label=665
+     primer_bind     828..847
+                     /label=7669
+     primer_bind     complement(828..847)
+                     /label=8109
+     primer_bind     828..847
+                     /label=8110
+     primer_bind     complement(828..847)
+                     /label=7672
+     primer_bind     838..870
+                     /label=3796
+     primer_bind     complement(851..885)
+                     /label=A179
+     primer_bind     851..878
+                     /label=A644
+     primer_bind     851..878
+                     /label=F385
+     primer_bind     complement(851..878)
+                     /label=F386
+     primer_bind     851..878
+                     /label=D736
+     primer_bind     851..878
+                     /label=A182
+     primer_bind     complement(851..877)
+                     /label=3881
+     primer_bind     851..877
+                     /label=7407
+     primer_bind     851..877
+                     /label=F116
+     primer_bind     851..877
+                     /label=5905
+     primer_bind     851..877
+                     /label=3844
+     primer_bind     851..877
+                     /label=3882
+     primer_bind     851..870
+                     /label=E977
+     primer_bind     851..870
+                     /label=C969
+     primer_bind     851..870
+                     /label=E179
+     primer_bind     851..870
+                     /label=3832
+     primer_bind     851..869
+                     /label=4685
+     primer_bind     851..869
+                     /label=9018
+     primer_bind     complement(851..869)
+                     /label=9019
+     primer_bind     851..869
+                     /label=3808
+     primer_bind     851..868
+                     /label=9692
+     CDS             complement(852..1523)
+                     /codon_start=1
+                     /label=TRP1
+                     /translation="MSVINFTGSSGPLVKVCGLQSTEAAECALDSDADLLGIICVPNRK
+                     RTIDPVIARKISSLVKAYKNSSGTPKYLVGVFRNQPKEDVLALVNDYGIDIVQLHGDES
+                     WQEYQEFLGLPVIKRLVFPKDCNILLSAASQKPHSFIPLFDSEAGGTGELLDWNSISDW
+                     VGRQESPESLHFMLAGGLTPENVGDALRLNGVIGVDVSGGVETNGVKDSNKIANFVKNA
+                     KK"
+     primer_bind     852..871
+                     /label=5265
+     primer_bind     complement(859..888)
+                     /label=F381
+     primer_bind     complement(859..880)
+                     /label=F377
+     primer_bind     complement(859..880)
+                     /label=F372
+     primer_bind     complement(979..1003)
+                     /label=F974
+     primer_bind     complement(983..1040)
+                     /label=F382
+     primer_bind     complement(983..1003)
+                     /label=F378
+     primer_bind     complement(983..1003)
+                     /label=F373
+     primer_bind     complement(1042..1064)
+                     /label=E885
+     primer_bind     complement(1139..1164)
+                     /label=H562
+     primer_bind     1208..1227
+                     /label=AP_TRP1_mid_F
+     primer_bind     complement(1271..1286)
+                     /label=557
+     primer_bind     1375..1393
+                     /label=5122
+     primer_bind     1486..1523
+                     /label=A178
+     primer_bind     1490..1508
+                     /label=4748
+     primer_bind     complement(1492..1527)
+                     /label=A643
+     primer_bind     complement(1493..1552)
+                     /label=1746
+     primer_bind     complement(1493..1523)
+                     /label=A181
+     primer_bind     1493..1523
+                     /label=F916
+     primer_bind     complement(1493..1523)
+                     /label=F917
+     primer_bind     complement(1495..1552)
+                     /label=D729
+     primer_bind     complement(1498..1552)
+                     /label=D849
+     primer_bind     complement(1498..1552)
+                     /label=D853
+     primer_bind     complement(1498..1527)
+                     /label=7406
+     primer_bind     complement(1498..1527)
+                     /label=5904
+     primer_bind     complement(1498..1523)
+                     /label=F115
+     primer_bind     complement(1500..1525)
+                     /label=G305
+     primer_bind     complement(1501..1552)
+                     /label=9484
+     primer_bind     complement(1501..1523)
+                     /label=C968
+     primer_bind     complement(1501..1523)
+                     /label=E976
+     primer_bind     complement(1501..1523)
+                     /label=5264
+     primer_bind     complement(1504..1551)
+                     /label=4925
+     primer_bind     complement(1504..1523)
+                     /label=9691
+     primer_bind     complement(1504..1523)
+                     /label=4684
+     primer_bind     1504..1523
+                     /label=9020
+     primer_bind     complement(1504..1523)
+                     /label=9021
+     primer_bind     complement(1506..1552)
+                     /label=3993
+     primer_bind     complement(1506..1552)
+                     /label=D611
+     primer_bind     1509..1552
+                     /label=1745
+     primer_bind     1513..1552
+                     /label=9490
+     primer_bind     1515..1574
+                     /label=6537
+     primer_bind     1517..1562
+                     /label=B251
+     primer_bind     complement(1517..1562)
+                     /label=B254
+     primer_bind     complement(1517..1552)
+                     /label=3807
+     primer_bind     complement(1517..1552)
+                     /label=E338
+     primer_bind     complement(1517..1552)
+                     /label=5962
+     primer_bind     complement(1517..1552)
+                     /label=3999
+     primer_bind     complement(1519..1552)
+                     /label=E178
+     primer_bind     complement(1520..1552)
+                     /label=5488
+     primer_bind     complement(1520..1552)
+                     /label=5492
+     primer_bind     complement(1520..1552)
+                     /label=5496
+     primer_bind     complement(1520..1552)
+                     /label=5500
+     primer_bind     complement(1520..1552)
+                     /label=5504
+     primer_bind     complement(1520..1552)
+                     /label=5508
+     primer_bind     complement(1520..1549)
+                     /label=7783
+     primer_bind     complement(1521..1556)
+                     /label=AW_p206_Nat_DS_R
+     primer_bind     1521..1556
+                     /label=B753
+     primer_bind     complement(1521..1553)
+                     /label=2555
+     primer_bind     complement(1521..1552)
+                     /label=9493
+     primer_bind     complement(1521..1552)
+                     /label=6021
+     primer_bind     1521..1552
+                     /label=9
+     primer_bind     complement(1521..1552)
+                     /label=788
+     primer_bind     1521..1552
+                     /label=91
+     primer_bind     complement(1521..1552)
+                     /label=8541
+     primer_bind     complement(1521..1552)
+                     /label=D807
+     primer_bind     1521..1552
+                     /label=5903
+     primer_bind     complement(1521..1552)
+                     /label=F539
+     primer_bind     complement(1521..1552)
+                     /label=4437
+     primer_bind     complement(1521..1551)
+                     /label=5135
+     primer_bind     complement(1521..1550)
+                     /label=4141
+     primer_bind     1521..1547
+                     /label=113
+     primer_bind     complement(1521..1546)
+                     /label=732
+     primer_bind     complement(1521..1543)
+                     /label=1877
+     primer_bind     complement(1521..1535)
+                     /label=385
+     primer_bind     1522..1552
+                     /label=4104
+     primer_bind     1522..1552
+                     /label=4140
+     primer_bind     1522..1552
+                     /label=F538
+     5'UTR           complement(1524..1552)
+                     /label=UTR region from pGKL1 ORF2
+     primer_bind     complement(1524..1552)
+                     /label=C534
+     primer_bind     1524..1552
+                     /label=C535
+     primer_bind     1524..1552
+                     /label=B599
+     primer_bind     1524..1552
+                     /label=9492
+     primer_bind     1524..1552
+                     /label=731
+     primer_bind     complement(1524..1552)
+                     /label=347
+     primer_bind     1524..1552
+                     /label=4924
+     primer_bind     complement(1524..1552)
+                     /label=350
+     primer_bind     1525..1552
+                     /label=D612
+     primer_bind     1526..1552
+                     /label=A644
+     primer_bind     1526..1552
+                     /label=5905
+     primer_bind     1526..1552
+                     /label=A429
+     primer_bind     1528..1553
+                     /label=2549
+     primer_bind     complement(1528..1552)
+                     /label=463
+     primer_bind     complement(1528..1552)
+                     /label=355
+     primer_bind     complement(1528..1552)
+                     /label=286
+     primer_bind     1528..1552
+                     /label=5205
+     primer_bind     1528..1552
+                     /label=D856
+     primer_bind     1529..1553
+                     /label=A950
+     primer_bind     1529..1552
+                     /label=D851
+     primer_bind     1529..1552
+                     /label=722
+     primer_bind     1529..1552
+                     /label=4822
+     primer_bind     1529..1552
+                     /label=351
+     primer_bind     1529..1552
+                     /label=353
+     primer_bind     1531..1552
+                     /label=5961
+     primer_bind     complement(1533..1554)
+                     /label=214
+     primer_bind     1534..1552
+                     /label=9433
+     primer_bind     1536..1552
+                     /label=C243
+     primer_bind     1537..1552
+                     /label=3547
+     primer_bind     1538..1552
+                     /label=3904
+     primer_bind     1538..1552
+                     /label=4626
+     primer_bind     1538..1552
+                     /label=8450
+     primer_bind     1538..1552
+                     /label=3517
+     primer_bind     1552..1593
+                     /label=D616
+     CDS             1553..1678
+                     /label=Toxin subunit gamma
+     primer_bind     1553..1589
+                     /label=E520
+     primer_bind     1553..1589
+                     /label=G090
+     primer_bind     1553..1586
+                     /label=7669
+     primer_bind     complement(1553..1574)
+                     /label=E521
+     primer_bind     complement(1553..1574)
+                     /label=7672
+     primer_bind     1553..1574
+                     /label=804
+     primer_bind     1613..1632
+                     /label=1916
+     primer_bind     1623..1671
+                     /label=8788
+     primer_bind     complement(1623..1652)
+                     /label=8783
+     primer_bind     complement(1623..1652)
+                     /label=8785
+     primer_bind     complement(1650..1687)
+                     /label=6534
+     primer_bind     1650..1672
+                     /label=6518
+     primer_bind     complement(1651..1687)
+                     /label=6528
+     primer_bind     complement(1651..1679)
+                     /label=6531
+     primer_bind     1651..1672
+                     /label=6516
+     primer_bind     1651..1672
+                     /label=6517
+     primer_bind     1652..1672
+                     /label=9525
+     primer_bind     1652..1672
+                     /label=G178
+     primer_bind     1652..1671
+                     /label=G254
+     primer_bind     1652..1671
+                     /label=D240
+     primer_bind     complement(1652..1671)
+                     /label=E610
+     primer_bind     1652..1669
+                     /label=H643
+     primer_bind     1653..1703
+                     /label=7659
+     primer_bind     complement(1653..1703)
+                     /label=7660
+     primer_bind     1653..1697
+                     /label=453
+     primer_bind     1653..1695
+                     /label=7673
+     primer_bind     complement(1653..1692)
+                     /label=6522
+     primer_bind     complement(1653..1689)
+                     /label=A228
+     primer_bind     complement(1653..1687)
+                     /label=6525
+     primer_bind     complement(1653..1686)
+                     /label=7427
+     primer_bind     complement(1653..1683)
+                     /label=5254
+     primer_bind     1653..1682
+                     /label=G276
+     primer_bind     complement(1653..1682)
+                     /label=9500
+     primer_bind     1653..1678
+                     /label=G059
+     primer_bind     1653..1675
+                     /label=5257
+     primer_bind     1653..1675
+                     /label=A755
+     primer_bind     1653..1675
+                     /label=F983
+     primer_bind     1653..1675
+                     /label=F997
+     primer_bind     complement(1653..1675)
+                     /label=360
+     primer_bind     1653..1675
+                     /label=C982
+     primer_bind     1653..1675
+                     /label=6782
+     primer_bind     1653..1675
+                     /label=C928
+     primer_bind     1653..1675
+                     /label=F569
+     primer_bind     1653..1675
+                     /label=G068
+     primer_bind     1653..1675
+                     /label=G116
+     primer_bind     1653..1675
+                     /label=9764
+     primer_bind     1653..1675
+                     /label=6210
+     primer_bind     complement(1653..1675)
+                     /label=A807
+     primer_bind     complement(1653..1674)
+                     /label=G275
+     primer_bind     complement(1653..1673)
+                     /label=9757
+     primer_bind     complement(1653..1672)
+                     /label=6852
+     primer_bind     complement(1653..1672)
+                     /label=F239
+     primer_bind     1653..1672
+                     /label=6514
+     primer_bind     1653..1672
+                     /label=6515
+     primer_bind     1653..1672
+                     /label=9501
+     primer_bind     1653..1672
+                     /label=G180
+     primer_bind     1653..1672
+                     /label=9533
+     primer_bind     1653..1672
+                     /label=9535
+     primer_bind     1653..1672
+                     /label=4431
+     primer_bind     complement(1653..1672)
+                     /label=2815
+     primer_bind     1653..1671
+                     /label=H724
+     primer_bind     1653..1671
+                     /label=D420
+     primer_bind     1653..1671
+                     /label=G252
+     primer_bind     1653..1671
+                     /label=F511
+     primer_bind     1653..1671
+                     /label=7199
+     primer_bind     1653..1670
+                     /label=E596
+     primer_bind     complement(1653..1668)
+                     /label=LSE_T2_B9
+     primer_bind     complement(1653..1667)
+                     /label=566
+     primer_bind     1653..1666
+                     /label=581
+     primer_bind     complement(1656..1703)
+                     /label=7670
+     primer_bind     complement(1658..1733)
+                     /label=F101
+     primer_bind     complement(1658..1679)
+                     /label=G314
+     primer_bind     complement(1675..1708)
+                     /label=F563
+     primer_bind     1675..1703
+                     /label=5707
+     primer_bind     1676..1718
+                     /label=359
+     primer_bind     complement(1676..1695)
+                     /label=9520
+     primer_bind     complement(1678..1718)
+                     /label=454
+     primer_bind     1679..1717
+                     /label=6538
+     primer_bind     1679..1715
+                     /label=G002
+     CDS             1679..1714
+                     /label=Toxin subunit gamma
+     primer_bind     complement(1685..1717)
+                     /label=D737
+     primer_bind     complement(1685..1714)
+                     /label=443
+     primer_bind     complement(1685..1714)
+                     /label=E893
+     primer_bind     1688..1735
+                     /label=7546
+     primer_bind     complement(1688..1735)
+                     /label=7547
+     primer_bind     complement(1688..1717)
+                     /label=E516
+     primer_bind     complement(1690..1718)
+                     /label=E605
+     primer_bind     complement(1690..1717)
+                     /label=E628
+     primer_bind     complement(1690..1715)
+                     /label=8389
+     primer_bind     1691..1718
+                     /label=7782
+     primer_bind     complement(1695..1718)
+                     /label=1183
+     primer_bind     complement(1701..1718)
+                     /label=4832
+     primer_bind     1709..1732
+                     /label=9326
+     primer_bind     complement(1709..1729)
+                     /label=9325
+     primer_bind     1713..1731
+                     /label=E188
+     primer_bind     complement(1713..1731)
+                     /label=E189
+     primer_bind     complement(1714..1742)
+                     /label=D613
+     primer_bind     1714..1731
+                     /label=D610
+     primer_bind     complement(1735..1753)
+                     /label=8325
+     primer_bind     1735..1753
+                     /label=8328
+     primer_bind     complement(1736..1784)
+                     /label=8204
+     primer_bind     complement(1736..1751)
+                     /label=8199
+     primer_bind     complement(1739..1786)
+                     /label=8327
+     primer_bind     complement(1741..1763)
+                     /label=D731
+     primer_bind     1741..1754
+                     /label=D730
+     primer_bind     1772..1831
+                     /label=8203
+     primer_bind     complement(1782..1829)
+                     /label=6263
+     primer_bind     complement(1786..1806)
+                     /label=7398
+     primer_bind     1789..1833
+                     /label=6264
+     primer_bind     1805..1822
+                     /label=8130
+     primer_bind     complement(1807..1838)
+                     /label=A223
+     primer_bind     complement(1807..1838)
+                     /label=A222
+     primer_bind     complement(1807..1837)
+                     /label=A221
+     primer_bind     complement(1807..1836)
+                     /label=A220
+     primer_bind     1807..1822
+                     /label=G281
+     primer_bind     1807..1822
+                     /label=7403
+     primer_bind     1807..1822
+                     /label=8338
+     primer_bind     complement(1815..1836)
+                     /label=1959
+     primer_bind     complement(1816..1871)
+                     /label=8202
+     primer_bind     complement(1831..1851)
+                     /label=C977
+     primer_bind     complement(1841..1867)
+                     /label=9389
+                     /note="VH_39_BBD_Forward"
+     primer_bind     1841..1859
+                     /label=9392
+     primer_bind     1848..1864
+                     /label=C163
+     primer_bind     complement(1848..1864)
+                     /label=C166
+     primer_bind     complement(1856..1894)
+                     /label=9227
+     primer_bind     1856..1894
+                     /label=9229
+     CDS             complement(1912..2772)
+                     /label=AmpR
+     primer_bind     complement(1915..1941)
+                     /label=C693
+     primer_bind     1915..1932
+                     /label=C692
+     primer_bind     1939..1964
+                     /label=3830
+     primer_bind     complement(1939..1964)
+                     /label=3831
+     primer_bind     1951..1973
+                     /label=8930
+     primer_bind     2022..2041
+                     /label=1717
+     primer_bind     complement(2022..2041)
+                     /label=1718
+     primer_bind     2121..2180
+                     /label=3051
+     primer_bind     complement(2126..2145)
+                     /label=1532
+     primer_bind     2126..2142
+                     /label=1533
+     primer_bind     2181..2240
+                     /label=3052
+     primer_bind     complement(2232..2261)
+                     /label=6036
+     primer_bind     complement(2232..2261)
+                     /label=6042
+     primer_bind     2246..2272
+                     /label=6037
+     primer_bind     2246..2272
+                     /label=6043
+     primer_bind     2247..2265
+                     /label=9778
+     primer_bind     2250..2267
+                     /label=3550
+     primer_bind     2253..2274
+                     /label=7050
+     primer_bind     complement(2253..2274)
+                     /label=7051
+     primer_bind     complement(2272..2289)
+                     /label=9779
+     primer_bind     2297..2323
+                     /label=AP_AmpR_removeBsaI_F
+     primer_bind     complement(2297..2323)
+                     /label=AP_AmpR_removeBsaI_R
+     primer_bind     complement(2304..2333)
+                     /label=6023
+     primer_bind     2314..2344
+                     /label=6022
+     primer_bind     2352..2392
+                     /label=3958
+     primer_bind     complement(2352..2371)
+                     /label=3957
+     primer_bind     complement(2466..2486)
+                     /label=3551
+     primer_bind     2468..2484
+                     /label=686
+     primer_bind     complement(2572..2592)
+                     /label=5949
+     primer_bind     2572..2589
+                     /label=5950
+     primer_bind     complement(2586..2652)
+                     /label=F315
+     primer_bind     complement(2701..2720)
+                     /label=3944
+     primer_bind     2737..2760
+                     /label=4956
+     primer_bind     complement(2747..2777)
+                     /label=H743
+     primer_bind     complement(2747..2773)
+                     /label=2541
+     primer_bind     complement(2747..2773)
+                     /label=2648
+     primer_bind     2769..2800
+                     /label=5692
+     primer_bind     2772..2811
+                     /label=H416
+     primer_bind     2773..2811
+                     /label=H740
+     primer_bind     complement(2786..2845)
+                     /label=1722
+     primer_bind     complement(2799..2828)
+                     /label=1753
+     primer_bind     complement(2799..2828)
+                     /label=C691
+     primer_bind     2799..2828
+                     /label=C694
+     primer_bind     complement(2800..2848)
+                     /label=9438
+     primer_bind     2800..2844
+                     /label=9437
+     primer_bind     complement(2800..2839)
+                     /label=3817
+     primer_bind     2805..2827
+                     /label=2866
+     primer_bind     complement(2806..2827)
+                     /label=3173
+     primer_bind     2806..2827
+                     /label=3172
+     primer_bind     complement(2807..2840)
+                     /label=1595
+     primer_bind     2807..2840
+                     /label=1596
+     primer_bind     2808..2867
+                     /label=1721
+     primer_bind     2809..2851
+                     /label=3816
+     primer_bind     2811..2840
+                     /label=1754
+     primer_bind     2843..2862
+                     /label=4273
+     primer_bind     complement(2851..2881)
+                     /label=1181
+     primer_bind     complement(2851..2870)
+                     /label=5943
+     primer_bind     2862..2881
+                     /label=1183
+     primer_bind     2882..2901
+                     /label=1173
+     primer_bind     2882..2895
+                     /label=LSE_T2_B8
+     primer_bind     2903..2927
+                     /label=1707
+     primer_bind     2903..2922
+                     /label=1762
+     primer_bind     complement(2903..2920)
+                     /label=1627
+     primer_bind     2904..2928
+                     /label=1645
+     primer_bind     2904..2923
+                     /label=1628
+     primer_bind     2911..2939
+                     /label=1059
+     primer_bind     2923..2945
+                     /label=2183
+     primer_bind     2924..2949
+                     /label=3426
+     primer_bind     2924..2949
+                     /label=3427
+     primer_bind     2924..2943
+                     /label=2326
+     primer_bind     complement(2924..2940)
+                     /label=2830
+     primer_bind     2924..2940
+                     /label=2831
+     primer_bind     2924..2939
+                     /label=2914
+     primer_bind     2924..2938
+                     /label=2847
+     primer_bind     2924..2938
+                     /label=2848
+     primer_bind     2929..2943
+                     /label=4485
+     primer_bind     2944..2963
+                     /label=2079
+     primer_bind     2955..2974
+                     /label=928
+     primer_bind     complement(2960..2978)
+                     /label=2325
+     primer_bind     complement(2961..2979)
+                     /label=2718
+     primer_bind     complement(2961..2978)
+                     /label=2720
+     primer_bind     complement(2961..2978)
+                     /label=2722
+     primer_bind     complement(2961..2978)
+                     /label=2832
+     primer_bind     2961..2978
+                     /label=2833
+     primer_bind     complement(2962..2978)
+                     /label=4629
+     primer_bind     2974..2990
+                     /label=4234
+     primer_bind     complement(2975..2995)
+                     /label=1917
+     primer_bind     2975..2995
+                     /label=1918
+     primer_bind     3003..3043
+                     /label=7894
+     primer_bind     3003..3042
+                     /label=8513
+     primer_bind     3006..3042
+                     /label=8546
+     primer_bind     3012..3050
+                     /label=1911
+     primer_bind     3012..3050
+                     /label=LSE_T3_A12
+     primer_bind     3012..3050
+                     /label=LSE_T3_B8
+     primer_bind     3014..3050
+                     /label=LSE_T3_B4
+     primer_bind     complement(3016..3042)
+                     /label=2435
+     primer_bind     complement(3016..3042)
+                     /label=2440
+     primer_bind     complement(3016..3042)
+                     /label=2436
+     primer_bind     complement(3018..3048)
+                     /label=14
+     primer_bind     complement(3018..3042)
+                     /label=2347
+     primer_bind     complement(3018..3042)
+                     /label=2377
+     primer_bind     3019..3050
+                     /label=1890
+     primer_bind     complement(3020..3041)
+                     /label=1185
+     primer_bind     complement(3021..3043)
+                     /label=2345
+     primer_bind     3022..3050
+                     /label=9435
+     primer_bind     complement(3022..3042)
+                     /label=2063
+     primer_bind     complement(3023..3048)
+                     /label=6
+     primer_bind     3023..3043
+                     /label=2346
+     primer_bind     3023..3042
+                     /label=H726
+     primer_bind     complement(3023..3042)
+                     /label=5474
+     primer_bind     complement(3023..3041)
+                     /label=7898
+     primer_bind     complement(3025..3042)
+                     /label=1395
+     primer_bind     complement(3025..3042)
+                     /label=1495
+     primer_bind     complement(3025..3042)
+                     /label=2484
+     primer_bind     complement(3025..3042)
+                     /label=946
+     primer_bind     complement(3025..3042)
+                     /label=2121
+     primer_bind     complement(3025..3042)
+                     /label=1949
+     primer_bind     complement(3025..3042)
+                     /label=2204
+     primer_bind     complement(3025..3042)
+                     /label=963
+     primer_bind     complement(3025..3042)
+                     /label=1493
+     primer_bind     3026..3042
+                     /label=5476
+     primer_bind     3027..3072
+                     /label=9228
+     primer_bind     complement(3027..3072)
+                     /label=9230
+     primer_bind     complement(3027..3042)
+                     /label=3208
+     primer_bind     3027..3042
+                     /label=2378
+     primer_bind     3027..3042
+                     /label=2437
+     primer_bind     complement(3027..3042)
+                     /label=1092
+     primer_bind     complement(3027..3042)
+                     /label=1314
+     primer_bind     3028..3050
+                     /label=9502
+     primer_bind     3028..3050
+                     /label=1171
+     primer_bind     complement(3029..3050)
+                     /label=1910
+     primer_bind     complement(3029..3050)
+                     /label=1895
+     primer_bind     complement(3029..3048)
+                     /label=9470
+     primer_bind     3030..3050
+                     /label=2554
+     primer_bind     3030..3048
+                     /label=9469
+     primer_bind     complement(3031..3050)
+                     /label=359
+     primer_bind     complement(3031..3050)
+                     /label=6539
+     primer_bind     3031..3050
+                     /label=217
+     primer_bind     complement(3031..3050)
+                     /label=7782
+     primer_bind     complement(3031..3050)
+                     /label=218
+     primer_bind     complement(3032..3050)
+                     /label=7310
+     primer_bind     complement(3032..3050)
+                     /label=9503
+     primer_bind     complement(3032..3050)
+                     /label=9436
+     primer_bind     3032..3050
+                     /label=342
+     primer_bind     complement(3034..3050)
+                     /label=2545
+     primer_bind     complement(3034..3050)
+                     /label=3509
+     primer_bind     complement(3034..3050)
+                     /label=389
+     primer_bind     complement(3034..3050)
+                     /label=343
+     primer_bind     3035..3050
+                     /label=388
+     primer_bind     complement(3035..3050)
+                     /label=4625
+     primer_bind     complement(3036..3050)
+                     /label=3929
+     primer_bind     3049..3078
+                     /label=E867
+     misc_feature    3049..3072
+                     /label=Feature 46
+     primer_bind     complement(3055..3078)
+                     /label=E868
+     primer_bind     3056..3079
+                     /label=1824
+     primer_bind     complement(3056..3072)
+                     /label=2255
+     rep_origin      3079..3450
+                     /label=ori
+     primer_bind     3092..3115
+                     /label=2031
+     primer_bind     complement(3092..3111)
+                     /label=1216
+     primer_bind     complement(3092..3108)
+                     /label=1626
+     primer_bind     3093..3112
+                     /label=1644
+     primer_bind     3093..3109
+                     /label=1629
+     primer_bind     complement(3166..3187)
+                     /label=H356
+     primer_bind     complement(3185..3204)
+                     /label=1832
+     primer_bind     3259..3278
+                     /label=5484
+     primer_bind     complement(3273..3290)
+                     /label=1264
+     primer_bind     complement(3277..3296)
+                     /label=5485
+     primer_bind     3373..3391
+                     /label=H712
+     primer_bind     complement(3392..3409)
+                     /label=H711
+     primer_bind     3424..3457
+                     /label=2173
+     primer_bind     3428..3457
+                     /label=2130
+     primer_bind     complement(3431..3455)
+                     /label=1960
+     primer_bind     complement(3444..3470)
+                     /label=3759
+     primer_bind     3444..3470
+                     /label=3761
+     rep_origin      3451..3667
+                     /label=ori
+     primer_bind     3507..3526
+                     /label=3750
+     primer_bind     3529..3547
+                     /label=1215
+     primer_bind     3570..3594
+                     /label=H312
+     primer_bind     complement(3593..3610)
+                     /label=7564
+     primer_bind     3598..3617
+                     /label=6878
+     primer_bind     complement(3600..3623)
+                     /label=6980
+     primer_bind     3600..3623
+                     /label=6981
+     primer_bind     3600..3614
+                     /label=E835
+     primer_bind     3624..3648
+                     /label=3469
+     primer_bind     complement(3625..3648)
+                     /label=3174
+     primer_bind     3625..3648
+                     /label=3175
+     primer_bind     3626..3648
+                     /label=3095
+     primer_bind     3650..3670
+                     /label=5112
+     primer_bind     complement(3651..3670)
+                     /label=5113
+     primer_bind     complement(3658..3671)
+                     /label=E867
+     primer_bind     complement(3660..3685)
+                     /label=290
+     primer_bind     3661..3687
+                     /label=E472
+     primer_bind     3662..3685
+                     /label=4509
+     primer_bind     3662..3685
+                     /label=2431
+     primer_bind     3662..3681
+                     /label=E418
+     primer_bind     complement(3663..3685)
+                     /label=E500
+     primer_bind     complement(3664..3685)
+                     /label=4619
+     primer_bind     complement(3664..3685)
+                     /label=2277
+     primer_bind     complement(3666..3685)
+                     /label=E640
+     primer_bind     3666..3685
+                     /label=2470
+     primer_bind     3670..3685
+                     /label=4597
+     primer_bind     3670..3685
+                     /label=A764
+     primer_bind     complement(3670..3685)
+                     /label=7285
+     primer_bind     3681..3701
+                     /label=G210
+     primer_bind     3686..3720
+                     /label=6127
+     primer_bind     3692..3712
+                     /label=2744
+     primer_bind     3694..3711
+                     /label=D386
+     primer_bind     3695..3710
+                     /label=F925
+     primer_bind     3695..3709
+                     /label=H270
+     primer_bind     3699..3720
+                     /label=H270
+     primer_bind     3700..3718
+                     /label=E640
+     primer_bind     3701..3728
+                     /label=6158
+     primer_bind     complement(3701..3728)
+                     /label=6155
+     primer_bind     complement(3701..3721)
+                     /label=F924
+     primer_bind     3701..3721
+                     /label=F925
+     primer_bind     complement(3701..3720)
+                     /label=6126
+     primer_bind     complement(3702..3732)
+                     /label=E869
+     primer_bind     complement(3702..3723)
+                     /label=3417
+     primer_bind     3703..3722
+                     /label=E870
+     primer_bind     complement(3704..3724)
+                     /label=1819
+     primer_bind     complement(3708..3728)
+                     /label=4474
+     primer_bind     complement(3708..3728)
+                     /label=4476
+     primer_bind     complement(3708..3728)
+                     /label=4470
+     primer_bind     complement(3708..3728)
+                     /label=4472
+     primer_bind     3713..3745
+                     /label=3313
+     primer_bind     complement(3713..3745)
+                     /label=3314
+     primer_bind     3713..3728
+                     /label=3313
+     primer_bind     3719..3745
+                     /label=H172
+     primer_bind     complement(3719..3745)
+                     /label=H175
+     primer_bind     complement(3719..3743)
+                     /label=H313
+     primer_bind     3730..3767
+                     /label=C255
+     primer_bind     complement(3730..3755)
+                     /label=B666
+     primer_bind     3732..3767
+                     /label=5975
+     primer_bind     3735..3767
+                     /label=9548
+     primer_bind     3736..3767
+                     /label=2325
+     primer_bind     3737..3766
+                     /label=F395
+     primer_bind     complement(3737..3766)
+                     /label=F396
+     primer_bind     3737..3766
+                     /label=G055
+     primer_bind     3737..3766
+                     /label=G067
+     primer_bind     3738..3767
+                     /label=9579
+     primer_bind     complement(3738..3767)
+                     /label=D829
+     primer_bind     3738..3755
+                     /label=6755
+     primer_bind     3740..3767
+                     /label=3180
+     primer_bind     3740..3766
+                     /label=A395
+     primer_bind     3741..3766
+                     /label=2679
+     primer_bind     3743..3767
+                     /label=LSE_T3_A7
+     primer_bind     3743..3767
+                     /label=G271
+     primer_bind     complement(3743..3767)
+                     /label=G268
+     primer_bind     3744..3767
+                     /label=2083
+     primer_bind     3744..3767
+                     /label=2323
+     primer_bind     3744..3767
+                     /label=3521
+     primer_bind     3745..3767
+                     /label=9698
+     primer_bind     3745..3767
+                     /label=2614
+     primer_bind     complement(3745..3766)
+                     /label=9342
+     primer_bind     complement(3745..3766)
+                     /label=D281
+     primer_bind     complement(3745..3766)
+                     /label=E343
+     primer_bind     complement(3745..3766)
+                     /label=C955
+     primer_bind     3746..3767
+                     /label=2081
+     primer_bind     3746..3767
+                     /label=2322
+     primer_bind     3746..3767
+                     /label=LSE_T3_A1
+     primer_bind     complement(3746..3766)
+                     /label=5727
+     primer_bind     complement(3747..3767)
+                     /label=5982
+     primer_bind     complement(3747..3767)
+                     /label=9567
+     primer_bind     3747..3767
+                     /label=2412
+     primer_bind     3747..3767
+                     /label=2404
+     primer_bind     3747..3767
+                     /label=3461
+     primer_bind     complement(3747..3767)
+                     /label=C260
+     primer_bind     complement(3747..3767)
+                     /label=9588
+     primer_bind     complement(3747..3767)
+                     /label=F221
+     primer_bind     3747..3767
+                     /label=2615
+     primer_bind     complement(3747..3766)
+                     /label=G065
+     primer_bind     complement(3747..3766)
+                     /label=D279
+     primer_bind     3748..3767
+                     /label=4820
+     primer_bind     3748..3767
+                     /label=4816
+     primer_bind     3748..3767
+                     /label=4697
+     primer_bind     3748..3766
+                     /label=A398
+     primer_bind     complement(3749..3767)
+                     /label=2218
+     primer_bind     3749..3767
+                     /label=G360
+     primer_bind     complement(3749..3767)
+                     /label=F197
+     primer_bind     3749..3767
+                     /label=E358
+     primer_bind     complement(3749..3767)
+                     /label=2103
+     primer_bind     3749..3766
+                     /label=3077
+     primer_bind     complement(3750..3804)
+                     /label=Primer 1
+     primer_bind     complement(3752..3804)
+                     /label=H722
+     primer_bind     3752..3767
+                     /label=D807
+     primer_bind     complement(3753..3804)
+                     /label=H641
+     primer_bind     complement(3753..3767)
+                     /label=C970
+     primer_bind     complement(3753..3767)
+                     /label=E316
+     primer_bind     complement(3753..3767)
+                     /label=E658
+     primer_bind     complement(3753..3767)
+                     /label=F189
+     primer_bind     complement(3753..3767)
+                     /label=E563
+     primer_bind     complement(3753..3767)
+                     /label=D781
+     primer_bind     complement(3753..3767)
+                     /label=D782
+     primer_bind     complement(3755..3767)
+                     /label=F229
+     primer_bind     complement(3763..3788)
+                     /label=B667
+     primer_bind     3764..3781
+                     /label=9343
+     primer_bind     3766..3784
+                     /label=E597
+     primer_bind     complement(3775..3793)
+                     /label=5000
+     primer_bind     3783..3813
+                     /label=5756
+     primer_bind     complement(3797..3813)
+                     /label=5757
+     primer_bind     complement(3851..3869)
+                     /label=4989
+     primer_bind     3855..3875
+                     /label=8053
+     primer_bind     3882..3903
+                     /label=4999
+     primer_bind     complement(3882..3898)
+                     /label=4998
+     primer_bind     3885..3907
+                     /label=9538
+     primer_bind     3893..3916
+                     /label=H410
+     primer_bind     3893..3907
+                     /label=9560
+     primer_bind     3899..3915
+                     /label=A385
+     primer_bind     3912..3928
+                     /label=C976
+     primer_bind     complement(3923..3942)
+                     /label=1060
+     primer_bind     3932..3954
+                     /label=D331
+     primer_bind     complement(3936..3954)
+                     /label=H355
+     primer_bind     3937..3976
+                     /label=7544
+     primer_bind     complement(3937..3976)
+                     /label=7545
+     primer_bind     complement(3937..3962)
+                     /label=7402
+     primer_bind     complement(3937..3954)
+                     /label=G279
+     primer_bind     3939..3954
+                     /label=E186
+     primer_bind     complement(3939..3954)
+                     /label=E187
+     primer_bind     3940..3954
+                     /label=444
+     primer_bind     complement(3941..3960)
+                     /label=B217
+     primer_bind     3941..3960
+                     /label=B218
+     primer_bind     complement(3941..3958)
+                     /label=D651
+     primer_bind     3941..3958
+                     /label=D652
+     primer_bind     3943..3993
+                     /label=E530
+     primer_bind     3947..3998
+                     /label=D804
+     primer_bind     complement(3949..3991)
+                     /label=E163
+     primer_bind     3954..3990
+                     /label=E602
+     primer_bind     3955..4014
+                     /label=6535
+     primer_bind     complement(3955..3994)
+                     /label=4109
+     primer_bind     complement(3955..3993)
+                     /label=9639
+     primer_bind     3955..3993
+                     /label=9640
+     primer_bind     3955..3992
+                     /label=9762
+     primer_bind     complement(3955..3991)
+                     /label=8112
+     primer_bind     complement(3955..3991)
+                     /label=3457
+     primer_bind     complement(3955..3991)
+                     /label=4430
+     primer_bind     complement(3955..3991)
+                     /label=7403
+     primer_bind     complement(3955..3991)
+                     /label=5951
+     primer_bind     3955..3991
+                     /label=7401
+     primer_bind     complement(3955..3991)
+                     /label=8782
+     primer_bind     complement(3955..3988)
+                     /label=H576
+     primer_bind     3955..3988
+                     /label=D662
+     primer_bind     complement(3955..3978)
+                     /label=356
+     primer_bind     complement(3956..4021)
+                     /label=8540
+     primer_bind     3956..4020
+                     /label=5965
+     primer_bind     3956..3992
+                     /label=H577
+     primer_bind     3956..3991
+                     /label=5966
+     primer_bind     3956..3991
+                     /label=G174
+     primer_bind     3958..4020
+                     /label=8127
+     primer_bind     3958..3993
+                     /label=7920
+     primer_bind     3958..3993
+                     /label=A479
+     primer_bind     3958..3992
+                     /label=B862
+     primer_bind     complement(3958..3992)
+                     /label=E603
+     primer_bind     3958..3992
+                     /label=5622
+     primer_bind     3958..3992
+                     /label=E888
+     primer_bind     3958..3992
+                     /label=B861
+     misc_feature    3958..3991
+                     /label=flank 1
+     primer_bind     3958..3991
+                     /label=4429
+     primer_bind     complement(3958..3991)
+                     /label=5472
+     primer_bind     3958..3991
+                     /label=8111
+     primer_bind     complement(3958..3991)
+                     /label=349
+     primer_bind     3958..3991
+                     /label=C246
+     primer_bind     3958..3991
+                     /label=8449
+     primer_bind     3958..3982
+                     /label=H608
+     CDS             3958..3960
+                     /label=pGKL1 ORF3 delta ORF2 delta
+     primer_bind     3959..3992
+                     /label=E164
+     primer_bind     3959..3991
+                     /label=D654
+     primer_bind     3959..3991
+                     /label=9759
+     primer_bind     3960..3991
+                     /label=A952
+     primer_bind     3960..3991
+                     /label=8786
+     primer_bind     3961..3991
+                     /label=7312
+     primer_bind     3962..3991
+                     /label=F397
+     primer_bind     complement(3963..3999)
+                     /label=H609
+     primer_bind     3963..3992
+                     /label=D656
+     primer_bind     complement(3966..4001)
+                     /label=A378
+     primer_bind     3966..4001
+                     /label=A379
+     primer_bind     3970..4025
+                     /label=C889
+     primer_bind     complement(3970..3997)
+                     /label=9955
+     primer_bind     3970..3993
+                     /label=8398
+     primer_bind     3970..3992
+                     /label=352
+     primer_bind     3970..3991
+                     /label=3459
+     primer_bind     3976..4035
+                     /label=B073
+     primer_bind     3976..4025
+                     /label=A374
+     primer_bind     complement(3976..4025)
+                     /label=A375
+     primer_bind     3976..4017
+                     /label=A96
+     primer_bind     3976..4017
+                     /label=9944
+     primer_bind     3976..3993
+                     /label=9945
+     primer_bind     3976..3993
+                     /label=9946
+     primer_bind     3976..3993
+                     /label=9947
+     primer_bind     3976..3993
+                     /label=A99
+     primer_bind     3976..3993
+                     /label=A100
+     primer_bind     3976..3991
+                     /label=E608
+     primer_bind     3977..4017
+                     /label=3803
+     primer_bind     3977..3992
+                     /label=4454
+     primer_bind     3977..3992
+                     /label=3811
+     primer_bind     3977..3991
+                     /label=4450
+     primer_bind     3984..4020
+                     /label=C096
+     primer_bind     3987..4017
+                     /label=A584
+     primer_bind     3988..4014
+                     /label=B216
+     primer_bind     3989..4025
+                     /label=C642
+     primer_bind     3989..4025
+                     /label=C468
+     CDS             3991
+                     /label=pGKL1 ORF3 delta ORF2 delta
+     primer_bind     3993..4029
+                     /label=C167
+     primer_bind     3995..4060
+                     /label=9320
+     primer_bind     3995..4044
+                     /label=6282
+     primer_bind     complement(3995..4037)
+                     /label=168
+     primer_bind     3995..4035
+                     /label=9375
+     primer_bind     complement(3995..4029)
+                     /label=A488
+     primer_bind     3995..4029
+                     /label=A489
+     primer_bind     complement(3995..4027)
+                     /label=3119
+     primer_bind     complement(3995..4026)
+                     /label=2966
+     primer_bind     complement(3995..4022)
+                     /label=B866
+     primer_bind     complement(3995..4022)
+                     /label=B863
+     primer_bind     complement(3995..4022)
+                     /label=B867
+     primer_bind     complement(3995..4022)
+                     /label=B865
+     primer_bind     complement(3995..4022)
+                     /label=B868
+     primer_bind     complement(3995..4020)
+                     /label=B864
+     primer_bind     3995..4018
+                     /label=4591
+     primer_bind     complement(3995..4017)
+                     /label=9839
+     primer_bind     3995..4017
+                     /label=722
+     primer_bind     complement(3995..4017)
+                     /label=2072
+     primer_bind     complement(3995..4017)
+                     /label=2396
+     primer_bind     3995..4017
+                     /label=9377
+     primer_bind     3995..4017
+                     /label=138
+     primer_bind     complement(3995..4014)
+                     /label=B219
+     primer_bind     3995..4013
+                     /label=873
+     primer_bind     3995..4013
+                     /label=4674
+     primer_bind     complement(3996..4017)
+                     /label=1976
+     primer_bind     3997..4029
+                     /label=E521
+     primer_bind     3997..4026
+                     /label=4300
+     primer_bind     complement(3997..4017)
+                     /label=E520
+     primer_bind     complement(3997..4012)
+                     /label=4299
+     5'UTR           3998..4099
+                     /label=pGAaa
+                     /label=p10B2
+     primer_bind     3998..4063
+                     /label=H634
+     primer_bind     complement(3998..4057)
+                     /label=5531
+     primer_bind     complement(3998..4044)
+                     /label=5855
+     primer_bind     3998..4044
+                     /label=5853
+     primer_bind     complement(3998..4044)
+                     /label=5854
+     primer_bind     complement(3998..4039)
+                     /label=D125
+     primer_bind     3998..4035
+                     /label=G275
+     primer_bind     3998..4035
+                     /label=C470
+     primer_bind     3998..4033
+                     /label=F239
+     primer_bind     complement(3998..4029)
+                     /label=9631
+     primer_bind     3998..4029
+                     /label=9632
+     primer_bind     3998..4029
+                     /label=D612
+     primer_bind     3998..4029
+                     /label=C287
+     primer_bind     3998..4029
+                     /label=4182
+     primer_bind     3998..4029
+                     /label=E235
+     primer_bind     3998..4029
+                     /label=E237
+     primer_bind     3998..4027
+                     /label=A820
+     primer_bind     complement(3998..4027)
+                     /label=G276
+     primer_bind     complement(3998..4027)
+                     /label=9494
+     primer_bind     3998..4025
+                     /label=8783
+     primer_bind     3998..4021
+                     /label=G449
+     primer_bind     3998..4021
+                     /label=G451
+     primer_bind     3998..4020
+                     /label=573
+     primer_bind     3998..4020
+                     /label=A228
+     primer_bind     3998..4020
+                     /label=9491
+     primer_bind     3998..4020
+                     /label=C527
+     primer_bind     3998..4020
+                     /label=C529
+     primer_bind     3998..4020
+                     /label=A537
+     primer_bind     3998..4020
+                     /label=F375
+     primer_bind     3998..4020
+                     /label=F370
+     primer_bind     3998..4020
+                     /label=582
+     primer_bind     3998..4018
+                     /label=D696
+     primer_bind     complement(3998..4017)
+                     /label=2108
+     primer_bind     3998..4017
+                     /label=2176
+     primer_bind     3998..4017
+                     /label=3996
+     primer_bind     complement(3998..4014)
+                     /label=9841
+     primer_bind     3998..4014
+                     /label=9842
+     primer_bind     complement(3998..4012)
+                     /label=719
+     primer_bind     complement(3998..4012)
+                     /label=3810
+     primer_bind     complement(3998..4012)
+                     /label=581
+     primer_bind     complement(3998..4012)
+                     /label=4589
+     primer_bind     3999..4017
+                     /label=9378
+     primer_bind     complement(4001..4052)
+                     /label=5852
+     primer_bind     4001..4035
+                     /label=3916
+     primer_bind     complement(4001..4035)
+                     /label=3917
+     primer_bind     complement(4001..4022)
+                     /label=9725
+     primer_bind     complement(4003..4062)
+                     /label=8544
+     primer_bind     4005..4063
+                     /label=6781
+     primer_bind     4005..4035
+                     /label=6798
+     primer_bind     4005..4035
+                     /label=8339
+     primer_bind     complement(4005..4028)
+                     /label=8336
+     primer_bind     complement(4005..4024)
+                     /label=6784
+     primer_bind     4010..4035
+                     /label=9376
+     primer_bind     4013..4057
+                     /label=H561
+     primer_bind     complement(4020..4070)
+                     /label=5530
+     primer_bind     complement(4020..4070)
+                     /label=5529
+     primer_bind     complement(4021..4078)
+                     /label=9836
+     primer_bind     complement(4021..4062)
+                     /label=A27
+     primer_bind     4024..4057
+                     /label=5528
+     primer_bind     4025..4084
+                     /label=8545
+     primer_bind     complement(4025..4073)
+                     /label=5850
+     primer_bind     complement(4025..4070)
+                     /label=8236
+     primer_bind     4025..4067
+                     /label=5843
+     primer_bind     complement(4025..4063)
+                     /label=5844
+     primer_bind     complement(4026..4098)
+                     /label=9321
+     primer_bind     4026..4084
+                     /label=6267
+     primer_bind     4026..4055
+                     /label=F349
+     primer_bind     complement(4029..4088)
+                     /label=7754
+     primer_bind     4029..4084
+                     /label=5523
+     primer_bind     4029..4063
+                     /label=5520
+     primer_bind     4029..4063
+                     /label=5521
+     primer_bind     4029..4063
+                     /label=5522
+     primer_bind     complement(4029..4058)
+                     /label=5526
+     primer_bind     4029..4058
+                     /label=5519
+     primer_bind     4032..4090
+                     /label=5524
+     primer_bind     complement(4034..4063)
+                     /label=4670
+     primer_bind     4038..4063
+                     /label=169
+     primer_bind     4041..4063
+                     /label=5525
+     primer_bind     complement(4044..4092)
+                     /label=6278
+     primer_bind     4044..4076
+                     /label=8481
+     primer_bind     complement(4044..4076)
+                     /label=8482
+     primer_bind     complement(4044..4070)
+                     /label=6268
+     primer_bind     complement(4044..4060)
+                     /label=6627
+     primer_bind     complement(4048..4098)
+                     /label=G495
+     primer_bind     complement(4048..4097)
+                     /label=9076
+     primer_bind     complement(4048..4092)
+                     /label=H635
+     primer_bind     complement(4048..4092)
+                     /label=6671
+     primer_bind     complement(4048..4088)
+                     /label=5846
+     primer_bind     complement(4048..4088)
+                     /label=5848
+     primer_bind     4048..4063
+                     /label=5527
+     primer_bind     4054..4103
+                     /label=G485
+     primer_bind     4054..4103
+                     /label=G487
+     primer_bind     4054..4103
+                     /label=G486
+     primer_bind     4055..4111
+                     /label=A23
+     primer_bind     complement(4055..4099)
+                     /label=G411
+     primer_bind     complement(4055..4099)
+                     /label=F570
+     primer_bind     complement(4055..4099)
+                     /label=G158
+     primer_bind     complement(4055..4099)
+                     /label=G368
+     primer_bind     complement(4055..4099)
+                     /label=G409
+     primer_bind     complement(4055..4099)
+                     /label=H450
+     primer_bind     complement(4055..4097)
+                     /label=G151
+     primer_bind     complement(4055..4097)
+                     /label=A376
+     primer_bind     complement(4055..4089)
+                     /label=6763
+     primer_bind     4055..4080
+                     /label=A377
+     primer_bind     complement(4057..4099)
+                     /label=F240
+     primer_bind     complement(4057..4099)
+                     /label=G387
+     primer_bind     4058..4111
+                     /label=9835
+     primer_bind     4058..4111
+                     /label=A20
+     primer_bind     4058..4090
+                     /label=6762
+     primer_bind     4059..4090
+                     /label=F973
+     primer_bind     4059..4088
+                     /label=4429
+     primer_bind     complement(4060..4101)
+                     /label=G346
+     primer_bind     complement(4060..4099)
+                     /label=G274
+     primer_bind     4061..4090
+                     /label=1906
+     primer_bind     4061..4090
+                     /label=9495
+     primer_bind     complement(4062..4099)
+                     /label=H520
+     primer_bind     4062..4098
+                     /label=9803
+     primer_bind     4064..4098
+                     /label=D653
+     primer_bind     complement(4064..4097)
+                     /label=D064
+     primer_bind     4064..4097
+                     /label=B984
+     primer_bind     4064..4097
+                     /label=D038
+     primer_bind     4064..4097
+                     /label=B974
+     primer_bind     4064..4097
+                     /label=B986
+     primer_bind     4064..4089
+                     /label=F379
+     primer_bind     4064..4083
+                     /label=D833
+     primer_bind     4065..4099
+                     /label=F241
+     primer_bind     4065..4092
+                     /label=6277
+     primer_bind     4065..4092
+                     /label=9720
+     primer_bind     complement(4065..4092)
+                     /label=8238
+     primer_bind     4065..4083
+                     /label=D831
+     primer_bind     4066..4098
+                     /label=9077
+     primer_bind     4067..4126
+                     /label=H720
+     primer_bind     complement(4067..4126)
+                     /label=H721
+     primer_bind     complement(4067..4121)
+                     /label=D806
+     primer_bind     complement(4067..4119)
+                     /label=D805
+     primer_bind     4067..4099
+                     /label=G407
+     primer_bind     complement(4067..4098)
+                     /label=D650
+     primer_bind     complement(4067..4098)
+                     /label=D060
+     primer_bind     4067..4097
+                     /label=9630
+     primer_bind     complement(4067..4097)
+                     /label=9633
+     primer_bind     4067..4092
+                     /label=B361
+     primer_bind     complement(4067..4092)
+                     /label=9654
+     primer_bind     complement(4067..4092)
+                     /label=B370
+     primer_bind     4067..4090
+                     /label=F926
+     primer_bind     4067..4090
+                     /label=F374
+     primer_bind     4067..4090
+                     /label=F369
+     primer_bind     4068..4099
+                     /label=F572
+     primer_bind     4068..4098
+                     /label=D065
+     primer_bind     4068..4092
+                     /label=7406
+     primer_bind     4068..4092
+                     /label=8920
+     primer_bind     4068..4092
+                     /label=B596
+     primer_bind     4069..4125
+                     /label=A745
+     primer_bind     4069..4097
+                     /label=B988
+     primer_bind     4070..4099
+                     /label=G153
+     primer_bind     4070..4092
+                     /label=8403
+     primer_bind     4070..4092
+                     /label=5845
+     primer_bind     complement(4071..4118)
+                     /label=A97
+     primer_bind     complement(4071..4104)
+                     /label=A309
+     primer_bind     4071..4099
+                     /label=G496
+     primer_bind     4071..4098
+                     /label=E890
+     primer_bind     complement(4071..4097)
+                     /label=E889
+     primer_bind     4071..4097
+                     /label=B222
+     primer_bind     complement(4071..4097)
+                     /label=D695
+     primer_bind     4071..4097
+                     /label=F550
+     primer_bind     complement(4071..4092)
+                     /label=8789
+     primer_bind     complement(4071..4092)
+                     /label=C925
+     primer_bind     complement(4071..4092)
+                     /label=D048
+     primer_bind     4071..4092
+                     /label=7399
+     primer_bind     4071..4092
+                     /label=8383
+     primer_bind     complement(4071..4092)
+                     /label=C454
+     primer_bind     complement(4071..4092)
+                     /label=7400
+     primer_bind     4071..4087
+                     /label=A310
+     primer_bind     4072..4099
+                     /label=G156
+     primer_bind     4072..4097
+                     /label=D088
+     primer_bind     complement(4072..4097)
+                     /label=C530
+     primer_bind     4072..4097
+                     /label=B224
+     primer_bind     4073..4099
+                     /label=H451
+     primer_bind     complement(4074..4118)
+                     /label=9939
+     primer_bind     complement(4074..4118)
+                     /label=A101
+     primer_bind     complement(4074..4118)
+                     /label=9940
+     primer_bind     complement(4074..4118)
+                     /label=9943
+     primer_bind     complement(4074..4118)
+                     /label=9942
+     primer_bind     complement(4074..4118)
+                     /label=9941
+     primer_bind     complement(4074..4118)
+                     /label=A95
+     primer_bind     complement(4074..4118)
+                     /label=A98
+     primer_bind     4074..4110
+                     /label=8483
+     primer_bind     complement(4074..4110)
+                     /label=8484
+     primer_bind     complement(4074..4103)
+                     /label=D519
+     primer_bind     complement(4074..4103)
+                     /label=D518
+     primer_bind     complement(4074..4103)
+                     /label=D122
+     primer_bind     complement(4074..4103)
+                     /label=D663
+     primer_bind     4074..4101
+                     /label=G345
+     primer_bind     complement(4074..4099)
+                     /label=D522
+     primer_bind     complement(4074..4099)
+                     /label=D521
+     primer_bind     complement(4074..4099)
+                     /label=D520
+     primer_bind     complement(4074..4099)
+                     /label=D118
+     primer_bind     complement(4074..4099)
+                     /label=D517
+     primer_bind     complement(4074..4098)
+                     /label=D117
+     primer_bind     complement(4074..4098)
+                     /label=D121
+     primer_bind     4074..4097
+                     /label=C564
+     primer_bind     4074..4097
+                     /label=C562
+     primer_bind     4074..4097
+                     /label=C566
+     primer_bind     4074..4097
+                     /label=C582
+     primer_bind     4074..4097
+                     /label=C576
+     primer_bind     complement(4074..4097)
+                     /label=D114
+     primer_bind     4074..4097
+                     /label=C493
+     primer_bind     4074..4097
+                     /label=C570
+     primer_bind     complement(4074..4096)
+                     /label=D115
+     primer_bind     complement(4074..4096)
+                     /label=D524
+     primer_bind     complement(4074..4096)
+                     /label=D120
+     primer_bind     complement(4074..4095)
+                     /label=D548
+     primer_bind     complement(4074..4095)
+                     /label=D116
+     primer_bind     complement(4074..4095)
+                     /label=D523
+     primer_bind     complement(4074..4095)
+                     /label=D525
+     primer_bind     complement(4074..4095)
+                     /label=D113
+     primer_bind     complement(4074..4094)
+                     /label=D119
+     primer_bind     complement(4074..4092)
+                     /label=C528
+     primer_bind     complement(4074..4092)
+                     /label=C003
+     primer_bind     complement(4075..4090)
+                     /label=4219
+     primer_bind     4076..4124
+                     /label=8121
+     primer_bind     complement(4076..4124)
+                     /label=8122
+     primer_bind     4076..4099
+                     /label=G378
+     primer_bind     4076..4097
+                     /label=A318
+     primer_bind     complement(4076..4097)
+                     /label=A319
+     primer_bind     4076..4097
+                     /label=F551
+     primer_bind     complement(4076..4092)
+                     /label=C247
+     primer_bind     complement(4076..4092)
+                     /label=9439
+     primer_bind     complement(4076..4092)
+                     /label=6811
+     primer_bind     4076..4092
+                     /label=6810
+     primer_bind     complement(4076..4092)
+                     /label=2177
+     primer_bind     complement(4076..4092)
+                     /label=3842
+     primer_bind     complement(4076..4092)
+                     /label=3804
+     primer_bind     complement(4076..4092)
+                     /label=A480
+     primer_bind     complement(4076..4092)
+                     /label=1166
+     primer_bind     complement(4076..4092)
+                     /label=3995
+     primer_bind     complement(4076..4092)
+                     /label=139
+     primer_bind     4077..4092
+                     /label=6135
+     primer_bind     4077..4092
+                     /label=6134
+     primer_bind     4078..4099
+                     /label=G154
+     primer_bind     4078..4095
+                     /label=D124
+     primer_bind     4078..4092
+                     /label=6217
+     primer_bind     4078..4092
+                     /label=6246
+     primer_bind     4078..4092
+                     /label=6211
+     primer_bind     4078..4092
+                     /label=6220
+     primer_bind     4079..4095
+                     /label=D123
+     primer_bind     complement(4081..4097)
+                     /label=C499
+     primer_bind     4095..4123
+                     /label=E512
+     primer_bind     4099..4125
+                     /label=D711
+     primer_bind     4100..4125
+                     /label=E676 (1)
+     primer_bind     4100..4125
+                     /label=E875
+     primer_bind     4100..4125
+                     /label=A494
+     primer_bind     complement(4100..4125)
+                     /label=A491
+     primer_bind     4100..4125
+                     /label=A513
+     primer_bind     complement(4100..4125)
+                     /label=A516
+     primer_bind     4100..4125
+                     /label=A529
+     primer_bind     complement(4100..4125)
+                     /label=A532
+     primer_bind     4100..4121
+                     /label=E672 (1)
+     primer_bind     4100..4121
+                     /label=E871
+     primer_bind     complement(4100..4118)
+                     /label=E677 (1)
+     primer_bind     complement(4100..4118)
+                     /label=E876
+     primer_bind     4100..4118
+                     /label=6660
+     primer_bind     complement(4100..4115)
+                     /label=E675 (1)
+     primer_bind     complement(4100..4115)
+                     /label=E874
+     misc_feature    4101..4358
+                     /label=app8 leader
+     primer_bind     complement(4101..4136)
+                     /label=C951
+     primer_bind     complement(4101..4128)
+                     /label=F391
+     primer_bind     4101..4128
+                     /label=F392
+     primer_bind     4101..4125
+                     /label=A52
+     primer_bind     4101..4125
+                     /label=C947
+     primer_bind     complement(4101..4125)
+                     /label=A468
+     primer_bind     4101..4125
+                     /label=A469
+     primer_bind     4101..4125
+                     /label=B742
+     primer_bind     complement(4101..4125)
+                     /label=B745
+     primer_bind     4101..4125
+                     /label=D467
+     primer_bind     complement(4101..4125)
+                     /label=D468
+     primer_bind     4101..4125
+                     /label=H671
+     primer_bind     complement(4101..4125)
+                     /label=H672
+     primer_bind     4101..4124
+                     /label=9834
+     primer_bind     4101..4124
+                     /label=D449
+     primer_bind     complement(4101..4124)
+                     /label=D452
+     primer_bind     complement(4101..4123)
+                     /label=9838
+     primer_bind     complement(4101..4123)
+                     /label=A26
+     primer_bind     complement(4101..4123)
+                     /label=E510
+     primer_bind     4101..4123
+                     /label=E511
+     primer_bind     complement(4101..4123)
+                     /label=A21
+     primer_bind     complement(4101..4121)
+                     /label=E513
+     primer_bind     4101..4118
+                     /label=9956
+     primer_bind     4149..4165
+                     /label=7652
+     primer_bind     4161..4176
+                     /label=557
+     primer_bind     4246..4265
+                     /label=C689
+     primer_bind     complement(4271..4308)
+                     /label=8957
+     primer_bind     4276..4297
+                     /label=E327
+     primer_bind     4307..4365
+                     /label=F313
+     primer_bind     4307..4365
+                     /label=F323
+     primer_bind     4326..4347
+                     /label=A33
+     primer_bind     complement(4328..4370)
+                     /label=8340
+     primer_bind     4328..4360
+                     /label=7245
+     primer_bind     4328..4360
+                     /label=7243
+     primer_bind     complement(4328..4358)
+                     /label=7241
+     primer_bind     4328..4358
+                     /label=7247
+     primer_bind     4328..4358
+                     /label=7249
+     primer_bind     4330..4368
+                     /label=B230
+     primer_bind     4330..4368
+                     /label=F065
+     primer_bind     4330..4367
+                     /label=B228
+     primer_bind     4331..4369
+                     /label=A419
+     primer_bind     complement(4332..4367)
+                     /label=8368
+     primer_bind     4332..4367
+                     /label=A908
+     primer_bind     complement(4332..4367)
+                     /label=D712
+     primer_bind     complement(4332..4357)
+                     /label=C884
+     primer_bind     complement(4332..4356)
+                     /label=C883
+     primer_bind     4332..4354
+                     /label=C688
+     primer_bind     4333..4368
+                     /label=8370
+     primer_bind     4333..4368
+                     /label=8374
+     primer_bind     4333..4368
+                     /label=B226
+     primer_bind     4333..4368
+                     /label=8372
+     primer_bind     complement(4333..4368)
+                     /label=8932
+     primer_bind     4333..4368
+                     /label=8953
+     primer_bind     4333..4367
+                     /label=8376
+     primer_bind     4333..4367
+                     /label=8378
+     primer_bind     4333..4361
+                     /label=E245
+     primer_bind     complement(4334..4359)
+                     /label=C885
+     primer_bind     4335..4368
+                     /label=H411
+     primer_bind     complement(4335..4360)
+                     /label=8896
+     primer_bind     4335..4360
+                     /label=9387
+     primer_bind     4336..4395
+                     /label=F067
+     primer_bind     4336..4368
+                     /label=A903
+     primer_bind     4336..4368
+                     /label=E911
+     primer_bind     4336..4368
+                     /label=E913
+     primer_bind     4336..4368
+                     /label=E915
+     primer_bind     4337..4368
+                     /label=A901
+     primer_bind     4338..4368
+                     /label=E917
+     primer_bind     complement(4338..4367)
+                     /label=D622
+     primer_bind     4339..4368
+                     /label=E910
+     primer_bind     4339..4368
+                     /label=E919
+     primer_bind     complement(4340..4367)
+                     /label=8955
+     primer_bind     4340..4367
+                     /label=8960
+     primer_bind     4342..4368
+                     /label=A899
+     primer_bind     4346..4395
+                     /label=AP_p131_remove_KpnI_F
+     primer_bind     complement(4346..4395)
+                     /label=AP_p131_remove_KpnI_R
+     primer_bind     complement(4346..4370)
+                     /label=6992
+     primer_bind     4346..4368
+                     /label=D508
+     primer_bind     4346..4368
+                     /label=D515
+     primer_bind     4346..4368
+                     /label=C170
+     primer_bind     4346..4368
+                     /label=E402
+     primer_bind     4346..4368
+                     /label=C200
+     primer_bind     4346..4368
+                     /label=G053
+     primer_bind     complement(4346..4367)
+                     /label=B580
+     primer_bind     4346..4367
+                     /label=6991
+     primer_bind     4346..4365
+                     /label=9638
+     primer_bind     complement(4347..4382)
+                     /label=E518
+     primer_bind     complement(4347..4376)
+                     /label=B379
+     primer_bind     complement(4347..4370)
+                     /label=B064
+     primer_bind     complement(4347..4370)
+                     /label=B238
+     primer_bind     complement(4347..4369)
+                     /label=8925
+     primer_bind     4347..4369
+                     /label=8926
+     primer_bind     4347..4368
+                     /label=A61
+     primer_bind     4347..4368
+                     /label=E232
+     primer_bind     complement(4347..4368)
+                     /label=A60
+     primer_bind     4347..4368
+                     /label=C310
+     primer_bind     4347..4368
+                     /label=B380
+     primer_bind     4347..4368
+                     /label=C025
+     primer_bind     4347..4368
+                     /label=A229
+     primer_bind     complement(4347..4368)
+                     /label=8179
+     primer_bind     4347..4368
+                     /label=8181
+     primer_bind     4347..4367
+                     /label=B061
+     primer_bind     complement(4347..4367)
+                     /label=8188
+     primer_bind     4347..4367
+                     /label=8189
+     primer_bind     4347..4367
+                     /label=B239
+     primer_bind     complement(4347..4367)
+                     /label=8184
+     primer_bind     4347..4367
+                     /label=8185
+     primer_bind     complement(4347..4366)
+                     /label=E515
+     primer_bind     4347..4364
+                     /label=D087
+     primer_bind     4347..4361
+                     /label=C684
+     primer_bind     4348..4368
+                     /label=C578
+     primer_bind     4348..4368
+                     /label=C572
+     primer_bind     4348..4368
+                     /label=C568
+     primer_bind     complement(4349..4374)
+                     /label=E238
+     primer_bind     complement(4349..4370)
+                     /label=8176
+     primer_bind     4349..4370
+                     /label=8177
+     primer_bind     complement(4349..4368)
+                     /label=8172
+     primer_bind     4349..4368
+                     /label=8173
+     primer_bind     4349..4368
+                     /label=C312
+     primer_bind     4349..4368
+                     /label=D535
+     primer_bind     4349..4368
+                     /label=C202
+     primer_bind     complement(4349..4367)
+                     /label=D450
+     primer_bind     4349..4367
+                     /label=D453
+     primer_bind     complement(4349..4367)
+                     /label=E236
+     primer_bind     complement(4349..4367)
+                     /label=8843
+     primer_bind     4350..4368
+                     /label=E404
+     primer_bind     4352..4395
+                     /label=AP_app8_GFP_F
+     primer_bind     complement(4352..4395)
+                     /label=AP_app8_GFP_R
+     primer_bind     4352..4368
+                     /label=C314
+     primer_bind     complement(4356..4368)
+                     /label=A694
+     primer_bind     4359..4397
+                     /label=E519
+     primer_bind     complement(4359..4368)
+                     /label=A474
+     misc_feature    4359..4367
+                     /label=peptide cleavage site
+     primer_bind     4366..4384
+                     /label=H725
+     primer_bind     4367..4396
+                     /label=F921
+     primer_bind     complement(4367..4395)
+                     /label=H435
+     primer_bind     4367..4381
+                     /label=G130
+     primer_bind     4368..4399
+                     /label=D713
+     primer_bind     4368..4399
+                     /label=E345
+     primer_bind     4368..4399
+                     /label=E350
+     primer_bind     4368..4397
+                     /label=D225
+     primer_bind     4368..4397
+                     /label=D226
+     primer_bind     complement(4368..4396)
+                     /label=G059
+     primer_bind     4368..4396
+                     /label=D318
+     primer_bind     complement(4368..4396)
+                     /label=C982
+     primer_bind     4368..4396
+                     /label=G056
+     primer_bind     4368..4395
+                     /label=D626
+     primer_bind     4368..4395
+                     /label=E502
+     primer_bind     4368..4387
+                     /label=D036
+     primer_bind     complement(4368..4387)
+                     /label=E442
+     primer_bind     complement(4368..4387)
+                     /label=E446
+     primer_bind     4368..4387
+                     /label=E443
+     primer_bind     4368..4387
+                     /label=E447
+     primer_bind     4368..4384
+                     /label=E164
+     misc_feature    4368..4373
+                     /label=BsaI
+     primer_bind     4371..4405
+                     /label=G007
+     primer_bind     4371..4397
+                     /label=F124
+     primer_bind     4372..4398
+                     /label=D088
+     promoter        4374..4503
+                     /label=BBa_J72163 GlpT Promoter
+     primer_bind     4374..4397
+                     /label=D335
+     primer_bind     4374..4397
+                     /label=D337
+     primer_bind     4374..4397
+                     /label=D425
+     primer_bind     4374..4397
+                     /label=D428
+     primer_bind     4374..4397
+                     /label=E184
+     primer_bind     4374..4396
+                     /label=C979
+     primer_bind     4374..4396
+                     /label=D103
+     primer_bind     4374..4396
+                     /label=C930
+     primer_bind     4374..4396
+                     /label=C952
+     primer_bind     complement(4374..4390)
+                     /label=E865
+     primer_bind     4479..4528
+                     /label=D333
+     primer_bind     complement(4485..4503)
+                     /label=D336
+     RBS             4504..4539
+                     /label=sfGFP Ribosome Binding Site
+     primer_bind     complement(4510..4542)
+                     /label=4507
+     primer_bind     complement(4510..4542)
+                     /label=4508
+     primer_bind     complement(4519..4551)
+                     /label=6484
+     primer_bind     4538..4555
+                     /label=6483
+     primer_bind     4539..4563
+                     /label=7135
+     primer_bind     4539..4560
+                     /label=C801
+     CDS             4540..5256
+                     /label=sfGFP
+     primer_bind     complement(4540..4569)
+                     /label=B882
+     primer_bind     complement(4540..4569)
+                     /label=C806
+     primer_bind     4540..4567
+                     /label=8607
+     primer_bind     4540..4565
+                     /label=B879
+     primer_bind     4540..4565
+                     /label=B900
+     primer_bind     4540..4563
+                     /label=C807
+     primer_bind     4540..4563
+                     /label=B908
+     primer_bind     4540..4563
+                     /label=H89
+     primer_bind     4540..4563
+                     /label=C437
+     primer_bind     4540..4563
+                     /label=C797
+     primer_bind     4540..4563
+                     /label=G512
+     primer_bind     4540..4563
+                     /label=G520
+     primer_bind     4540..4563
+                     /label=G704
+     primer_bind     4540..4563
+                     /label=8077
+     primer_bind     4540..4563
+                     /label=8276
+     primer_bind     4540..4563
+                     /label=F732
+     primer_bind     4540..4560
+                     /label=2298
+     primer_bind     4540..4560
+                     /label=F616
+     primer_bind     4540..4560
+                     /label=G127
+     primer_bind     4540..4560
+                     /label=2305
+     primer_bind     complement(4540..4560)
+                     /label=2306
+     primer_bind     4540..4560
+                     /label=5777
+     primer_bind     complement(4540..4560)
+                     /label=5780
+     primer_bind     4540..4560
+                     /label=F226
+     primer_bind     4540..4560
+                     /label=4885
+     primer_bind     4540..4560
+                     /label=7180
+     primer_bind     4540..4559
+                     /label=4506
+     primer_bind     4540..4559
+                     /label=4552
+     primer_bind     4540..4559
+                     /label=8978
+     primer_bind     4540..4558
+                     /label=2294
+     primer_bind     4540..4558
+                     /label=6255
+     primer_bind     4540..4557
+                     /label=B749
+     primer_bind     4540..4556
+                     /label=8981
+     primer_bind     4540..4556
+                     /label=G222
+     primer_bind     complement(4540..4555)
+                     /label=F229
+     primer_bind     complement(4540..4554)
+                     /label=C800
+     primer_bind     4541..4560
+                     /label=6506
+     primer_bind     4542..4565
+                     /label=F888
+     primer_bind     4542..4563
+                     /label=4935
+     primer_bind     4543..4563
+                     /label=9297
+     primer_bind     4543..4562
+                     /label=5044
+     primer_bind     4546..4563
+                     /label=B768
+     primer_bind     complement(4551..4573)
+                     /label=5384
+     primer_bind     complement(4555..4574)
+                     /label=2793
+     primer_bind     complement(4570..4589)
+                     /label=2297
+     primer_bind     4616..4648
+                     /label=F313
+     primer_bind     4616..4648
+                     /label=F323
+     primer_bind     complement(4625..4635)
+                     /label=B244
+     primer_bind     4648..4668
+                     /label=4977
+     primer_bind     4651..4674
+                     /label=5713
+     primer_bind     4665..4688
+                     /label=5511
+     primer_bind     complement(4699..4758)
+                     /label=5712
+     primer_bind     complement(4701..4749)
+                     /label=5876
+     primer_bind     4701..4749
+                     /label=5875
+     primer_bind     4705..4739
+                     /label=5869
+     primer_bind     complement(4705..4739)
+                     /label=5868
+     primer_bind     complement(4714..4733)
+                     /label=5715
+     primer_bind     4714..4733
+                     /label=5716
+     primer_bind     4722..4741
+                     /label=6108
+     primer_bind     4736..4788
+                     /label=5711
+     primer_bind     4743..4762
+                     /label=5717
+     primer_bind     complement(4743..4762)
+                     /label=5718
+     primer_bind     4765..4790
+                     /label=F967
+     primer_bind     complement(4768..4791)
+                     /label=4538
+     primer_bind     complement(4772..4791)
+                     /label=4697
+     primer_bind     4803..4891
+                     /label=F568
+     primer_bind     4803..4891
+                     /label=F996
+     primer_bind     complement(4811..4829)
+                     /label=5714
+     primer_bind     complement(4850..4871)
+                     /label=6185
+     primer_bind     complement(4850..4870)
+                     /label=6160
+     primer_bind     4858..4867
+                     /label=D804
+     primer_bind     complement(4867..4884)
+                     /label=8915
+     primer_bind     4986..5005
+                     /label=5886
+     primer_bind     5039..5060
+                     /label=H317
+     primer_bind     5172..5183
+                     /label=H451
+     primer_bind     5195..5214
+                     /label=2889
+     primer_bind     complement(5220..5253)
+                     /label=8977
+     primer_bind     complement(5222..5256)
+                     /label=8608
+     primer_bind     complement(5223..5256)
+                     /label=B085
+     primer_bind     complement(5223..5250)
+                     /label=G521
+     primer_bind     complement(5226..5256)
+                     /label=B880
+     primer_bind     complement(5226..5256)
+                     /label=B077
+     primer_bind     complement(5226..5253)
+                     /label=7136
+     primer_bind     complement(5226..5253)
+                     /label=7182
+     primer_bind     5227..5258
+                     /label=B881
+     primer_bind     5227..5258
+                     /label=C809
+     primer_bind     complement(5228..5258)
+                     /label=C798
+     primer_bind     complement(5228..5257)
+                     /label=8078
+     primer_bind     complement(5228..5256)
+                     /label=C808
+     primer_bind     complement(5228..5256)
+                     /label=F733
+     primer_bind     complement(5228..5256)
+                     /label=B425
+     primer_bind     complement(5228..5256)
+                     /label=C810
+     primer_bind     complement(5228..5256)
+                     /label=H90
+     primer_bind     complement(5228..5256)
+                     /label=F889
+     primer_bind     complement(5228..5256)
+                     /label=G513
+     primer_bind     complement(5228..5254)
+                     /label=7181
+     primer_bind     complement(5228..5253)
+                     /label=G128
+     primer_bind     complement(5228..5253)
+                     /label=2299
+     primer_bind     5228..5253
+                     /label=2300
+     primer_bind     complement(5228..5253)
+                     /label=5870
+     primer_bind     complement(5229..5293)
+                     /label=B557
+     primer_bind     complement(5229..5293)
+                     /label=B579
+     primer_bind     complement(5229..5256)
+                     /label=C802
+     primer_bind     complement(5229..5256)
+                     /label=F617
+     primer_bind     5229..5256
+                     /label=8979
+     primer_bind     complement(5229..5254)
+                     /label=9298
+     primer_bind     complement(5229..5253)
+                     /label=4886
+     primer_bind     complement(5230..5254)
+                     /label=D505
+     primer_bind     complement(5230..5254)
+                     /label=D502
+     primer_bind     complement(5230..5253)
+                     /label=2304
+     primer_bind     5232..5258
+                     /label=H220
+     primer_bind     complement(5232..5253)
+                     /label=G223
+     primer_bind     complement(5233..5257)
+                     /label=4616
+     primer_bind     complement(5233..5256)
+                     /label=4553
+     primer_bind     complement(5233..5254)
+                     /label=H321
+     primer_bind     complement(5233..5253)
+                     /label=5049
+     primer_bind     complement(5233..5253)
+                     /label=B750
+     primer_bind     complement(5233..5253)
+                     /label=B769
+     primer_bind     complement(5233..5253)
+                     /label=1375
+     primer_bind     5234..5257
+                     /label=4514
+     primer_bind     5234..5257
+                     /label=8982
+     primer_bind     complement(5234..5256)
+                     /label=4512
+     primer_bind     complement(5234..5256)
+                     /label=2295
+     primer_bind     complement(5234..5253)
+                     /label=6131
+     primer_bind     5237..5258
+                     /label=C803
+     primer_bind     5237..5256
+                     /label=H91
+     primer_bind     5237..5256
+                     /label=F734
+     primer_bind     complement(5239..5256)
+                     /label=B590
+     primer_bind     complement(5239..5256)
+                     /label=B592
+     primer_bind     complement(5239..5256)
+                     /label=B609
+     primer_bind     5242..5258
+                     /label=C799
+     primer_bind     5242..5258
+                     /label=C813
+     terminator      5257..5385
+                     /label=BBa_B0015 Terminator
+     primer_bind     5257..5275
+                     /label=5794
+     primer_bind     5257..5274
+                     /label=3163
+     primer_bind     5257..5274
+                     /label=2395
+     primer_bind     5358..5385
+                     /label=F117
+     primer_bind     5358..5385
+                     /label=G049
+     primer_bind     complement(5362..5386)
+                     /label=G008
+     primer_bind     complement(5363..5385)
+                     /label=G414
+     primer_bind     complement(5364..5394)
+                     /label=E351
+     primer_bind     complement(5364..5391)
+                     /label=D714
+     primer_bind     complement(5364..5391)
+                     /label=E068
+     primer_bind     complement(5364..5391)
+                     /label=E071
+     primer_bind     complement(5364..5391)
+                     /label=E074
+     primer_bind     complement(5364..5391)
+                     /label=E344
+     primer_bind     complement(5364..5390)
+                     /label=E185
+     primer_bind     5364..5386
+                     /label=E346
+     primer_bind     complement(5364..5386)
+                     /label=E347
+     primer_bind     complement(5365..5391)
+                     /label=D227
+     primer_bind     complement(5365..5391)
+                     /label=D228
+     primer_bind     complement(5365..5391)
+                     /label=E479
+     primer_bind     complement(5365..5389)
+                     /label=E514
+     primer_bind     complement(5365..5385)
+                     /label=D427
+     primer_bind     5365..5385
+                     /label=D235
+     primer_bind     5365..5385
+                     /label=D101
+     primer_bind     5365..5385
+                     /label=D143
+     primer_bind     complement(5365..5385)
+                     /label=D089
+     primer_bind     5365..5385
+                     /label=H430
+     primer_bind     5366..5385
+                     /label=G058
+     primer_bind     complement(5366..5385)
+                     /label=G057
+     primer_bind     complement(5367..5426)
+                     /label=F068
+     primer_bind     complement(5367..5419)
+                     /label=AP_GFP_463bb_R_new
+     primer_bind     5367..5415
+                     /label=AP_p131_remove_SalI_F
+     primer_bind     complement(5367..5415)
+                     /label=AP_p131_remove_SalI_R
+     primer_bind     5367..5409
+                     /label=AP_GFP_463bb_F
+     primer_bind     complement(5367..5409)
+                     /label=AP_GFP_463bb_R
+     primer_bind     complement(5367..5392)
+                     /label=D317
+     primer_bind     complement(5367..5391)
+                     /label=F999
+     primer_bind     5367..5385
+                     /label=C981
+     primer_bind     5367..5385
+                     /label=C983
+     primer_bind     complement(5367..5385)
+                     /label=C931
+     primer_bind     complement(5367..5385)
+                     /label=C980
+     primer_bind     complement(5367..5382)
+                     /label=F920
+     primer_bind     5368..5391
+                     /label=E622
+     primer_bind     complement(5368..5391)
+                     /label=E623
+     primer_bind     5368..5391
+                     /label=E614
+     primer_bind     complement(5368..5391)
+                     /label=E615
+     primer_bind     5368..5391
+                     /label=E618
+     primer_bind     complement(5368..5391)
+                     /label=E619
+     primer_bind     complement(5369..5391)
+                     /label=D627
+     primer_bind     complement(5369..5389)
+                     /label=D334
+     primer_bind     5369..5385
+                     /label=D338
+     primer_bind     5369..5385
+                     /label=D329
+     primer_bind     complement(5369..5385)
+                     /label=D238
+     primer_bind     complement(5371..5391)
+                     /label=G270
+     primer_bind     5371..5391
+                     /label=E441
+     primer_bind     complement(5371..5391)
+                     /label=E444
+     primer_bind     complement(5371..5391)
+                     /label=E448
+     primer_bind     complement(5371..5385)
+                     /label=C901
+     primer_bind     complement(5371..5385)
+                     /label=E986
+     primer_bind     5374..5391
+                     /label=E445
+     primer_bind     complement(5375..5391)
+                     /label=G089
+     misc_feature    5386..5391
+                     /label=BsaI
+     primer_bind     complement(5391..5429)
+                     /label=B231
+     primer_bind     5391..5426
+                     /label=8956
+     primer_bind     complement(5391..5424)
+                     /label=B227
+     primer_bind     5391..5423
+                     /label=8371
+     primer_bind     complement(5391..5420)
+                     /label=A904
+     primer_bind     complement(5391..5419)
+                     /label=E914
+     primer_bind     complement(5391..5419)
+                     /label=G054
+     primer_bind     complement(5391..5419)
+                     /label=E920
+     primer_bind     5391..5419
+                     /label=8271
+     primer_bind     5391..5419
+                     /label=8269
+     primer_bind     5391..5419
+                     /label=8228
+     primer_bind     complement(5391..5417)
+                     /label=A900
+     primer_bind     complement(5391..5417)
+                     /label=A902
+     primer_bind     complement(5391..5417)
+                     /label=C026
+     primer_bind     complement(5391..5415)
+                     /label=C573
+     primer_bind     complement(5391..5415)
+                     /label=D538
+     primer_bind     complement(5391..5415)
+                     /label=C203
+     primer_bind     complement(5391..5415)
+                     /label=D511
+     primer_bind     complement(5391..5415)
+                     /label=C201
+     primer_bind     complement(5391..5415)
+                     /label=D512
+     primer_bind     complement(5391..5415)
+                     /label=C311
+     primer_bind     complement(5391..5415)
+                     /label=C313
+     primer_bind     complement(5391..5415)
+                     /label=C171
+     primer_bind     complement(5391..5415)
+                     /label=C579
+     primer_bind     complement(5391..5415)
+                     /label=C569
+     primer_bind     complement(5391..5414)
+                     /label=E231
+     primer_bind     5391..5414
+                     /label=A93
+     primer_bind     complement(5391..5414)
+                     /label=A94
+     primer_bind     complement(5391..5414)
+                     /label=E912
+     primer_bind     complement(5391..5414)
+                     /label=H412
+     primer_bind     5391..5414
+                     /label=A62
+     primer_bind     complement(5391..5413)
+                     /label=E405
+     primer_bind     complement(5391..5413)
+                     /label=E403
+     primer_bind     complement(5391..5412)
+                     /label=E916
+     primer_bind     complement(5391..5412)
+                     /label=F941
+     primer_bind     complement(5391..5412)
+                     /label=C315
+     primer_bind     5391..5412
+                     /label=8924
+     primer_bind     5391..5411
+                     /label=B524
+     primer_bind     complement(5391..5408)
+                     /label=A696
+     primer_bind     5391..5408
+                     /label=A697
+     primer_bind     complement(5391..5406)
+                     /label=E918
+     primer_bind     complement(5392..5448)
+                     /label=F314
+     primer_bind     5392..5422
+                     /label=8931
+     primer_bind     5392..5419
+                     /label=8273
+     primer_bind     5392..5419
+                     /label=8265
+     primer_bind     complement(5392..5419)
+                     /label=A907
+     primer_bind     5392..5419
+                     /label=A909
+     primer_bind     complement(5392..5413)
+                     /label=B525
+     primer_bind     5392..5412
+                     /label=8842
+     primer_bind     complement(5394..5414)
+                     /label=B062
+     primer_bind     5394..5414
+                     /label=B071
+     primer_bind     complement(5395..5429)
+                     /label=A420
+     primer_bind     complement(5395..5427)
+                     /label=B229
+     primer_bind     complement(5395..5426)
+                     /label=F066
+     primer_bind     complement(5395..5426)
+                     /label=8959
+     primer_bind     complement(5395..5423)
+                     /label=8377
+     primer_bind     complement(5395..5423)
+                     /label=8379
+     primer_bind     complement(5395..5423)
+                     /label=8373
+     primer_bind     complement(5395..5423)
+                     /label=8375
+     primer_bind     5395..5423
+                     /label=8369
+     primer_bind     complement(5395..5422)
+                     /label=8954
+     primer_bind     complement(5395..5419)
+                     /label=8272
+     primer_bind     complement(5395..5419)
+                     /label=8274
+     primer_bind     5395..5419
+                     /label=8267
+     primer_bind     complement(5395..5419)
+                     /label=8268
+     primer_bind     complement(5395..5419)
+                     /label=8266
+     primer_bind     complement(5395..5419)
+                     /label=8270
+     primer_bind     complement(5395..5419)
+                     /label=8231
+     primer_bind     complement(5395..5414)
+                     /label=A63
+     primer_bind     complement(5395..5414)
+                     /label=A230
+     primer_bind     complement(5395..5412)
+                     /label=8927
+     primer_bind     complement(5396..5415)
+                     /label=E685 (1)
+     primer_bind     complement(5414..5448)
+                     /label=B205
+     primer_bind     5414..5448
+                     /label=B204
+     misc_feature    5418..5427
+                     /label=Factor Xa
+     primer_bind     complement(5422..5460)
+                     /label=F316
+     primer_bind     complement(5422..5460)
+                     /label=F324
+     primer_bind     complement(5422..5443)
+                     /label=A34
+     CDS             5428..5454
+                     /codon_start=1
+                     /label=HA tag
+                     /translation="YPYDVPDYA"
+     primer_bind     complement(5428..5454)
+                     /label=D728
+     primer_bind     5432..5455
+                     /label=E673 (1)
+     primer_bind     complement(5432..5455)
+                     /label=E674 (1)
+     primer_bind     5432..5455
+                     /label=E872
+     primer_bind     complement(5432..5455)
+                     /label=E873
+     primer_bind     5432..5454
+                     /label=G073
+     primer_bind     complement(5432..5454)
+                     /label=G074
+     primer_bind     5435..5472
+                     /label=4043
+     primer_bind     complement(5436..5454)
+                     /label=F389
+     primer_bind     5436..5454
+                     /label=F390
+     primer_bind     complement(5452..5485)
+                     /label=F315
+     primer_bind     complement(5452..5472)
+                     /label=4042
+     primer_bind     complement(5453..5473)
+                     /label=2662
+     primer_bind     complement(5453..5472)
+                     /label=2958
+     primer_bind     complement(5464..5478)
+                     /label=1965
+     primer_bind     complement(5464..5478)
+                     /label=2047
+     primer_bind     complement(5466..5485)
+                     /label=B961
+     misc_feature    5467..5511
+                     /label=(G4S)3
+     primer_bind     complement(5467..5500)
+                     /label=B961
+     primer_bind     5469..5490
+                     /label=1198
+     primer_bind     complement(5469..5483)
+                     /label=1375
+     primer_bind     complement(5470..5482)
+                     /label=986
+     primer_bind     complement(5470..5482)
+                     /label=8844
+     primer_bind     complement(5470..5482)
+                     /label=A886
+     primer_bind     complement(5471..5482)
+                     /label=1163
+     primer_bind     complement(5471..5482)
+                     /label=1193
+     primer_bind     5474..5497
+                     /label=8945
+     primer_bind     complement(5476..5497)
+                     /label=9966
+     primer_bind     5477..5511
+                     /label=B960
+     primer_bind     5477..5497
+                     /label=8957
+     primer_bind     complement(5477..5497)
+                     /label=8962
+     primer_bind     5477..5497
+                     /label=6908
+     primer_bind     complement(5477..5497)
+                     /label=6909
+     primer_bind     5479..5497
+                     /label=989
+     primer_bind     5480..5497
+                     /label=7667
+     primer_bind     5484..5505
+                     /label=1198
+     primer_bind     complement(5484..5498)
+                     /label=1375
+     primer_bind     complement(5485..5497)
+                     /label=986
+     primer_bind     complement(5485..5497)
+                     /label=8844
+     primer_bind     complement(5485..5497)
+                     /label=A886
+     primer_bind     complement(5486..5497)
+                     /label=1163
+     primer_bind     complement(5486..5497)
+                     /label=1193
+     primer_bind     5489..5518
+                     /label=8945
+     primer_bind     complement(5489..5518)
+                     /label=8937
+     primer_bind     complement(5491..5517)
+                     /label=9966
+     primer_bind     5492..5517
+                     /label=8957
+     primer_bind     complement(5492..5517)
+                     /label=8962
+     primer_bind     5492..5517
+                     /label=6908
+     primer_bind     complement(5492..5517)
+                     /label=6909
+     primer_bind     5492..5512
+                     /label=B960
+     primer_bind     5494..5517
+                     /label=989
+     primer_bind     5495..5516
+                     /label=7667
+     primer_bind     5500..5519
+                     /label=7390
+     primer_bind     complement(5500..5519)
+                     /label=7391
+     primer_bind     complement(5500..5517)
+                     /label=986
+     primer_bind     complement(5500..5517)
+                     /label=8844
+     primer_bind     5500..5517
+                     /label=8846
+     primer_bind     5500..5517
+                     /label=A885
+     primer_bind     complement(5500..5517)
+                     /label=A886
+     primer_bind     complement(5501..5517)
+                     /label=1163
+     primer_bind     complement(5501..5517)
+                     /label=1193
+     primer_bind     complement(5506..5544)
+                     /label=8229
+     primer_bind     5506..5544
+                     /label=8230
+     primer_bind     5506..5523
+                     /label=B069
+     primer_bind     complement(5506..5523)
+                     /label=B072
+     primer_bind     complement(5506..5522)
+                     /label=7415
+     primer_bind     complement(5507..5523)
+                     /label=9717
+     primer_bind     5507..5523
+                     /label=9718
+     primer_bind     complement(5512..5545)
+                     /label=C633
+     primer_bind     complement(5516..5534)
+                     /label=C309
+     primer_bind     5518..5547
+                     /label=B061
+     primer_bind     complement(5523..5558)
+                     /label=8224
+     misc_feature    5524..5730
+                     /label=Aga2p
+     primer_bind     5524..5548
+                     /label=G093
+     primer_bind     complement(5524..5548)
+                     /label=G094
+     primer_bind     complement(5524..5547)
+                     /label=B064
+     primer_bind     5524..5547
+                     /label=D715
+     primer_bind     5524..5544
+                     /label=8113
+     primer_bind     complement(5524..5544)
+                     /label=8117
+     primer_bind     5527..5548
+                     /label=8225
+     primer_bind     5652..5673
+                     /label=E807
+     primer_bind     complement(5655..5683)
+                     /label=C563
+     primer_bind     complement(5655..5683)
+                     /label=C577
+     primer_bind     complement(5655..5683)
+                     /label=C565
+     primer_bind     complement(5655..5683)
+                     /label=C567
+     primer_bind     complement(5655..5683)
+                     /label=C571
+     primer_bind     complement(5655..5683)
+                     /label=C583
+     primer_bind     5663..5683
+                     /label=8034
+     primer_bind     complement(5672..5690)
+                     /label=8537
+     primer_bind     complement(5672..5687)
+                     /label=A384
+     primer_bind     5674..5693
+                     /label=932
+     primer_bind     complement(5703..5738)
+                     /label=AP_Aga2_BsaI_for_polyA_R
+     primer_bind     complement(5705..5740)
+                     /label=G076
+     primer_bind     5705..5731
+                     /label=G075
+     primer_bind     5705..5731
+                     /label=D469
+     primer_bind     complement(5705..5731)
+                     /label=D470
+     primer_bind     5705..5730
+                     /label=G288
+     primer_bind     complement(5705..5730)
+                     /label=G289
+     primer_bind     complement(5706..5738)
+                     /label=D716
+     primer_bind     complement(5706..5738)
+                     /label=D717
+     primer_bind     5706..5733
+                     /label=A492
+     primer_bind     complement(5706..5733)
+                     /label=A493
+     primer_bind     5706..5733
+                     /label=A467
+     primer_bind     complement(5706..5733)
+                     /label=A470
+     primer_bind     complement(5706..5731)
+                     /label=B062
+     primer_bind     5706..5731
+                     /label=B071
+     primer_bind     5706..5730
+                     /label=F383
+     primer_bind     complement(5706..5730)
+                     /label=F384
+     primer_bind     complement(5707..5734)
+                     /label=8114
+     primer_bind     5707..5734
+                     /label=8115
+     primer_bind     complement(5707..5734)
+                     /label=8196
+     primer_bind     5707..5734
+                     /label=8197
+     primer_bind     complement(5707..5733)
+                     /label=D448
+     primer_bind     5707..5733
+                     /label=D451
+     primer_bind     5708..5733
+                     /label=G733
+     primer_bind     complement(5708..5733)
+                     /label=G734
+     primer_bind     complement(5715..5734)
+                     /label=D090
+     primer_bind     complement(5717..5734)
+                     /label=8539
+     misc_feature    join(5734..5746,5747..5750)
+                     /label=Addition
+     misc_feature    5751..5825
+                     /label=polyA
+     primer_bind     complement(5826..5878)
+                     /label=Primer 3
+     misc_feature    5826..5874
+                     /label=HHRz
+                     /label=Ribozyme
+     primer_bind     5839..5858
+                     /label=MAA_o136
+     primer_bind     complement(5851..5870)
+                     /label=B085
+     primer_bind     complement(join(5868..5882,1..26))
+                     /label=7416
+     primer_bind     join(5869..5882,1..32)
+                     /label=2213
+     primer_bind     complement(join(5871..5882,1..30))
+                     /label=7417
+     misc_feature    5879..5882
+                     /label=addition
+ORIGIN
+        1 gctgcgaatt tcttatgatt tatgattttt attattaaat aagttataaa aaaaataagt
+       61 gtatacaaat tttaaagtga ctcttaggtt ttaaaacgaa aattcttatt cttgagtaac
+      121 tctttcctgt aggtcaggtt gctttctcag gtatagcatg aggtcgctcg agctcttaag
+      181 ggcaaggcat agacatatac aaggcctgtt caccgtcaga tgctgttcca tcatataaag
+      241 cagtatctaa accacataat gtgaaaccca ttcttctata agcatggata gcaggggcgt
+      301 taacattagt aacttctaac cataaatgac cggctcctct ctctcttgca aattctgtag
+      361 ccaaacccat caaagctctt cctacaccat gacctctatg ctctggggcg acttctatat
+      421 cttcaacggt caaccttcta ttccaacctg aataagaaac gactacaaaa ccagccaaat
+      481 caccgtcatc accgtatgct acgaaagttc ttgaatctgg gtcaccatct tctccgtcgt
+      541 cgctttcgtc atcagattca tcatctggaa agactttagt taatggagga tcgactggga
+      601 cttctcttaa ggtaaatcca tcaccggtgg cggttactct aaagacggtg tcggtggtga
+      661 atgaaccgtc taaagcctca attgcttcag catcaccagg gactgatgtt ctgtatctgt
+      721 aggctgtatc atctaaggta gtacccattt tataattatt ataaaaactt tcatatagag
+      781 ctccgtttct attatgaatt tcatttataa agtttatgta caaatatcat aaaaaaagag
+      841 aatctttttc atttcttagc atttttgacg aaatttgcta ttttgttaga gtcttttaca
+      901 ccatttgtct ccacacctcc gcttacatca acaccaataa cgccatttaa tctaagcgca
+      961 tcaccaacat tttctggcgt cagtccacca gctaacataa aatgtaagct ttcggggctc
+     1021 tcttgccttc caacccagtc agaaatcgag ttccaatcca aaagttcacc tgtcccacct
+     1081 gcttctgaat caaacaaggg aataaacgaa tgaggtttct gtgaagctgc actgagtagt
+     1141 atgttgcagt cttttggaaa tacgagtctt ttaataactg gcaaaccgag gaactcttgg
+     1201 tattcttgcc acgactcatc tccatgcagt tggacgatat caatgccgta atcattgacc
+     1261 agagccaaaa catcctcctt aggttgatta cgaaacacgc caaccaagta tttcggagtg
+     1321 cctgaactat ttttatatgc ttttacaaga cttgaaattt tccttgcaat aaccgggtca
+     1381 attgttctct ttctattggg cacacatata atacccagca agtcagcatc ggaatctaga
+     1441 gcacattctg cggcctctgt gctctgcaag ccgcaaactt tcaccaatgg accagaacta
+     1501 cctgtgaaat taataacaga cattttataa ttattataaa aactttcata taagagatat
+     1561 aaaatttaat atggaagaaa taagacaaga aagatacaac caaatgaaag aagctctaaa
+     1621 tagtgttgaa ggttataaag gaaaaattgt agcctcagac tcagattggt gtttcaaaga
+     1681 tcctcaaggc aatagaataa cagattttga tagtacttta agccagcccc gacacccgcc
+     1741 aacacccgct gacgcgccct gacgggcttg tctgctcccg gcatccgctt acagacaagc
+     1801 tgtgaccgtc tccgggagct gcatgtgtca gaggttttca ccgtcatcac cgaaacgcgc
+     1861 gagacgaaag gcaaaaaaaa ggctccaaaa ggagccttta attgtatcgg tttaccaatg
+     1921 cttaatcagt gaagccccta tttcagcaat ctgtctattt cgttcgtcca tagttgcctg
+     1981 actacccgtc gtgtagataa ctacgatacg ggaaggctta ccatctggtc caagtgcggc
+     2041 aatgataccc cgtgaaccac gctctcctgc cccagattta tcagcaataa accagccagc
+     2101 aggaagtgcc gaacgcagta gtggtcctgc aactttatcc gcttcaagcc agtctattaa
+     2161 ttgttgccgt gaagccagag taagtagttc gccagttaat agtttgcgta atgttgttgc
+     2221 cattgccgca ggcattgtgg tgtctcgctc gtcgtttggt atggcttcat tcagttctgg
+     2281 ttcccaacgg tcaaggcgag ttacatggtc acccatattg tgcaaaaaag cggttaattc
+     2341 cttcggtcca ccgatggttg tcagaagtaa gttcgccgca gtgttatcac tcatcgttat
+     2401 ggcggcacta cataattctc ttaccgtcat tccgtccgta aggtgctttt ctgtcactgg
+     2461 ggagtattca accaagtcat tctgcgaata gtgtattcgt cgtccgagtt gctcttgccc
+     2521 cgcatctaca cgggataata ctgctccaca tagcagaact ttgaaagtgc tcatcattgg
+     2581 aaaacgctct tcagggcgaa aactctcaag gattttaccg ctattcaagt ccagttctat
+     2641 gtatcccact cgtgccccca attggtcctc tgcgtctttt actttcacga gcgtttctgg
+     2701 gtgagcaaaa acaggaaggc aaaatgccgc aaaaaaggga ataagggcga cacggaaatg
+     2761 ttgaatactc atactcttcc tttttcaata ttattgaagc atttatcagg gttattgtct
+     2821 gatgagcgga tacatatttg aatgtattta gaaaaataaa caaatagggg aattaaaaaa
+     2881 aagcccgctc attaggcggg ctactagtcg gatatagttc ctcctttcag caaaaaaccc
+     2941 ctcaagaccc gtttagaggc cccaaggggt tatgctagtt attgctcagc ggtggcagca
+     3001 gccaactcag cttcctttcg ggctttgtta gcagccggat cttctagaag accccgtaga
+     3061 aaagatcaaa ggatcttctt gagatccttt ttttctgcgc gtaatctgct gcttgcaaac
+     3121 aaaaaaacca ccgctaccag cggtggtttg tttgccggat caagagctac caactctttt
+     3181 tccgaaggta actggcttca gcagagcgca gataccaaat actgttcttc tagtgtagcc
+     3241 gtagttaggc caccacttca agaactctgt agcaccgcct acatacctcg ctctgctaat
+     3301 cctgttacca gtggctgctg ccagtggcga taagtcgtgt cttaccgggt tggactcaag
+     3361 acgatagtta ccggataagg cgcagcggtc gggctgaacg gggggttcgt gcacacagcc
+     3421 cagcttggag cgaacgacct acaccgaact gagataccta cagcgtgagc tatgagaaag
+     3481 cgccacgctt cccgaaggga gaaaggcgga caggtatccg gtaagcggca gggtcggaac
+     3541 aggagagcgc acgagggagc ttccaggggg aaacgcctgg tatctttata gtcctgtcgg
+     3601 gtttcgccac ctctgacttg agcgtcgatt tttgtgatgc tcgtcagggg ggcggagcct
+     3661 atggaaaaac gccagcaacg cggccttttt acggttcctg gccttttgct ggccttttgc
+     3721 tcacatgttc tttcctgcgt tatcccctga ttctgtggat aaccgtatta ccgcctttga
+     3781 gtgagctgat accgctcgcc gcagccgaac gaccgagcgc agcgagtcag tgagcgagga
+     3841 agcggaagag cgcccaatac gcaaaccgcc tctccccgcg cgttggccga ttcattaatg
+     3901 cagctggcac gacaggtttc ccgactggaa agcgggcagt gagcgcaacg caatagtact
+     3961 ataatatatg aattacatta ttaatttaaa aactcgtgat gacctataca taggaagatc
+     4021 tatagaaaca aaaagattaa taactttcaa atatcagaaa aatatagaaa catgtgataa
+     4081 gctcatagac atataaaaat atgagattcc catctatctt caccgctgtt ttgttcgctg
+     4141 cttcttctgc tttggctgct ccagctaaca ccaccaccga agacgaaacc gctcaaatcc
+     4201 cagctgaagc tgttatcgac tactctgact tggaaggtga cttcgacgct gctgctttgc
+     4261 cattgtctaa ctctaccaac aacggtttgt cttctaccaa caccaccatc gcttctatcg
+     4321 ctgctaagga agaaggtgtt caattggaca agagagaagc tgacgcagag accgaaagtg
+     4381 aaacgtgatt tcatgcgtca ttttgaacat tttgtaaatc ttatttaata atgtgtgcgg
+     4441 caattcacat ttaatttatg aatgttttct taacatcgcg gcaactcaag aaacggcagg
+     4501 ttcggatctt agctactaga gaaagaggag aaatactaga tgcgtaaagg cgaagagctg
+     4561 ttcactggtg tcgtccctat tctggtggaa ctggatggtg atgtcaacgg tcataagttt
+     4621 tccgtgcgtg gcgagggtga aggtgacgca actaatggta aactgacgct gaagttcatc
+     4681 tgtactactg gtaaactgcc ggttccttgg ccgactctgg taacgacgct gacttatggt
+     4741 gttcagtgct ttgctcgtta tccggaccat atgaagcagc atgacttctt caagtccgcc
+     4801 atgccggaag gctatgtgca ggaacgcacg atttccttta aggatgacgg cacgtacaaa
+     4861 acgcgtgcgg aagtgaaatt tgaaggcgat accctggtaa accgcattga gctgaaaggc
+     4921 attgacttta aagaggacgg caatatcctg ggccataagc tggaatacaa ttttaacagc
+     4981 cacaatgttt acatcaccgc cgataaacaa aaaaatggca ttaaagcgaa ttttaaaatt
+     5041 cgccacaacg tggaggatgg cagcgtgcag ctggctgatc actaccagca aaacactcca
+     5101 atcggtgatg gtcctgttct gctgccagac aatcactatc tgagcacgca aagcgttctg
+     5161 tctaaagatc cgaacgagaa acgcgatcat atggttctgc tggagttcgt aaccgcagcg
+     5221 ggcatcacgc atggtatgga tgaactgtac aaatgaccag gcatcaaata aaacgaaagg
+     5281 ctcagtcgaa agactgggcc tttcgtttta tctgttgttt gtcggtgaac gctctctact
+     5341 agagtcacac tggctcacct tcgggtgggc ctttctgcgt ttataggtct cggttccaag
+     5401 gacaatagct cgacgattga aggtagatac ccatacgacg ttccagacta cgctctgcag
+     5461 gctagtggtg gtggtggttc tggtggtggt ggttctggtg gtggtggttc tgctagcgac
+     5521 gtccaggaac tgacaactat atgcgagcaa atcccctcac caactttaga atcgacgccg
+     5581 tactctttgt caacgactac tattttggcc aacgggaagg caatgcaagg agtttttgaa
+     5641 tattacaaat cagtaacgtt tgtcagtaat tgcggttctc acccctcaac aactagcaaa
+     5701 ggcagcccca taaacacaca gtatgttttt tgaatcctaa taatggccgc aaaaaaaaaa
+     5761 aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa
+     5821 aaaaacctgt caccggatgt gttttccggt ctgatgagtc cgtgaggacg aaacaggact
+     5881 ag
+//
