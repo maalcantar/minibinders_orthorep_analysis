@@ -1,9 +1,9 @@
-# Mapping the evolution of computationally designed protein binders
+# Mapping the evolution of computationally designed protein binders targeting IL-7Rα
 
 ## Introduction 
 
 This repository contains all code needed to reproduce DNA sequencing data processing and analyses described in:
-> Miguel A. Alcantar, Alexandra M. Paulk, Shoeib Moradi, Debjani Bhar, Grant L. J. Keller, Tanmoy Sanyal, Hua Bai, Gamze Camdere, Seog Joon Han, Mani Jain, Brandon Jew, Sezen Vatansever Inak, Christopher J. Langmead, Christine E. Tinberg, Irwin Chen, Chang C. Liu. “Mapping the evolution of computationally designed protein binders”. Submitted. bioRxiv DOI: https://doi.org/10.1101/2025.10.04.680454.
+> Miguel A. Alcantar, Alexandra M. Paulk, Sheree Johnstone, Shoeib Moradi, Debjani Bhar, Grant L. J. Keller, Tanmoy Sanyal, Shweta Karambelkar, Hua Bai, Gamze Camdere, Seog Joon Han, Mani Jain, Brandon Jew, Sezen Vatansever Inak, Jacob A. Hambalek, Angela Lei, Stephen T. Thibault, Christopher J. Langmead, Christine E. Tinberg, Irwin Chen, Chang C. Liu. “Mapping the evolution of computationally designed protein binders targeting IL-7Rα”. bioRxiv DOI: https://doi.org/10.1101/2025.10.04.680454.
 
 Code author: Miguel A. Alcantar.
 # Installation & requirements 
